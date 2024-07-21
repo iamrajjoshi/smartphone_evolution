@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Smartphone Evolution</title>
+    <script src="https://d3js.org/d3.v6.min.js"></script>
+    <script src="https://rawgit.com/susielu/d3-annotation/master/d3-annotation.min.js"></script>
+    <link rel="stylesheet" href="styles.css">
+    <style>
+        body { font-family: Arial, sans-serif; margin: 0 auto; max-width: 1000px; padding: 20px; }
+        .tooltip {
+            position: absolute;
+            text-align: center;
+            padding: 10px;
+            font: 12px sans-serif;
+            background: lightsteelblue;
+            border: 0px;
+            border-radius: 8px;
+            pointer-events: none;
+        }
+        button { margin-right: 10px; padding: 5px 10px; }
+        button.active { background-color: #4CAF50; color: white; }
+        #brandFilter { margin-left: 10px; }
+    </style>
+</head>
+<body>
+    <h1 id="title"></h1>
+    <p id="explanation"></p>
+    <div id="chart"></div>
+    <div id="navigation">
+        <button id="allBtn" class="active">All</button>
+        <button id="batteryBtn">Battery</button>
+        <button id="memoryBtn">Memory</button>
+        <button id="storageBtn">Storage</button>
+        <button id="cameraBtn">Camera</button>
+        <label for="brandFilter">Select Brand:</label>
+        <select id="brandFilter"></select>
+    </div>
+    <div id="scene-navigation">
+        <button id="prevBtn" class="disabled">Previous</button>
+        <button id="nextBtn">Next</button>
+    </div>
+    <div id="howToUse">
+        <h3>How to Use</h3>
+        <ul>
+            <li>Click on the buttons to switch between different features (Battery, Memory, Storage, Camera) or view the overall trend (All).</li>
+            <li>Use the dropdown menu to filter by brand (not applicable for the "All" view).</li>
+            <li>Hover over points to see detailed information about each smartphone.</li>
+            <li>Observe how smartphone features have evolved over time and compare different brands.</li>
+            <li>The annotation highlights the highest value for each feature or the peak year for phone releases.</li>
+        </ul>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,2033 @@
+Brand,Model,OS,Release_Date,Battery,Processor,Memory,Primary_Storage,Display_Size,Primary_Camera
+ARCHOS,50 Cesium,Windows 10 Mobile,2015,2100.0,Qualcomm Snapdragon 210,1.0,8.0,5.0,8.0
+ARCHOS,50 Diamond,Android 4.4.4,2015,2700.0,Qualcomm Snapdragon 615,2.0,16.0,5.0,16.0
+ARCHOS,50 Graphite,Android 7.0 Nougat,2017,2400.0,MediaTek,1.0,16.0,5.0,13.0
+ARCHOS,50 Helium Plus,Android 5.1 Lollipop,2015,2000.0,MediaTek,1.0,8.0,5.0,13.0
+ARCHOS,50c Oxygen,Android 4.2,2014,2000.0,MediaTek,1.0,8.0,5.0,8.0
+ARCHOS,55 Graphite,Android 7.0 Nougat,2017,3000.0,MediaTek,2.0,16.0,5.5,13.0
+ARCHOS,55 Helium Plus,Android 5.1 Lollipop,2015,2400.0,MediaTek,1.0,8.0,5.5,13.0
+ARCHOS,64 Xenon,Android 4.2,2014,2800.0,MediaTek,1.0,4.0,6.4,8.0
+ARCHOS,Diamond 2 Note,Android 6.0 Marshmallow,2016,3610.0,MediaTek Helio X10,3.0,32.0,6.0,16.0
+ARCHOS,Diamond Omega,Android 7.1 Nougat,2017,3100.0,Qualcomm Snapdragon 835,8.0,128.0,5.7,12.0
+AT&T,Impulse 4G,Android 2.2,2011,1500.0,,,0.0,3.8,5.0
+Acer,Liquid E600,Android ,2014,2500.0,Qualcomm Snapdragon 400,1.0,4.0,5.0,8.0
+Acer,Liquid E700,Android 4.4.2,2014,3500.0,,,16.0,5.0,8.0
+Acer,Liquid M330,Windows 10 Mobile,2015,2000.0,Qualcomm Snapdragon 210,1.0,8.0,4.5,5.0
+Acer,Liquid Z200,Android 4.4,2014,1300.0,MediaTek,0.5,4.0,4.0,2.0
+Acer,Liquid Z330,Android 5.1 Lollipop,2015,2000.0,Qualcomm Snapdragon 210,1.0,8.0,4.5,5.0
+Acer,Liquid Z410,Android 4.4.2,2015,2000.0,MediaTek,2.0,16.0,4.5,5.0
+Acer,Liquid Z5,Android 4.2.2,2014,,,1.0,4.0,5.0,5.0
+Acer,Liquid Z530,Android 5.1 Lollipop,2015,2420.0,MediaTek,2.0,16.0,5.0,8.0
+Acer,Liquid Z530S,Android 5.1 Lollipop,2015,2420.0,MediaTek,3.0,32.0,5.0,8.0
+Acer,Liquid Z630,Android 5.1 Lollipop,2015,4000.0,MediaTek,2.0,16.0,5.5,8.0
+Acer,Liquid Z630S,Android 5.1 Lollipop,2015,4000.0,MediaTek,3.0,32.0,5.5,8.0
+Acer,Liquid Zest Plus,Android 6.0 Marshmallow,2016,5000.0,MediaTek,2.0,16.0,5.5,13.0
+Acer,Stream,Android 2.1,2010,1400.0,Qualcomm Snapdragon S1,0.5,2.0,3.7,5.0
+Alcatel,1,Android 8.0 Oreo,2018,2000.0,MediaTek,1.0,8.0,5.0,5.0
+Alcatel,1S,Android 9.0 Pie,2019,3060.0,Spreadtrum SC9863A,3.0,32.0,5.5,13.0
+Alcatel,1S (2021),Android 11,2021,4000.0,Mediatek Helio P22,3.0,32.0,6.5,13.0
+Alcatel,1V,Android 9.0 Pie,2019,2460.0,Spreadtrum SC9863A,1.0,16.0,5.5,5.0
+Alcatel,1c (2019),Android 8.1 Oreo,2019,2000.0,Spreadtrum SC7731E,1.0,8.0,5.0,5.0
+Alcatel,1x,Android 8.1 Oreo,2018,2460.0,MediaTek,1.0,16.0,5.3,8.0
+Alcatel,1x (2019),Android 8.1 Oreo,2019,3000.0,MediaTek MT6739,2.0,16.0,5.5,13.0
+Alcatel,1x Evolve,Android 8.1 Oreo,2018,2460.0,MediaTek,2.0,16.0,5.3,8.0
+Alcatel,3L (2019),Android 9.0 Pie,2019,3500.0,Qualcomm Snapdragon 429,2.0,16.0,5.9,13.0
+Alcatel,3L (2021),Android 11,2021,4000.0,Mediatek Helio P22,4.0,64.0,6.5,48.0
+Alcatel,3V (2019),Android 9.0 Pie,2019,4000.0,MediaTek Helio P22,3.0,32.0,6.7,16.0
+Alcatel,3X (2019),Android 9.0 Pie,2019,4000.0,MediaTek MT6763V/V,4.0,64.0,6.5,16.0
+Alcatel,3v,Android 8.0 Oreo,2018,3000.0,MediaTek,2.0,16.0,6.0,12.0
+Alcatel,5,Android 7.0 Nougat,2018,3000.0,MediaTek,3.0,32.0,5.7,12.0
+Alcatel,7,Android 8.1 Oreo,2018,4000.0,MediaTek Helio P23,2.0,32.0,6.0,12.0
+Alcatel,A3,Android 6.0 Marshmallow,2017,2460.0,MediaTek,1.5,16.0,5.0,13.0
+Alcatel,A3 XL,Android 7.0 Nougat,2017,3000.0,MediaTek,1.0,8.0,6.0,8.0
+Alcatel,A30,Android 7.0 Nougat,2017,2460.0,Qualcomm Snapdragon 210,2.0,16.0,5.0,8.0
+Alcatel,A30 Fierce,Android 7.0 Nougat,2017,3000.0,MediaTek,2.0,32.0,5.5,13.0
+Alcatel,A30 Plus,Android 7.0 Nougat,2017,3000.0,MediaTek,2.0,16.0,5.5,13.0
+Alcatel,A5 LED,Android 6.0 Marshmallow,2017,2800.0,MediaTek,2.0,16.0,5.2,8.0
+Alcatel,A50,Android 7.0 Nougat,2017,2800.0,MediaTek,2.0,16.0,5.2,13.0
+Alcatel,A7 XL,Android 7.1 Nougat,2017,4000.0,MediaTek,3.0,32.0,6.0,12.0
+Alcatel,Apprise,Android 10,2020,3000.0,MediaTek MT6739WW,2.0,16.0,5.5,5.0
+Alcatel,Avalon V,Android 8.1 Oreo,2019,2460.0,Qualcomm Snapdragon 425,2.0,16.0,5.3,5.0
+Alcatel,Dawn,Android 6.0 Marshmallow,2016,1780.0,Qualcomm Snapdragon 210,1.0,8.0,4.5,5.0
+Alcatel,Fierce 4,Android 6.0 Marshmallow,2016,2500.0,Qualcomm Snapdragon 210,2.0,16.0,5.5,8.0
+Alcatel,Flash 2,Android 5.1 Lollipop,2015,3000.0,MediaTek,2.0,16.0,5.0,13.0
+Alcatel,IDOL 5,Android 7.0 Nougat,2017,2850.0,MediaTek Helio P20,2.0,32.0,5.2,12.0
+Alcatel,Idol 4,Android 6.0 Marshmallow,2016,2610.0,Qualcomm Snapdragon 617,3.0,16.0,5.2,13.0
+Alcatel,Idol 4S with Windows,Windows 10 Mobile,2016,3000.0,Qualcomm Snapdragon 820,4.0,64.0,5.5,21.0
+Alcatel,Idol 4s,Android 6.0 Marshmallow,2016,3000.0,Qualcomm Snapdragon 652,3.0,32.0,5.5,16.0
+Alcatel,Idol 5S,Android 7.1 Nougat,2017,2620.0,Qualcomm Snapdragon 625,3.0,32.0,5.2,12.0
+Alcatel,Insight,Android 9.0 Pie,2019,2200.0,MediaTek MT6739,1.5,16.0,5.0,5.0
+Alcatel,Lume,Android 6.0 Marshmallow,2016,1500.0,MediaTek,1.0,8.0,4.0,2.0
+Alcatel,ONYX,Android 8.1 Oreo,2019,3000.0,MediaTek MT6739,2.0,32.0,5.5,13.0
+Alcatel,OneTouch 988 Shockwave,Android 2.3.5,2012,1400.0,,0.5,1.0,3.5,3.0
+Alcatel,OneTouch Conquest,Android 5.0 Lollipop,2015,2500.0,Qualcomm Snapdragon 410,1.0,8.0,5.0,5.0
+Alcatel,OneTouch Elevate,Android 5.1 Lollipop,2015,2000.0,Qualcomm Snapdragon 210,1.0,8.0,4.5,5.0
+Alcatel,OneTouch Evolve,Android 4.1,2013,1400.0,MediaTek,0.5,4.0,4.0,5.0
+Alcatel,OneTouch Fierce,Android 4.2.2,2013,1800.0,MediaTek,1.0,4.0,4.5,5.0
+Alcatel,OneTouch Fierce XL,Android 5.1 Lollipop,2015,2500.0,Qualcomm Snapdragon 210,2.0,16.0,5.5,8.0
+Alcatel,OneTouch Fire E,Firefox 1.3,2014,1700.0,,0.5,4.0,4.5,5.0
+Alcatel,OneTouch Flash,Android 4.4,2014,3200.0,,1.0,8.0,5.5,13.0
+Alcatel,OneTouch Flash Plus,Android 4.4.4,2015,3500.0,MediaTek,2.0,16.0,5.5,13.0
+Alcatel,OneTouch Hero,Android 4.2,2014,3400.0,,2.0,8.0,6.0,13.0
+Alcatel,"OneTouch IDOL 3 (4.7"")",Android 5.0 Lollipop,2015,2000.0,Qualcomm Snapdragon 410,1.5,16.0,4.7,13.0
+Alcatel,OneTouch IDOL 3C,Android 5.0 Lollipop,2015,2910.0,Qualcomm Snapdragon 615,2.0,16.0,5.5,13.0
+Alcatel,OneTouch Idol Alpha,Android 4.2,2014,2000.0,,1.0,16.0,4.7,13.0
+Alcatel,OneTouch Idol Mini,Android 4.2,2013,1700.0,,0.5,4.0,4.3,5.0
+Alcatel,OneTouch Idol S,Android 4.2,2013,2000.0,Qualcomm Snapdragon 400,1.0,4.0,4.7,8.0
+Alcatel,OneTouch Idol X,Android 4.4.2,2013,2000.0,MediaTek,2.0,8.0,5.0,13.0
+Alcatel,OneTouch PIXI 3 (4),Android 4.4,2015,1300.0,MediaTek,0.5,4.0,4.0,5.0
+Alcatel,OneTouch PIXI 3 (4.5),Android 4.4,2015,1400.0,MediaTek,1.0,4.0,4.5,5.0
+Alcatel,OneTouch PIXI First,Android 4.4,2015,1450.0,Spreadtrum,0.5,4.0,4.0,5.0
+Alcatel,OneTouch POP 2 (5),Android 5.0 Lollipop,2015,2500.0,Qualcomm Snapdragon 410,1.0,8.0,5.0,5.0
+Alcatel,OneTouch POP 2 (5) Premium,Android 5.0 Lollipop,2015,2500.0,Qualcomm Snapdragon 410,1.0,8.0,5.0,8.0
+Alcatel,OneTouch POP C3,Android 4.2,2014,1300.0,,0.5,4.0,4.0,5.0
+Alcatel,OneTouch POP C5,Android 4.2.2,2013,1800.0,,0.5,4.0,4.5,5.0
+Alcatel,OneTouch POP C7,Android 4.2,2014,2000.0,,0.5,4.0,5.0,5.0
+Alcatel,OneTouch POP Star (3G),Android 5.0 Lollipop,2015,2000.0,MediaTek,1.0,8.0,5.0,8.0
+Alcatel,OneTouch POP Star (4G),Android 5.0 Lollipop,2015,2000.0,MediaTek,1.0,8.0,5.0,8.0
+Alcatel,OneTouch POP UP,Android 5.0 Lollipop,2015,2000.0,Qualcomm Snapdragon 615,2.0,16.0,5.0,13.0
+Alcatel,OneTouch Pop 2 (4),Android 5.0 Lollipop,2015,2000.0,Qualcomm Snapdragon 410,1.0,4.0,4.0,8.0
+Alcatel,OneTouch Star,Android 4.1,2013,1500.0,,0.5,4.0,4.0,5.0
+Alcatel,POP 4s,Android 6.0 Marshmallow,2016,2960.0,MediaTek Helio P10,2.0,16.0,5.5,13.0
+Alcatel,Pixi 4 (3.5),Android 5.1 Lollipop,2016,1300.0,MediaTek,0.5,4.0,3.5,2.0
+Alcatel,Pixi 4 (6),Android 6.0 Marshmallow,2016,2580.0,Qualcomm Snapdragon 210,2.0,16.0,6.0,8.0
+Alcatel,Pixi 4 Plus Power,Android 6.0 Marshmallow,2016,5000.0,,1.0,8.0,5.5,13.0
+Alcatel,SHINE LITE,Android 6.0 Marshmallow,2016,2460.0,MediaTek,2.0,16.0,5.0,13.0
+Alcatel,Streak,Android 6.0 Marshmallow,2016,1780.0,Qualcomm Snapdragon 210,1.0,8.0,4.5,5.0
+Alcatel,Tru,Android 5.0 Lollipop,2016,2000.0,Qualcomm Snapdragon 210,1.0,8.0,5.0,5.0
+Alcatel,U5,Android 6.0 Marshmallow,2017,2050.0,MediaTek,1.0,8.0,5.0,5.0
+Alcatel,Verso,Android 7.0 Nougat,2018,2050.0,Qualcomm Snapdragon 210,2.0,16.0,5.0,5.0
+Apple,iPhone,iOS 3.x,2007,1400.0,,0.1,16.0,3.5,2.0
+Apple,iPhone 11,iOS 15.x,2019,3110.0,Apple A13 Bionic,4.0,64.0,6.1,12.0
+Apple,iPhone 11 Pro,iOS 15.x,2019,3046.0,Apple A13 Bionic,4.0,64.0,5.8,12.0
+Apple,iPhone 11 Pro Max,iOS 15.x,2019,3969.0,Apple A13 Bionic,4.0,64.0,6.5,12.0
+Apple,iPhone 12,iOS 15.x,2020,2815.0,Apple A14 Bionic,4.0,64.0,6.1,12.0
+Apple,iPhone 12 Pro,iOS 15.x,2020,2815.0,Apple A14 Bionic,6.0,128.0,6.1,12.0
+Apple,iPhone 12 Pro Max,iOS 15.x,2020,3687.0,Apple A14 Bionic,6.0,128.0,6.7,12.0
+Apple,iPhone 12 mini,iOS 15.x,2020,2227.0,Apple A14 Bionic,4.0,64.0,5.4,12.0
+Apple,iPhone 13,iOS 15.x,2021,3227.0,Apple A15 Bionic,4.0,128.0,6.1,12.0
+Apple,iPhone 13 Pro,iOS 15.x,2021,3095.0,Apple A15 Bionic,6.0,128.0,6.1,12.0
+Apple,iPhone 13 Pro Max,iOS 15.x,2021,4352.0,Apple A15 Bionic,6.0,128.0,6.7,12.0
+Apple,iPhone 13 mini,iOS 15.x,2021,2406.0,Apple A15 Bionic,4.0,128.0,5.4,12.0
+Apple,iPhone 3G,iOS 4.x,2008,1150.0,,0.1,16.0,3.5,2.0
+Apple,iPhone 3GS,iOS 6.1,2009,1219.0,,0.25,32.0,3.5,3.0
+Apple,iPhone 4,iOS 7.x,2010,1420.0,Apple A4,0.5,32.0,3.5,5.0
+Apple,iPhone 4 Verizon,iOS 7.x,2011,1420.0,Apple A4,0.5,32.0,3.5,5.0
+Apple,iPhone 4s,iOS 9.x,2011,,Apple A5,0.5,64.0,3.5,8.0
+Apple,iPhone 5,iOS 10.x,2012,1440.0,Apple A6,1.0,64.0,4.0,8.0
+Apple,iPhone 5c,iOS 10.x,2013,1507.0,Apple A6,1.0,32.0,4.0,8.0
+Apple,iPhone 5s,iOS 12.x,2013,1570.0,Apple A7,1.0,64.0,4.0,8.0
+Apple,iPhone 6,iOS 12.x,2014,1810.0,Apple A8,1.0,128.0,,8.0
+Apple,iPhone 6 Plus,iOS 12.x,2014,2915.0,Apple A8,1.0,128.0,5.5,8.0
+Apple,iPhone 6s,iOS 15.x,2015,1715.0,Apple A9 APL0898,2.0,128.0,4.7,12.0
+Apple,iPhone 6s Plus,iOS 15.x,2015,2750.0,Apple A9,2.0,128.0,5.5,12.0
+Apple,iPhone 7,iOS 15.x,2016,1960.0,Apple A10 Fusion,2.0,256.0,4.7,12.0
+Apple,iPhone 7 Plus,iOS 15.x,2016,2900.0,Apple A10 Fusion,3.0,256.0,5.5,12.0
+Apple,iPhone 8,iOS 15.x,2017,1821.0,Apple A11 Bionic,2.0,256.0,4.7,12.0
+Apple,iPhone 8 Plus,iOS 15.x,2017,2691.0,Apple A11 Bionic,3.0,256.0,5.5,12.0
+Apple,iPhone SE,iOS 14.x,2016,1624.0,,,128.0,4.0,12.0
+Apple,iPhone SE (2020),iOS 15.x,2020,1821.0,Apple A13 Bionic,3.0,64.0,4.7,12.0
+Apple,iPhone SE (2022),iOS 15.x,2022,2018.0,Apple A15 Bionic,4.0,64.0,4.7,12.0
+Apple,iPhone X,iOS 15.x,2017,2716.0,Apple A11 Bionic,3.0,256.0,5.8,12.0
+Apple,iPhone XR,iOS 15.x,2018,2942.0,Apple A12 Bionic,3.0,64.0,6.1,12.0
+Apple,iPhone XS,iOS 15.x,2018,2659.0,Apple A12 Bionic,4.0,64.0,5.8,12.0
+Apple,iPhone XS Max,iOS 15.x,2018,3179.0,Apple A12 Bionic,4.0,64.0,6.5,12.0
+Asus,P835,Windows Mobile Professional 6.1,2009,1100.0,Qualcomm MSM7201A,0.3,4.0,3.5,5.0
+Asus,ROG Phone,Android 9.0 Pie,2018,4000.0,Qualcomm Snapdragon 845,8.0,512.0,6.0,12.0
+Asus,ROG Phone 3 Strix Edition,Android 10,2020,6000.0,Qualcomm Snapdragon 865+,8.0,256.0,6.6,64.0
+Asus,ROG Phone 5,Android 11,2021,6000.0,Snapdragon 888,8.0,128.0,6.8,64.0
+Asus,ROG Phone 5 Ultimate,Android 11,2021,6000.0,Snapdragon 888,18.0,512.0,6.8,64.0
+Asus,ROG Phone 6,Android 12,2022,6000.0,Qualcomm Snapdragon 8+ Gen 1,16.0,512.0,6.8,50.0
+Asus,ROG Phone 6 Pro,Android 12,2022,6000.0,Qualcomm Snapdragon 8+ Gen 1,18.0,512.0,6.8,50.0
+Asus,ROG Phone II,Android 11,2019,6000.0,Qualcomm Snapdragon 855 Plus,12.0,512.0,6.6,48.0
+Asus,ZenFone 2 (ZE500CL),Android 5.0 Lollipop,2015,2500.0,Intel Atom,2.0,16.0,5.0,8.0
+Asus,ZenFone 2 Laser,Android 6.0 Marshmallow,2015,2400.0,Qualcomm Snapdragon 410,2.0,16.0,5.0,13.0
+Asus,ZenFone 2 Laser (US),Android 5.0 Lollipop,2015,3000.0,Qualcomm Snapdragon 615,3.0,32.0,5.5,13.0
+Asus,ZenFone 2 Laser 5.5-inch,Android 5.0 Lollipop,2015,3000.0,Qualcomm Snapdragon 410,2.0,16.0,5.5,13.0
+Asus,ZenFone 2E,Android 5.0 Lollipop,2015,2500.0,Intel Atom,1.0,8.0,5.0,8.0
+Asus,ZenFone 3,Android 8.0 Oreo,2016,3000.0,Qualcomm Snapdragon 625,4.0,64.0,5.5,16.0
+Asus,ZenFone 3 Deluxe,Android 8.0 Oreo,2016,3000.0,Qualcomm Snapdragon 821,6.0,256.0,5.7,23.0
+Asus,ZenFone 3 Deluxe (ZS550KL),Android 8.0 Oreo,2016,3000.0,Qualcomm Snapdragon 625,4.0,64.0,5.5,16.0
+Asus,ZenFone 3 Ultra,Android 6.0 Marshmallow,2016,4600.0,Qualcomm Snapdragon 652,4.0,128.0,6.8,23.0
+Asus,ZenFone 3 Zoom,Android 8.0 Oreo,2017,5000.0,Qualcomm Snapdragon 625,4.0,128.0,5.5,12.0
+Asus,ZenFone 4,Android 8.0 Oreo,2017,3300.0,Qualcomm Snapdragon 630,4.0,64.0,5.5,12.0
+Asus,ZenFone 4 Max,Android 8.1 Oreo,2017,5000.0,Qualcomm Snapdragon 430,4.0,64.0,5.5,13.0
+Asus,ZenFone 4 Pro,Android 8.0 Oreo,2017,3600.0,Qualcomm Snapdragon 835,6.0,64.0,5.5,12.0
+Asus,ZenFone 4 Selfie,Android 8.1 Oreo,2017,3000.0,Qualcomm Snapdragon 430,4.0,64.0,5.5,16.0
+Asus,ZenFone 4 Selfie Pro,Android 7.0 Nougat,2017,3000.0,Qualcomm Snapdragon 625,4.0,64.0,5.5,16.0
+Asus,ZenFone 5 (ZE620KL),Android 9.0 Pie,2018,3300.0,Qualcomm Snapdragon 636,6.0,64.0,6.2,12.0
+Asus,ZenFone 5Q,Android 9.0 Pie,2018,3300.0,Qualcomm Snapdragon 630,4.0,64.0,6.0,16.0
+Asus,ZenFone 6 (2019),Android 11,2019,5000.0,Qualcomm Snapdragon 855,6.0,64.0,6.4,48.0
+Asus,ZenFone 7,Android 11,2020,5000.0,Qualcomm Snapdragon 865,6.0,128.0,6.7,64.0
+Asus,ZenFone 7 Pro,Android 11,2020,5000.0,Qualcomm Snapdragon 865+,8.0,256.0,6.7,64.0
+Asus,ZenFone 8,Android 11,2021,4000.0,Qualcomm Snapdragon 888,6.0,128.0,5.9,64.0
+Asus,ZenFone 8 Flip,Android 11,2021,5000.0,Qualcomm Snapdragon 888,8.0,128.0,6.7,64.0
+Asus,ZenFone AR,Android 7.0 Nougat,2017,3300.0,Qualcomm Snapdragon 821,6.0,128.0,5.7,23.0
+Asus,ZenFone Live,Android 6.0 Marshmallow,2017,2650.0,Qualcomm Snapdragon 410,2.0,32.0,5.0,13.0
+Asus,ZenFone Live (L1),Android 8.0 Oreo,2018,3000.0,Qualcomm Snapdragon 425,1.0,16.0,5.5,13.0
+Asus,ZenFone Live (L2),Android 8.1 Oreo,2019,3000.0,Qualcomm Snapdragon 430,2.0,32.0,5.5,13.0
+Asus,ZenFone Max,Android 6.0 Marshmallow,2016,5000.0,Qualcomm Snapdragon 410,2.0,16.0,5.5,13.0
+Asus,ZenFone Max (M2),Android 9.0 Pie,2018,4000.0,Qualcomm Snapdragon 632,4.0,64.0,6.3,13.0
+Asus,ZenFone Max Pro (M1),Android 9.0 Pie,2018,5000.0,Qualcomm Snapdragon 636,4.0,64.0,6.0,13.0
+Asus,ZenFone Max Pro (M2),Android 9.0 Pie,2018,5000.0,Qualcomm Snapdragon 660,6.0,128.0,6.3,12.0
+Asus,ZenFone Selfie,Android 5.0 Lollipop,2015,3000.0,Qualcomm Snapdragon 615,3.0,32.0,5.5,13.0
+Asus,ZenFone V,Android 7.0 Nougat,2017,3000.0,Qualcomm Snapdragon 820,4.0,32.0,5.2,23.0
+Asus,ZenFone V Live,Android 8.0 Oreo,2017,3000.0,Qualcomm Snapdragon 425,2.0,16.0,5.0,13.0
+Asus,ZenFone Zoom,Android 5.0 Lollipop,2015,3000.0,Intel Atom,4.0,64.0,5.5,13.0
+Asus,Zenfone 2 Laser 6-inch,Android 5.0 Lollipop,2015,3000.0,Qualcomm Snapdragon 616,3.0,32.0,6.0,13.0
+Asus,Zenfone 3s Max,Android 7.0 Nougat,2017,5000.0,MediaTek,3.0,32.0,5.2,13.0
+Asus,Zenfone 9,Android 12,2022,4300.0,Qualcomm Snapdragon 8+ Gen1,8.0,128.0,5.9,50.0
+BLU,Advance 4.0 L,Android 4.4,2015,1300.0,MediaTek,0.5,4.0,4.0,2.0
+BLU,Bold N1,Android 9.0 Pie,2019,3500.0,Mediatek Helio P70,4.0,128.0,6.4,16.0
+BLU,Dash 4.0,Android 4.2,2013,1500.0,,0.5,4.0,4.0,5.0
+BLU,Dash 4.5,Android 4.2,2013,2000.0,,0.5,4.0,4.5,5.0
+BLU,Dash 5.0+,Android 4.4,2014,2000.0,,0.5,4.0,5.0,5.0
+BLU,Dash 5.5,Android 4.2,2014,2600.0,,0.5,4.0,5.5,5.0
+BLU,Dash JR,Android 2.3,2013,1000.0,,0.25,0.0,3.5,2.0
+BLU,Dash L,Android 4.4,2015,,,0.5,4.0,4.0,3.0
+BLU,Dash Music 4.0,Android 4.2,2013,1500.0,,0.5,4.0,4.0,3.0
+BLU,Energy X Plus,Android 5.0 Lollipop,2015,4000.0,MediaTek,1.0,8.0,5.5,8.0
+BLU,G80,Android 9.0 Pie,2020,4000.0,Mediatek Helio P23,3.0,64.0,6.5,13.0
+BLU,G9,Android 9.0 Pie,2019,4000.0,MediaTek Helio P22,4.0,64.0,6.3,13.0
+BLU,G9 Pro,Android 9.0 Pie,2019,4000.0,MediaTek Helio P60,4.0,128.0,6.3,16.0
+BLU,G90,Android 10,2020,4000.0,Mediatek Helio A25,4.0,64.0,6.5,16.0
+BLU,G90 Pro,Android 10,2020,5100.0,Mediatek Helio G90T,4.0,128.0,6.5,48.0
+BLU,Grand M3,Android 8.0 Oreo,2018,2500.0,MediaTek,1.0,16.0,5.3,8.0
+BLU,Life 8,Android 4.2,2014,2000.0,MediaTek,1.0,8.0,5.0,8.0
+BLU,Life Max,Android 6.0 Marshmallow,2017,3700.0,MediaTek,2.0,16.0,5.5,8.0
+BLU,Life One X2,Android 6.0 Marshmallow,2016,3000.0,Qualcomm Snapdragon 430,4.0,64.0,5.2,16.0
+BLU,Life One X3,Android 7.0 Nougat,2017,5000.0,MediaTek,3.0,32.0,5.5,13.0
+BLU,Life Play,Android 4.2,2013,1800.0,MediaTek,1.0,4.0,4.7,8.0
+BLU,Life Play 2,Android 4.4,2014,1800.0,MediaTek,1.0,8.0,4.7,8.0
+BLU,Life Pure XL,Android 4.2,2014,,Qualcomm Snapdragon 800,3.0,32.0,5.5,16.0
+BLU,Life View,Android 4.2,2013,2600.0,MediaTek,1.0,16.0,5.7,12.0
+BLU,Life X8,Android 4.4,2015,2500.0,MediaTek,1.0,8.0,5.0,8.0
+BLU,Pure XL,Android 5.1 Lollipop,2015,3500.0,MediaTek Helio X10,3.0,64.0,6.0,24.0
+BLU,Quattro 4.5 HD,Android 4.0,2013,1800.0,Nvidia Tegra 3,1.0,16.0,4.5,8.0
+BLU,R1 HD,Android 6.0 Marshmallow,2016,2500.0,MediaTek,2.0,16.0,5.0,8.0
+BLU,R2 Plus,Android 7.0 Nougat,2018,3000.0,MediaTek,3.0,32.0,5.5,13.0
+BLU,Star 4.5,Android 4.4,2014,1700.0,MediaTek,0.5,4.0,4.5,5.0
+BLU,Studio 5.0,Android 4.1,2013,2000.0,MediaTek,0.5,4.0,5.0,5.0
+BLU,Studio 5.5 K,Android 4.4,2015,,,0.5,4.0,5.5,3.0
+BLU,Studio 5.5C,Android 5.0 Lollipop,2015,2000.0,MediaTek,0.5,4.0,5.5,5.0
+BLU,Studio 6.0 HD,Android 4.4,2014,3000.0,,1.0,8.0,6.0,8.0
+BLU,Studio 7.0,Android 4.4.2,2014,3000.0,,1.0,8.0,7.0,5.0
+BLU,Studio 7.0 II,Android 5.0 Lollipop,2015,3000.0,MediaTek,1.0,8.0,7.0,5.0
+BLU,Studio 7.0 LTE,Android 5.1 Lollipop,2015,3700.0,Qualcomm Snapdragon 410,1.0,16.0,7.0,8.0
+BLU,Studio C,Android 5.0 Lollipop,2015,3000.0,MediaTek,1.0,8.0,5.0,8.0
+BLU,Studio C 5+5,Android 5.0 Lollipop,2015,2000.0,MediaTek,1.0,8.0,5.0,5.0
+BLU,Studio C 5+5 LTE,Android ,2015,2000.0,Qualcomm Snapdragon 210,1.0,8.0,5.0,5.0
+BLU,Studio C HD,Android 5.1 Lollipop,2016,2000.0,MediaTek,1.0,8.0,5.0,8.0
+BLU,Studio C Super Camera,Android 5.0 Lollipop,2015,2800.0,MediaTek,1.0,8.0,5.0,8.0
+BLU,Studio Energy,Android 4.4.2,2015,5000.0,,1.0,8.0,5.0,8.0
+BLU,Studio G,Android 4.4.2,2015,2000.0,,0.5,4.0,5.0,5.0
+BLU,Studio XL,Android 5.0 Lollipop,2015,3000.0,MediaTek,1.0,8.0,6.0,8.0
+BLU,Studio XL 2,Android 6.0 Marshmallow,2016,4900.0,MediaTek,2.0,16.0,6.0,13.0
+BLU,Studio mini LTE,Android 4.3,2014,1850.0,Qualcomm Snapdragon 410,1.0,4.0,4.5,5.0
+BLU,VIVO GO,Android 9.0 Pie,2018,2600.0,MediaTek,1.0,16.0,6.0,8.0
+BLU,VIVO XI,Android 8.1 Oreo,2018,3000.0,MediaTek Helio P22,3.0,32.0,5.9,16.0
+BLU,VIVO XI+,Android 8.1 Oreo,2018,3050.0,MediaTek Helio P60,6.0,128.0,6.2,16.0
+BLU,VIVO XL4,Android 8.1 Oreo,2018,4000.0,MediaTek Helio P22,3.0,32.0,6.2,13.0
+BLU,Vivo 8,Android 7.0 Nougat,2017,4010.0,MediaTek Helio P10,4.0,64.0,5.5,13.0
+BLU,Vivo 8L,Android 7.0 Nougat,2017,4000.0,MediaTek,3.0,32.0,5.3,13.0
+BLU,Vivo Air,Android 4.4.2,2015,2100.0,MediaTek,1.0,16.0,4.8,8.0
+BLU,Vivo Air LTE,Android 5.0 Lollipop,2015,2050.0,Qualcomm Snapdragon 410,2.0,16.0,4.8,8.0
+BLU,Vivo Selfie,Android 5.0 Lollipop,2015,,MediaTek,1.0,8.0,4.8,8.0
+BLU,Vivo X,Android 7.0 Nougat,2018,4010.0,MediaTek Helio P25,4.0,64.0,6.0,13.0
+BLU,Win HD LTE,Windows Phone 8.1,2015,2500.0,Qualcomm Snapdragon 410,1.0,8.0,5.0,8.0
+BLU,Win JR LTE,Windows Phone 8.1,2015,2000.0,Qualcomm Snapdragon 410,0.5,4.0,4.5,5.0
+BlackBerry,9720,BlackBerry 7.1,2013,1450.0,,0.5,0.0,2.8,5.0
+BlackBerry,Bold 9000,BlackBerry 5.0.x,2008,1500.0,,,1.0,2.6,2.0
+BlackBerry,Bold 9650,BlackBerry 5.0.x,2010,1400.0,,,0.0,2.4,3.0
+BlackBerry,Bold 9900,BlackBerry 7.1,2011,1230.0,,0.75,8.0,2.8,5.0
+BlackBerry,Bold 9930,BlackBerry 7.1,2011,1230.0,,0.75,8.0,2.8,5.0
+BlackBerry,Classic,BlackBerry 10.3,2014,2515.0,Qualcomm Snapdragon S4,2.0,16.0,3.5,8.0
+BlackBerry,Curve 9350,BlackBerry 7,2011,1000.0,,0.5,0.0,2.4,5.0
+BlackBerry,Curve 9360,BlackBerry 7.1,2011,1000.0,,0.5,0.0,2.4,5.0
+BlackBerry,DTEK50,Android 6.0 Marshmallow,2016,2610.0,Qualcomm Snapdragon 617,3.0,16.0,5.2,13.0
+BlackBerry,DTEK60,Android 6.0 Marshmallow,2016,3000.0,Qualcomm Snapdragon 820,4.0,32.0,5.5,21.0
+BlackBerry,KEY2,Android 8.1 Oreo,2018,3500.0,Qualcomm Snapdragon 660,6.0,128.0,4.5,12.0
+BlackBerry,KEY2 LE,Android 8.1 Oreo,2018,3000.0,Qualcomm Snapdragon 636,4.0,64.0,4.5,13.0
+BlackBerry,KEYone,Android 8.1 Oreo,2017,3505.0,Qualcomm Snapdragon 625,3.0,32.0,4.5,12.0
+BlackBerry,Motion,Android 8.0 Oreo,2017,4000.0,Qualcomm Snapdragon 625,4.0,32.0,5.5,12.0
+BlackBerry,Passport,BlackBerry 10.3,2014,3450.0,Qualcomm Snapdragon 801,3.0,32.0,4.5,13.0
+BlackBerry,Pearl Flip 8220,BlackBerry ,2008,900.0,,,0.0,2.6,2.0
+BlackBerry,Priv,Android 6.0 Marshmallow,2015,3410.0,Qualcomm Snapdragon 808,3.0,32.0,5.4,18.0
+BlackBerry,Q10,BlackBerry 10.3,2013,2100.0,Qualcomm Snapdragon S4 Plus,2.0,16.0,3.1,8.0
+BlackBerry,Storm 9500,BlackBerry 4.7.x,2008,1400.0,,0.1,1.0,3.2,3.0
+BlackBerry,Storm 9530,BlackBerry 4.7.x,2008,1400.0,,0.1,1.0,3.2,3.0
+BlackBerry,Storm2 9520,BlackBerry 5.0.x,2009,1400.0,,,2.0,3.2,3.0
+BlackBerry,Storm2 9550,BlackBerry 5.0.x,2009,1400.0,,,2.0,3.2,3.0
+BlackBerry,Torch 9800,BlackBerry 6.0.x,2010,1300.0,,0.5,4.0,3.2,5.0
+BlackBerry,Torch 9810,BlackBerry 7.1,2011,1270.0,,0.75,8.0,3.2,5.0
+BlackBerry,Torch 9850,BlackBerry 7.1,2011,1230.0,,0.75,4.0,3.7,5.0
+BlackBerry,Torch 9860,BlackBerry 7,2011,1230.0,,0.75,4.0,3.7,5.0
+BlackBerry,Z10,BlackBerry 10.3,2013,1800.0,Qualcomm Snapdragon S4 Plus,2.0,16.0,4.2,8.0
+Blackview,A90,Android 11,2021,4280.0,Mediatek Helio P60,4.0,64.0,6.4,12.0
+Blackview,BL8800,Android 11,2022,8380.0,MediaTek Dimensity 700,8.0,128.0,6.6,50.0
+Blackview,BL8800 Pro,Android 11,2022,8380.0,MediaTek Dimensity 700,8.0,128.0,6.6,50.0
+Blackview,BV8800,Android 11,2022,8380.0,Mediatek Helio G96,8.0,128.0,6.6,50.0
+CAT,B15,Android 4.1,2013,2000.0,MediaTek,0.5,4.0,4.0,5.0
+CAT,S31,Android 7.0 Nougat,2017,4000.0,Qualcomm Snapdragon 210,2.0,16.0,4.7,8.0
+CAT,S40,Android 5.1 Lollipop,2015,3000.0,Qualcomm Snapdragon 210,1.0,16.0,4.7,8.0
+CAT,S41,Android 7.0 Nougat,2017,5000.0,MediaTek Helio P20,3.0,32.0,5.0,13.0
+CAT,S42,Android 10,2020,4200.0,MediaTek Helio A20,3.0,32.0,5.5,13.0
+CAT,S48c,Android 8.1 Oreo,2018,4000.0,Qualcomm Snapdragon 630,4.0,32.0,5.0,13.0
+CAT,S50,Android 4.4,2014,2630.0,Qualcomm Snapdragon 400,2.0,8.0,4.7,8.0
+CAT,S60,Android 6.0 Marshmallow,2016,3800.0,Qualcomm Snapdragon 617,3.0,32.0,4.7,13.0
+CAT,S61,Android 8.0 Oreo,2018,4500.0,Qualcomm Snapdragon 630,4.0,64.0,5.2,16.0
+CAT,S62 Pro,Android 10,2020,4000.0,Qualcomm Snapdragon 660,6.0,128.0,5.7,12.0
+Casio,G'zOne Commando 4G LTE,Android 4.0,2013,1800.0,,1.0,16.0,4.0,8.0
+Celkon,2GB Star,Android 4.4.2,2015,1500.0,,2.0,16.0,4.5,5.0
+Celkon,A333,Android 4.4.2,2015,1100.0,,0.25,0.0,3.5,2.0
+Celkon,A35K Remote,Android 4.4.2,2015,1400.0,,0.25,0.0,3.5,3.0
+Celkon,A409,Android 4.4.2,2015,1400.0,,0.5,4.0,4.0,2.0
+Celkon,A418,Android 4.4,2015,1400.0,,0.25,0.0,4.0,2.0
+Celkon,Campus A355,Android 4.4.2,2015,1200.0,,0.25,0.0,3.5,2.0
+Celkon,Campus A359,Android 4.4.2,2015,1200.0,Spreadtrum,0.25,0.0,3.5,2.0
+Celkon,Campus A402,Android 4.4.2,2015,2000.0,Spreadtrum,0.5,4.0,4.0,3.0
+Celkon,Campus A407,Android 4.2.2,2015,1400.0,,0.25,0.0,4.0,2.0
+Celkon,Campus A518,Android 4.4.2,2015,2000.0,Spreadtrum,0.5,4.0,5.0,3.0
+Celkon,Millennia 2GB Xpress,Android 4.4.2,2015,1500.0,,2.0,16.0,4.5,5.0
+Celkon,Millennia Everest,Android 5.1 Lollipop,2015,2500.0,Spreadtrum,1.0,8.0,5.5,5.0
+Celkon,Millennia Q3k Power,Android 4.4.2,2015,3000.0,Spreadtrum,0.5,8.0,4.0,3.0
+Celkon,Millennia Q450,Android 4.4.2,2015,1800.0,Spreadtrum,0.5,4.0,4.5,5.0
+Celkon,Millennia Q519,Android 4.4,2015,2000.0,,0.5,4.0,5.0,5.0
+Celkon,Millennia Q58 Xplore,Android 5.0 Lollipop,2015,2000.0,MediaTek,1.0,8.0,5.0,13.0
+Celkon,Millennia Q5k Power,Android 4.4.2,2015,5000.0,Spreadtrum,0.5,4.0,5.0,5.0
+Celkon,Millennia Spark,Android 4.4,2015,1600.0,,0.5,4.0,4.5,3.0
+Celkon,Q5K Transformer,Android 5.1 Lollipop,2015,5000.0,,1.0,8.0,5.0,8.0
+Coolpad,Catalyst,Android 5.1 Lollipop,2016,2200.0,Qualcomm Snapdragon 210,1.0,8.0,5.0,5.0
+Coolpad,Legacy,Android 9.0 Pie,2019,4000.0,Qualcomm Snapdragon 450,3.0,32.0,6.4,16.0
+Coolpad,Legacy S,Android 9.0 Pie,2019,2450.0,MediaTek Helio A22,2.0,16.0,5.5,8.0
+Coolpad,Rogue,Android 5.1 Lollipop,2015,,Qualcomm Snapdragon,1.0,4.0,4.0,2.0
+Coolpad,illumina,Android 8.1 Oreo,2018,2150.0,Qualcomm Snapdragon 210,1.0,8.0,5.0,5.0
+Dell,Venue,Android 2.2,2011,1400.0,Qualcomm MSM8250,,1.0,4.1,8.0
+Emporia,SMART,Android 4.4.2,2014,2600.0,,,4.0,4.5,8.0
+Essential,Phone,Android 10,2017,3040.0,Qualcomm Snapdragon 835,4.0,128.0,5.7,13.0
+Fairphone,3,Android 10,2019,3040.0,Qualcomm Snapdragon 632,4.0,64.0,5.7,12.0
+Fairphone,3+,Android 10,2020,3040.0,Qualcomm Snapdragon 632,4.0,64.0,5.7,48.0
+Fairphone,4,Android 11,2021,3905.0,Qualcomm Snapdragon 750G,6.0,128.0,6.3,48.0
+Fly,Thunder 5 IQ4413,Android 4.2,2015,1800.0,,1.0,4.0,4.7,8.0
+Fly,Thunder IQ4405 Quad,Android 4.2,2015,1800.0,MediaTek,0.5,4.0,4.5,5.0
+GIGABYTE,GSmart Classic Lite,Android 4.4,2015,2100.0,Spreadtrum,0.5,8.0,5.0,5.0
+GIGABYTE,GSmart Essence 4,Android 4.4,2015,1300.0,MediaTek,0.5,4.0,4.0,2.0
+Garmin-Asus,nuvifone A50,Android 2.1,2010,1500.0,Qualcomm Snapdragon S1,0.25,4.0,3.5,3.0
+Garmin-Asus,nuvifone G60,Linux ,2009,1100.0,,0.1,4.0,3.5,3.0
+Garmin-Asus,nuvifone M10,Windows Mobile Professional 6.5.3,2010,1500.0,Qualcomm Snapdragon S1,0.5,4.0,3.5,5.0
+Garmin-Asus,nuvifone M20,Windows Mobile Professional 6.1,2009,920.0,,,8.0,2.8,3.0
+General,Mobile DSTL1 Imaginary,Android ,2009,1200.0,,0.1,4.0,3.0,5.0
+Gionee,Ctrl V6L,Android 4.4,2014,1950.0,,1.0,8.0,5.0,8.0
+Gionee,Elife E6,Android 4.2,2013,2000.0,MediaTek,2.0,32.0,5.0,13.0
+Gionee,Elife E8,Android 5.1 Lollipop,2015,3520.0,MediaTek Helio X10,3.0,64.0,6.0,24.0
+Gionee,Elife S5.1,Android 4.4,2014,2050.0,MediaTek,1.0,8.0,4.8,8.0
+Gionee,Elife S5.5,Android 4.2,2014,2300.0,MediaTek,2.0,16.0,5.0,13.0
+Gionee,F103,Android 5.0 Lollipop,2015,2400.0,MediaTek,2.0,16.0,5.0,8.0
+Gionee,Gpad G3,Android 4.2,2013,2250.0,MediaTek,0.5,4.0,5.5,5.0
+Gionee,Marathon M3,Android 4.4,2014,5000.0,MediaTek,1.0,8.0,5.0,8.0
+Gionee,Marathon M4,Android 5.0 Lollipop,2015,5000.0,,2.0,16.0,5.0,8.0
+Gionee,Marathon M5,Android 5.1 Lollipop,2015,6020.0,,2.0,16.0,5.5,13.0
+Gionee,S6,Android 5.1 Lollipop,2015,3150.0,MediaTek,3.0,32.0,5.5,13.0
+Gionee,S8,Android 6.0 Marshmallow,2016,3000.0,MediaTek Helio P10,4.0,64.0,5.5,16.0
+Gionee,S9,Android 6.0 Marshmallow,2016,3000.0,MediaTek Helio P10,4.0,64.0,5.5,13.0
+Google,Nexus 4,Android 5.1 Lollipop,2012,2100.0,Qualcomm Snapdragon S4 Pro,2.0,16.0,4.7,8.0
+Google,Nexus 5,Android 6.0 Marshmallow,2013,2300.0,Qualcomm Snapdragon 800,2.0,32.0,5.0,8.0
+Google,Nexus 5X,Android 8.1 Oreo,2015,2700.0,Qualcomm Snapdragon 808,2.0,32.0,5.2,12.0
+Google,Nexus 6,Android 7.1 Nougat,2014,3220.0,Qualcomm Snapdragon 805,3.0,64.0,6.0,13.0
+Google,Nexus 6P,Android 8.1 Oreo,2015,3450.0,Qualcomm Snapdragon 810,3.0,128.0,5.7,12.0
+Google,Nexus S,Android 4.1.2,2010,1500.0,Samsung Exynos 3,0.5,16.0,4.0,5.0
+Google,Nexus S 4G,Android 4.1,2011,1500.0,Samsung Exynos 3,0.5,16.0,4.0,5.0
+Google,Pixel,Android 10,2016,2770.0,Qualcomm Snapdragon 821,4.0,128.0,5.0,12.0
+Google,Pixel 2,Android 11,2017,2700.0,Qualcomm Snapdragon 835,4.0,128.0,5.0,12.0
+Google,Pixel 2 XL,Android 11,2017,3520.0,Qualcomm Snapdragon 835,4.0,128.0,6.0,12.0
+Google,Pixel 3,Android 12,2018,2915.0,Qualcomm Snapdragon 845,4.0,64.0,5.5,12.0
+Google,Pixel 3 XL,Android 12,2018,3430.0,Qualcomm Snapdragon 845,4.0,64.0,6.3,12.0
+Google,Pixel 3a,Android 12,2019,3000.0,Qualcomm Snapdragon 670,4.0,64.0,5.6,12.0
+Google,Pixel 3a XL,Android 12,2019,3700.0,Qualcomm Snapdragon 670,4.0,64.0,6.0,12.0
+Google,Pixel 4,Android 12,2019,2800.0,Qualcomm Snapdragon 855,6.0,64.0,5.7,12.0
+Google,Pixel 4 XL,Android 12,2019,3700.0,Qualcomm Snapdragon 855,6.0,64.0,6.3,12.0
+Google,Pixel 4a,Android 12,2020,3140.0,Qualcomm Snapdragon 730G,6.0,128.0,5.8,12.0
+Google,Pixel 4a 5G,Android 12,2020,3885.0,Qualcomm Snapdragon 765G,6.0,128.0,6.2,12.0
+Google,Pixel 5,Android 12,2020,4080.0,Qualcomm Snapdragon 765G,8.0,128.0,6.0,12.0
+Google,Pixel 5a,Android 12,2021,4680.0,Qualcomm Snapdragon 765G,6.0,128.0,6.3,12.0
+Google,Pixel 6,Android 12,2021,4614.0,Tensor,8.0,128.0,6.4,50.0
+Google,Pixel 6 Pro,Android 12,2021,5003.0,Tensor,12.0,128.0,6.7,50.0
+Google,Pixel 6a,Android 12,2022,4410.0,Tensor,6.0,128.0,6.1,12.0
+Google,Pixel XL,Android 10,2016,3450.0,Qualcomm Snapdragon 821,4.0,128.0,5.5,12.0
+HP,Elite x3,Windows 10 Mobile,2016,4150.0,Qualcomm Snapdragon 820,4.0,64.0,6.0,16.0
+HP,Pre3 GSM,webOS 2.2,2011,1230.0,,0.5,8.0,3.6,5.0
+HP,Veer 4G,webOS 2.1,2011,910.0,Qualcomm Snapdragon S2,,8.0,2.6,5.0
+HTC,10,Android 8.0 Oreo,2016,3000.0,Qualcomm Snapdragon 820,4.0,32.0,5.2,12.0
+HTC,7 Mozart,Windows Phone 7.5 Mango,2010,1300.0,Qualcomm Snapdragon S1,0.6,8.0,3.7,8.0
+HTC,7 Pro,Windows Phone 7.5 Mango,2011,1500.0,Qualcomm Snapdragon S1,0.4,8.0,3.6,5.0
+HTC,7 Trophy,Windows Phone 7.5 Mango,2010,1300.0,Qualcomm Snapdragon S1,0.6,8.0,3.8,5.0
+HTC,8XT,Windows Phone 8,2013,1800.0,Qualcomm Snapdragon 400,1.0,8.0,4.3,8.0
+HTC,Amaze 4G,Android 4.0,2011,1730.0,Qualcomm Snapdragon S3,1.0,16.0,4.3,8.0
+HTC,Arrive,Windows Phone 7.5 Mango,2011,1500.0,Qualcomm Snapdragon S1,,16.0,3.6,5.0
+HTC,Bolt,Android 7.0 Nougat,2016,3200.0,Qualcomm Snapdragon 810,3.0,32.0,5.5,16.0
+HTC,Butterfly,Android 4.3,2013,2020.0,Qualcomm Snapdragon S4 Pro,2.0,16.0,5.0,8.0
+HTC,Desire 10 lifestyle,Android 6.0 Marshmallow,2016,2700.0,Qualcomm Snapdragon 400,3.0,32.0,5.5,13.0
+HTC,Desire 10 pro,Android 6.0 Marshmallow,2016,3000.0,MediaTek Helio P10,4.0,64.0,5.5,20.0
+HTC,Desire 12,Android 8.0 Oreo,2018,2730.0,MediaTek,2.0,16.0,5.5,13.0
+HTC,Desire 12+,Android 8.0 Oreo,2018,2965.0,Qualcomm Snapdragon 450,3.0,32.0,6.0,13.0
+HTC,Desire 210,Android 4.2,2014,1300.0,,0.5,4.0,4.0,5.0
+HTC,Desire 22 Pro,Android 12,2022,4520.0,Qualcomm Snapdragon 695 5G,8.0,128.0,6.6,64.0
+HTC,Desire 300,Android 4.1.2,2013,1650.0,Qualcomm Snapdragon S4,0.5,4.0,4.3,5.0
+HTC,Desire 500,Android 4.1.2,2013,1800.0,Qualcomm Snapdragon 200,1.0,4.0,4.3,8.0
+HTC,Desire 512,Android 4.4,2015,2100.0,Qualcomm Snapdragon 400,1.0,4.0,4.7,5.0
+HTC,Desire 516,Android 4.3,2014,1950.0,Qualcomm Snapdragon 200,1.0,4.0,5.0,5.0
+HTC,Desire 520,Android 5.1 Lollipop,2015,2000.0,Qualcomm Snapdragon 210,1.0,8.0,4.5,8.0
+HTC,Desire 526,Android 5.1 Lollipop,2015,2000.0,Qualcomm Snapdragon 210,1.5,8.0,4.7,8.0
+HTC,Desire 530,Android 7.0 Nougat,2016,2200.0,Qualcomm Snapdragon 210,1.5,16.0,5.0,8.0
+HTC,Desire 555,Android 7.0 Nougat,2017,2200.0,Qualcomm Snapdragon 210,2.0,16.0,5.0,8.0
+HTC,Desire 616,Android 4.2.2,2014,2000.0,,,4.0,5.0,8.0
+HTC,Desire 626,Android 5.1 Lollipop,2015,2000.0,Qualcomm Snapdragon 210,1.5,16.0,5.0,8.0
+HTC,Desire 626 (International),Android 4.4.4,2015,2000.0,Qualcomm Snapdragon 410,1.0,16.0,5.0,13.0
+HTC,Desire 626s,Android 6.0 Marshmallow,2015,2000.0,Qualcomm Snapdragon 210,1.5,8.0,5.0,8.0
+HTC,Desire 628,Android 5.1 Lollipop,2016,2200.0,MediaTek,3.0,32.0,5.0,13.0
+HTC,Desire 630,Android 6.0 Marshmallow,2016,2200.0,Qualcomm Snapdragon 400,2.0,16.0,5.0,13.0
+HTC,Desire 650,Android 6.0 Marshmallow,2016,2200.0,Qualcomm Snapdragon 400,2.0,16.0,5.0,13.0
+HTC,Desire 700,Android 4.1.2,2014,2100.0,Qualcomm Snapdragon 200,1.0,8.0,5.0,8.0
+HTC,Desire 728,Android 5.1 Lollipop,2015,2800.0,MediaTek,2.0,16.0,5.5,13.0
+HTC,Desire 825,Android 6.0 Marshmallow,2016,2700.0,Qualcomm Snapdragon 400,2.0,16.0,5.5,13.0
+HTC,Desire 826,Android 5.0 Lollipop,2015,2600.0,Qualcomm Snapdragon 615,2.0,16.0,5.5,13.0
+HTC,Desire C,Android 4.0.3,2012,1230.0,Qualcomm Snapdragon S1,0.5,4.0,3.5,5.0
+HTC,Desire HD,Android 2.3.5,2010,1230.0,Qualcomm Snapdragon S2,0.75,1.0,4.3,8.0
+HTC,Desire X,Android 4.0,2012,1650.0,Qualcomm Snapdragon S4 Play,0.75,4.0,4.0,5.0
+HTC,Desire Z,Android 2.3.3,2010,1300.0,,0.5,1.0,3.7,5.0
+HTC,Droid Incredible,Android 2.3.4,2010,1300.0,Qualcomm Snapdragon S1,0.5,8.0,3.7,8.0
+HTC,EVO 3D,Android 4.0,2011,1730.0,Qualcomm Snapdragon S3,1.0,1.0,4.3,5.0
+HTC,EVO 4G LTE,Android 4.0.3,2012,,Qualcomm Snapdragon S4 Plus,1.0,16.0,4.7,8.0
+HTC,EVO Design 4G,Android 4.0,2011,1520.0,Qualcomm Snapdragon S2,0.75,4.0,4.0,5.0
+HTC,First,Android 4.1,2013,2000.0,Qualcomm Snapdragon 400,1.0,16.0,4.3,5.0
+HTC,HD7,Windows Phone 7.5 Mango,2010,1230.0,Qualcomm Snapdragon S1,0.6,16.0,4.3,5.0
+HTC,HD7S,Windows Phone 7.5 Mango,2011,1230.0,,0.6,16.0,4.3,5.0
+HTC,Hero S,Android 2.3,2011,1520.0,Qualcomm Snapdragon S2,0.75,4.0,4.0,5.0
+HTC,Inspire 4G,Android 2.3,2011,1230.0,Qualcomm Snapdragon S2,0.75,4.0,4.3,8.0
+HTC,MAX 4G,Windows Mobile Professional 6.1,2008,1500.0,Qualcomm ESM7206A,0.3,8.0,3.8,3.0
+HTC,Merge,Android 2.3,2011,1400.0,Qualcomm Snapdragon S2,0.5,2.0,3.8,5.0
+HTC,One (M8),Android 6.0 Marshmallow,2014,2600.0,Qualcomm Snapdragon 801,2.0,32.0,5.0,4.0
+HTC,One A9,Android 7.0 Nougat,2015,2150.0,Qualcomm Snapdragon 617,3.0,32.0,5.0,13.0
+HTC,One E9+,Android 5.0 Lollipop,2015,2800.0,MediaTek,3.0,32.0,5.5,20.0
+HTC,One M9,Android 7.0 Nougat,2015,2840.0,Qualcomm Snapdragon 810,3.0,32.0,5.0,20.0
+HTC,One M9+,Android 5.0 Lollipop,2015,2840.0,MediaTek Helio X10,3.0,32.0,5.2,20.0
+HTC,One ME,Android 5.0 Lollipop,2015,2840.0,MediaTek Helio X10,3.0,32.0,5.2,20.0
+HTC,One S,Android 4.1.1,2012,1650.0,Qualcomm Snapdragon S4 Plus,1.0,16.0,4.3,8.0
+HTC,One S9,Android 6.0 Marshmallow,2016,2840.0,MediaTek Helio X10,2.0,16.0,5.0,13.0
+HTC,One SV,Android 4.2.2,2013,1800.0,Qualcomm Snapdragon S4,1.0,8.0,4.3,5.0
+HTC,One SV LTE,Android 4.0.4,2013,1800.0,Qualcomm Snapdragon S4,1.0,8.0,4.3,5.0
+HTC,One V,Android 4.0.3,2012,1500.0,Qualcomm Snapdragon S2,0.5,4.0,3.7,5.0
+HTC,One X,Android 4.2.2,2012,1800.0,NVIDIA Tegra 3 T30,1.0,32.0,4.7,8.0
+HTC,One X AT&T,Android 4.2.2,2012,1800.0,Qualcomm Snapdragon S4 Plus,1.0,16.0,4.7,8.0
+HTC,One X10,Android ,2017,4000.0,MediaTek Helio P10,3.0,32.0,5.5,16.0
+HTC,One X9,Android 6.0 Marshmallow,2016,3000.0,MediaTek Helio X10,3.0,32.0,5.5,13.0
+HTC,One mini 2,Android 4.4,2014,2100.0,Qualcomm Snapdragon 400,1.0,16.0,4.5,13.0
+HTC,Radar,Windows Phone 7.5 Mango,2011,1520.0,Qualcomm Snapdragon S2,0.5,8.0,3.8,5.0
+HTC,Rezound,Android 4.0,2011,1620.0,Qualcomm Snapdragon S3,1.0,16.0,4.3,8.0
+HTC,Rhyme,,2011,1600.0,Qualcomm Snapdragon S2,0.75,4.0,3.7,5.0
+HTC,Sensation XE,Android 4.0,2011,1730.0,,0.75,4.0,4.3,8.0
+HTC,Surround,Windows Phone 7.5 Mango,2010,1230.0,Qualcomm Snapdragon S1,0.4,16.0,3.8,5.0
+HTC,ThunderBolt,Android 4.0,2011,1400.0,Qualcomm Snapdragon S2,0.75,8.0,4.3,8.0
+HTC,Titan,Windows Phone 7.5 Mango,2011,1600.0,Qualcomm Snapdragon S2,0.5,16.0,4.7,8.0
+HTC,Titan II,Windows Phone 7.5 Mango,2012,1730.0,Qualcomm Snapdragon S2,0.5,16.0,4.7,16.0
+HTC,Touch Diamond,Windows Mobile Professional ,2008,900.0,Qualcomm MSM7201,0.2,4.0,2.8,3.0
+HTC,Touch Diamond CDMA,Windows Mobile Professional 6.1,2008,1340.0,,0.3,4.0,2.8,3.0
+HTC,Trophy,Windows Phone 7.5 Mango,2011,1300.0,Qualcomm Snapdragon S1,0.6,16.0,3.8,5.0
+HTC,U Play,Android 7.0 Nougat,2017,2500.0,MediaTek Helio P10,3.0,32.0,5.2,16.0
+HTC,U Ultra,Android 8.0 Oreo,2017,3000.0,Qualcomm Snapdragon 821,4.0,64.0,5.7,12.0
+HTC,U11,Android 9.0 Pie,2017,3000.0,Qualcomm Snapdragon 835,4.0,64.0,5.5,12.0
+HTC,U11 EYEs,Android ,2018,3930.0,Qualcomm Snapdragon 652,4.0,64.0,6.0,12.0
+HTC,U11 life,Android 9.0 Pie,2017,2600.0,Qualcomm Snapdragon 630,3.0,32.0,5.2,16.0
+HTC,U11+,Android 8.0 Oreo,2017,3930.0,Qualcomm Snapdragon 835,6.0,128.0,6.0,12.0
+HTC,U12+,Android 9.0 Pie,2018,3500.0,Qualcomm Snapdragon 845,6.0,128.0,6.0,12.0
+HTC,Vivid,Android 4.0.3,2011,1620.0,Qualcomm Snapdragon S3,1.0,16.0,4.5,8.0
+HTC,Wildfire X,Android 9.0 Pie,2019,3300.0,MediaTek Helio P22,4.0,128.0,6.2,12.0
+HTC,Windows Phone 8X,Windows Phone 8.1,2012,1800.0,Qualcomm Snapdragon S4 Plus,1.0,16.0,4.3,8.0
+HTC,X7510 Advantage,Windows Mobile Professional ,2008,2100.0,,0.1,16.0,,3.0
+Honor,10,Android 9.0 Pie,2018,3400.0,HiSilicon Kirin,4.0,128.0,5.8,16.0
+Honor,10 Lite,Android 9.0 Pie,2018,3000.0,HiSilicon Kirin,6.0,64.0,6.2,13.0
+Honor,20,Android 9.0 Pie,2019,3750.0,HiSilicon Kirin 980,6.0,128.0,6.3,48.0
+Honor,20 Lite,Android 9.0 Pie,2019,3400.0,HiSilicon Kirin 710,4.0,128.0,6.2,24.0
+Honor,20 Pro,Android 9.0 Pie,2019,4000.0,HiSilicon Kirin 980,8.0,256.0,6.3,48.0
+Honor,3C,Android 4.2,2013,2300.0,MediaTek,2.0,8.0,5.0,8.0
+Honor,50,Android 11,2021,4300.0,Qualcomm Snapdragon 778G,8.0,128.0,6.6,108.0
+Honor,50 Pro,Android 11,2021,4000.0,Qualcomm Snapdragon 778G,8.0,256.0,6.7,108.0
+Honor,50 SE,Android 11,2021,4000.0,MediaTek Dimensity 900,8.0,128.0,6.8,108.0
+Honor,5C,Android 6.0 Marshmallow,2016,3000.0,HiSilicon Kirin,2.0,16.0,5.2,13.0
+Honor,5X,Android 6.0 Marshmallow,2015,3000.0,Qualcomm Snapdragon 616,2.0,16.0,5.5,13.0
+Honor,6,Android 5.1 Lollipop,2014,3000.0,HiSilicon Kirin,3.0,16.0,5.0,13.0
+Honor,6A,Android 7.0 Nougat,2017,3020.0,Qualcomm Snapdragon 430,2.0,16.0,5.0,13.0
+Honor,6C,Android 6.0 Marshmallow,2017,3020.0,Qualcomm Snapdragon 435,3.0,32.0,5.0,13.0
+Honor,7,Android 6.0 Marshmallow,2015,3100.0,HiSilicon Kirin,3.0,16.0,5.2,20.0
+Honor,7C,Android 8.0 Oreo,2018,3000.0,Qualcomm Snapdragon 450,3.0,32.0,6.0,13.0
+Honor,7S,Android 8.1 Oreo,2018,3020.0,MediaTek,2.0,16.0,5.5,13.0
+Honor,7X,Android 8.0 Oreo,2017,3340.0,HiSilicon Kirin,3.0,32.0,5.9,16.0
+Honor,7i,Android ,2015,3100.0,Qualcomm Snapdragon 616,3.0,32.0,5.2,13.0
+Honor,8,Android 8.0 Oreo,2016,3000.0,HiSilicon Kirin,4.0,64.0,5.2,12.0
+Honor,8 Lite,Android 7.0 Nougat,2017,3000.0,HiSilicon Kirin,3.0,16.0,5.2,12.0
+Honor,8 Pro,Android 9.0 Pie,2017,4000.0,HiSilicon Kirin,6.0,64.0,5.7,12.0
+Honor,8C,Android 8.1 Oreo,2018,4000.0,Qualcomm Snapdragon 632,4.0,64.0,6.3,13.0
+Honor,8X,Android 9.0 Pie,2018,3750.0,HiSilicon Kirin,4.0,128.0,6.5,20.0
+Honor,9,Android 8.0 Oreo,2017,3200.0,HiSilicon Kirin,4.0,64.0,5.2,12.0
+Honor,9 Lite,Android 8.0 Oreo,2018,3000.0,HiSilicon Kirin,4.0,64.0,5.7,13.0
+Honor,9A,Android 10,2020,5000.0,Mediatek Helio P22,3.0,64.0,6.3,13.0
+Honor,9X Pro,Android 10,2020,4000.0,Kirin 810,6.0,256.0,6.6,48.0
+Honor,Magic4,Android 12,2022,4800.0,Qualcomm Snapdragon 8 Gen 1,8.0,128.0,6.8,50.0
+Honor,Magic4 Lite 5G,Android 11,2022,4800.0,Qualcomm Snapdragon 695,6.0,128.0,6.8,48.0
+Honor,Magic4 Pro,Android 12,2022,4600.0,Qualcomm Snapdragon 8 Gen 1,8.0,256.0,6.8,50.0
+Honor,Note 8,Android 6.0 Marshmallow,2016,4500.0,HiSilicon Kirin,4.0,128.0,6.6,13.0
+Honor,Play,Android 9.0 Pie,2018,3750.0,HiSilicon Kirin,6.0,64.0,6.3,16.0
+Honor,View 10,Android 9.0 Pie,2018,3750.0,HiSilicon Kirin,6.0,128.0,6.0,16.0
+Honor,View20,Android 9.0 Pie,2019,4000.0,HiSilicon Kirin 980,8.0,256.0,6.4,48.0
+Honor,View30 Pro,Android 10,2019,4100.0,HiSilicon Kirin 990,8.0,128.0,6.6,40.0
+Huawei,ASCEND G510,Android 4.1,2013,1750.0,Qualcomm Snapdragon S4 Play,0.5,4.0,4.5,5.0
+Huawei,Activa 4G,Android 2.3,2012,1880.0,,,0.0,3.5,5.0
+Huawei,Ascend D2,Android 4.1.2,2013,3000.0,Hi-Silicon K3V2 + Balong V7R1,2.0,32.0,5.0,13.0
+Huawei,Ascend G525,Android 4.1,2013,1700.0,Qualcomm Snapdragon S4 Play,1.0,4.0,4.5,5.0
+Huawei,Ascend G526,Android 4.1,2013,1950.0,,1.0,4.0,4.5,5.0
+Huawei,Ascend G610,Android 4.2,2015,2150.0,,1.0,4.0,5.0,5.0
+Huawei,Ascend G620,Android 4.3,2014,2000.0,Qualcomm Snapdragon 400,1.0,4.0,5.0,5.0
+Huawei,Ascend G620S,Android 4.4.2,2014,2000.0,Qualcomm Snapdragon 410,1.0,8.0,5.0,8.0
+Huawei,Ascend P1 LTE,Android 4.0,2012,2000.0,Qualcomm Snapdragon S4 Plus,1.0,4.0,4.3,8.0
+Huawei,Ascend W1,Windows Phone 8,2013,1950.0,Qualcomm Snapdragon S4 Plus,0.5,4.0,4.0,5.0
+Huawei,Ascend Y200,Android 2.3,2012,1400.0,Qualcomm Snapdragon S1,0.25,0.0,3.5,3.0
+Huawei,Ascend Y320,Android 4.2,2013,1350.0,MediaTek,0.5,4.0,4.0,2.0
+Huawei,Ascend Y330,Android 4.2,2014,1500.0,MediaTek,0.5,4.0,4.0,3.0
+Huawei,Ascend Y520,Android 4.4,2014,1730.0,MediaTek,0.5,4.0,4.5,5.0
+Huawei,Ascend Y530,Android 4.3,2014,1750.0,Qualcomm Snapdragon 200,0.5,4.0,4.5,5.0
+Huawei,Ascend Y540,Android 4.4.2,2015,1730.0,,1.0,4.0,4.5,5.0
+Huawei,Ascend Y550,Android 4.4,2014,2000.0,Qualcomm Snapdragon 410,1.0,4.0,4.5,5.0
+Huawei,G8,Android 5.1 Lollipop,2015,3000.0,Qualcomm Snapdragon 615,3.0,32.0,5.5,13.0
+Huawei,Honor,Android 4.0.3,2011,1900.0,Qualcomm Snapdragon S2,0.5,1.0,4.0,8.0
+Huawei,M835,Android 2.2,2011,1200.0,,,0.0,2.8,3.0
+Huawei,Mate 10,Android 10,2017,4000.0,HiSilicon Kirin,4.0,64.0,5.9,12.0
+Huawei,Mate 10 Lite,Android 7.0 Nougat,2017,3340.0,HiSilicon Kirin,4.0,64.0,5.9,16.0
+Huawei,Mate 10 Porsche Design,Android 9.0 Pie,2017,4000.0,HiSilicon Kirin,6.0,256.0,6.0,12.0
+Huawei,Mate 10 Pro,Android 9.0 Pie,2017,4000.0,HiSilicon Kirin,6.0,128.0,6.0,12.0
+Huawei,Mate 20,Android 9.0 Pie,2018,4000.0,HiSilicon Kirin,4.0,128.0,6.5,12.0
+Huawei,Mate 20 Pro,Android 10,2018,4200.0,HiSilicon Kirin,6.0,128.0,6.4,40.0
+Huawei,Mate 20 RS Porsche Design,Android 9.0 Pie,2018,4200.0,HiSilicon Kirin,8.0,512.0,6.4,40.0
+Huawei,Mate 20 lite,Android 8.1 Oreo,2018,3750.0,HiSilicon Kirin,4.0,64.0,6.3,20.0
+Huawei,Mate 30 Pro,Android 10,2019,4500.0,HiSilicon Kirin 990,8.0,256.0,6.5,40.0
+Huawei,Mate 30 Pro 5G,Android 10,2019,4500.0,HiSilicon Kirin 990,8.0,256.0,6.5,40.0
+Huawei,Mate 8,Android 7.0 Nougat,2015,4000.0,HiSilicon Kirin,4.0,128.0,6.0,16.0
+Huawei,Mate 9,Android 8.0 Oreo,2017,4000.0,HiSilicon Kirin,4.0,64.0,5.9,12.0
+Huawei,Mate 9 Porsche Design,Android 8.0 Oreo,2017,4000.0,HiSilicon Kirin,6.0,256.0,5.5,12.0
+Huawei,Mate 9 Pro,Android 8.0 Oreo,2017,4000.0,HiSilicon Kirin,6.0,128.0,5.5,12.0
+Huawei,Mate RS Porsche Design,Android 9.0 Pie,2018,4000.0,HiSilicon Kirin,6.0,256.0,6.0,40.0
+Huawei,Mate S,Android 5.1 Lollipop,2015,2700.0,HiSilicon Kirin,3.0,128.0,5.5,13.0
+Huawei,Mate X,Android 9.0 Pie,2019,4500.0,HiSilicon Kirin 980,8.0,512.0,8.0,40.0
+Huawei,Mate X2,Android 10,2021,4500.0,Kirin 9000,8.0,256.0,8.0,50.0
+Huawei,Mate Xs,Android 10,2020,4500.0,HiSilicon Kirin 990 5G,8.0,512.0,8.0,40.0
+Huawei,Mate Xs 2,HarmonyOS ,2022,4600.0,Qualcomm Snapdragon 888,8.0,256.0,7.8,50.0
+Huawei,Mercury,Android 2.3.3,2011,1900.0,,0.5,2.0,4.0,8.0
+Huawei,P Smart (2019),Android 9.0 Pie,2019,3400.0,HiSilicon Kirin,3.0,64.0,6.2,13.0
+Huawei,P Smart (2020),Android 9.0 Pie,2020,3400.0,HiSilicon Kirin 710,4.0,128.0,6.2,13.0
+Huawei,P Smart (2021),Android 10,2020,5000.0,HiSilicon Kirin 710A,4.0,128.0,6.7,48.0
+Huawei,P Smart Z,Android 9.0 Pie,2019,4000.0,HiSilicon Kirin 710,4.0,64.0,6.6,16.0
+Huawei,P Smart+ (2019),Android 9.0 Pie,2019,3400.0,HiSilicon Kirin 710,3.0,64.0,6.2,24.0
+Huawei,P smart S,Android 10,2020,4000.0,Kirin 710F,4.0,128.0,6.3,48.0
+Huawei,P10,Android 9.0 Pie,2017,3200.0,HiSilicon Kirin,4.0,64.0,5.1,12.0
+Huawei,P10 Lite,Android 7.0 Nougat,2017,3000.0,HiSilicon Kirin,4.0,32.0,5.2,12.0
+Huawei,P10 Plus,Android 8.0 Oreo,2017,3750.0,HiSilicon Kirin,6.0,128.0,5.5,12.0
+Huawei,P20,Android 9.0 Pie,2018,3400.0,HiSilicon Kirin,4.0,128.0,5.8,12.0
+Huawei,P20 Lite,Android 8.0 Oreo,2018,3000.0,HiSilicon Kirin,4.0,64.0,5.8,16.0
+Huawei,P20 Pro,Android 10,2018,4000.0,HiSilicon Kirin,6.0,128.0,6.1,40.0
+Huawei,P30,Android 10,2019,3650.0,HiSilicon Kirin 980,6.0,128.0,6.1,40.0
+Huawei,P30 Lite,Android 9.0 Pie,2019,3340.0,HiSilicon Kirin 710,4.0,128.0,6.2,24.0
+Huawei,P30 Pro,Android 10,2019,4200.0,HiSilicon Kirin 980,6.0,128.0,6.5,40.0
+Huawei,P30 Pro New Edition,Android 10,2020,4200.0,HiSilicon Kirin 980,8.0,256.0,6.5,40.0
+Huawei,P40,Android 10,2020,3800.0,HiSilicon Kirin 990,6.0,128.0,6.1,50.0
+Huawei,P40 Lite,Android 10,2020,4200.0,HiSilicon Kirin 810,6.0,128.0,6.4,48.0
+Huawei,P40 Pro,Android 10,2020,4200.0,HiSilicon Kirin 990,8.0,128.0,6.6,50.0
+Huawei,P40 Pro+,Android 10,2020,4200.0,HiSilicon Kirin 990 5G,8.0,512.0,6.6,50.0
+Huawei,P40 lite 5G,Android 10,2020,4000.0,HiSilicon Kirin 820,6.0,128.0,6.5,64.0
+Huawei,P50 Pocket,HarmonyOS ,2021,4000.0,Qualcomm Snapdragon 888,8.0,256.0,6.9,40.0
+Huawei,P50 Pro,HarmonyOS ,2021,4360.0,Qualcomm Snapdragon 888 4G,8.0,256.0,6.6,50.0
+Huawei,P8,Android 5.0 Lollipop,2015,2680.0,HiSilicon Kirin,3.0,16.0,5.2,13.0
+Huawei,P8 lite,Android 6.0 Marshmallow,2015,2200.0,HiSilicon Kirin,2.0,16.0,5.0,13.0
+Huawei,P8 lite (2017),Android 7.0 Nougat,2017,3000.0,HiSilicon Kirin,3.0,16.0,5.2,12.0
+Huawei,P8max,Android 5.1 Lollipop,2015,4360.0,HiSilicon Kirin,3.0,64.0,6.8,13.0
+Huawei,P9,Android 8.0 Oreo,2016,3000.0,HiSilicon Kirin,3.0,32.0,5.2,12.0
+Huawei,P9 Plus,Android 7.0 Nougat,2016,3400.0,HiSilicon Kirin,4.0,64.0,5.5,12.0
+Huawei,P9 lite,Android 7.0 Nougat,2016,3000.0,HiSilicon Kirin,3.0,16.0,5.2,13.0
+Huawei,P9 lite mini,Android 7.0 Nougat,2017,3020.0,Qualcomm Snapdragon 425,2.0,16.0,5.0,13.0
+Huawei,SnapTo,Android 4.4,2015,2200.0,Qualcomm Snapdragon 400,1.0,8.0,5.0,5.0
+Huawei,U8230,Android 2.1,2009,1500.0,,,0.0,3.5,3.0
+Huawei,Union,Android 5.1 Lollipop,2015,2000.0,Qualcomm Snapdragon 210,1.0,8.0,4.5,5.0
+Huawei,Y3 2017,Android 6.0 Marshmallow,2017,2200.0,MediaTek,1.0,8.0,5.0,8.0
+Huawei,Y3II,Android 5.1 Lollipop,2016,2100.0,MediaTek,1.0,8.0,4.5,5.0
+Huawei,Y5,Android 5.1 Lollipop,2015,2000.0,Qualcomm Snapdragon 210,1.0,8.0,4.5,5.0
+Huawei,Y6,Android 5.1 Lollipop,2015,2200.0,Qualcomm Snapdragon 210,1.0,8.0,5.0,8.0
+Huawei,Y6 Pro (2017),Android 7.0 Nougat,2017,3020.0,Qualcomm Snapdragon 425,2.0,16.0,5.0,13.0
+Huawei,Y635,Android ,2015,2000.0,Qualcomm Snapdragon 410,1.0,4.0,5.0,5.0
+Huawei,Y7 (2019),Android 8.1 Oreo,2019,4000.0,Qualcomm Snapdragon 450,3.0,32.0,6.3,13.0
+Huawei,Y7 Prime (2018),Android 8.0 Oreo,2018,3000.0,Qualcomm Snapdragon 430,3.0,32.0,6.0,13.0
+Huawei,Y9 (2019),Android 8.1 Oreo,2019,4000.0,HiSilicon Kirin,4.0,64.0,6.5,13.0
+Huawei,nova,Android 6.0 Marshmallow,2016,3020.0,Qualcomm Snapdragon 625,3.0,32.0,5.0,12.0
+Huawei,nova 2i,Android 7.0 Nougat,2017,3340.0,HiSilicon Kirin,4.0,64.0,5.9,16.0
+Huawei,nova 3,Android 8.1 Oreo,2018,,HiSilicon Kirin,6.0,128.0,6.3,16.0
+Huawei,nova 3i,Android 8.1 Oreo,2018,3340.0,HiSilicon Kirin,4.0,128.0,6.3,16.0
+Huawei,nova Plus,Android 6.0 Marshmallow,2016,3340.0,Qualcomm Snapdragon 625,3.0,32.0,5.5,16.0
+ICEMOBILE,Apollo,Android 4.2.2,2014,1200.0,,0.5,0.0,2.6,2.0
+ICEMOBILE,Gravity 4.0,Android 4.4.2,2014,2800.0,MediaTek,1.0,8.0,4.0,8.0
+ICEMOBILE,Prime 3.5,Android 4.2.2,2014,1200.0,MediaTek,0.5,4.0,3.5,2.0
+ICEMOBILE,Prime 5.0,Android 4.4.2,2015,1600.0,MediaTek,0.5,4.0,5.0,5.0
+ICEMOBILE,Prime 5.0 Plus,Android 4.4,2015,2000.0,MediaTek,1.0,8.0,5.0,8.0
+ICEMOBILE,Prime 5.5,Android 4.4.2,2014,2250.0,MediaTek,1.0,16.0,5.5,8.0
+Jolla,Smartphone,Sailfish ,2013,2100.0,Qualcomm Snapdragon 400,1.0,16.0,4.5,8.0
+Karbonn,A 1,Android 2.2,2011,1100.0,,,4.0,2.8,3.0
+Karbonn,A1 Plus Champ,Android 4.4,2015,1300.0,,0.25,0.0,3.5,3.0
+Karbonn,A108,Android 4.2.2,2014,1300.0,,0.25,0.0,3.5,2.0
+Karbonn,A19,Android 4.2,2014,1600.0,,0.5,4.0,5.0,8.0
+Karbonn,Alfa A104,Android 4.2.2,2015,1100.0,,0.1,0.0,2.8,2.0
+Karbonn,Alfa A110,Android 4.2,2015,1300.0,,0.25,0.0,3.5,2.0
+Karbonn,Alfa A120,Android 4.4.2,2015,3000.0,,0.5,4.0,4.5,5.0
+Karbonn,Alfa A93 POP,Android 5.1 Lollipop,2015,1300.0,,0.5,8.0,4.0,2.0
+Karbonn,K9 Smart,Android 4.4.2,2016,2300.0,MediaTek,0.5,8.0,5.0,3.0
+Karbonn,Machone,Android 4.4.2,2015,1800.0,MediaTek,1.0,8.0,4.7,8.0
+Karbonn,Quattro L50,Android 5.1 Lollipop,2016,2600.0,MediaTek,2.0,16.0,5.0,13.0
+Karbonn,Titanium Dazzle 2 S202,Android 4.4.2,2015,2000.0,,1.0,8.0,5.0,5.0
+Karbonn,Titanium Delight,Android 4.4,2015,1800.0,,0.5,4.0,4.5,5.0
+Karbonn,Titanium Desire S30,,2015,1800.0,,0.5,8.0,4.5,8.0
+Karbonn,Titanium Mach One Plus,Android 5.0 Lollipop,2015,1800.0,,2.0,16.0,4.7,8.0
+Karbonn,Titanium MachTwo S360,Android 5.0 Lollipop,2015,1900.0,,1.0,8.0,5.0,8.0
+Karbonn,Titanium Moghul,Android 4.4,2015,2000.0,MediaTek,1.0,8.0,5.0,8.0
+Karbonn,Titanium S109,Android 4.4.2,2015,1600.0,,0.5,8.0,4.5,5.0
+Karbonn,Titanium S15,Android 4.4.2,2015,1500.0,,0.5,4.0,4.0,3.0
+Karbonn,Titanium S200HD,Android 4.4,2015,2600.0,Spreadtrum,1.0,8.0,5.0,8.0
+Karbonn,Titanium S21,Android 4.4.2,2015,1600.0,,0.5,4.0,4.5,3.0
+Karbonn,Titanium Wind W4,Windows Phone 8.1,2014,1950.0,,0.5,4.0,4.0,5.0
+Kyocera,DuraForce Pro,Android 7.1 Nougat,2016,3240.0,Qualcomm Snapdragon 617,2.0,32.0,5.0,13.0
+Kyocera,DuraForce Pro 2,Android 8.0 Oreo,2018,3240.0,Qualcomm Snapdragon 630,4.0,64.0,5.0,13.0
+Kyocera,DuraForce XD,Android 5.1 Lollipop,2016,3700.0,Qualcomm Snapdragon 400,2.0,16.0,5.7,8.0
+Kyocera,Hydro AIR,Android 5.0 Lollipop,2015,2300.0,Qualcomm Snapdragon 410,1.0,8.0,5.0,5.0
+Kyocera,Hydro Elite,Android 4.1,2013,2100.0,Qualcomm Snapdragon S4 Plus,1.5,16.0,4.3,8.0
+Kyocera,Hydro Reach,Android 5.1 Lollipop,2016,2160.0,Qualcomm Snapdragon 210,1.0,8.0,5.0,5.0
+Kyocera,Hydro View,Android 5.1 Lollipop,2016,2160.0,Qualcomm Snapdragon 210,1.0,8.0,5.0,5.0
+Kyocera,Hydro Wave,Android 5.1 Lollipop,2015,2300.0,Qualcomm Snapdragon 410,1.0,8.0,5.0,5.0
+Kyocera,Rise,Android 4.0,2012,1500.0,Qualcomm Snapdragon S2,0.5,2.0,3.5,3.0
+LAVA,A52,Android 5.1 Lollipop,2016,1200.0,,0.5,4.0,4.0,2.0
+LAVA,Flair E2,Android 4.4,2015,1400.0,,0.25,0.0,3.5,2.0
+LAVA,Flair P1i,Android 4.4,2015,1400.0,,0.25,0.0,4.0,2.0
+LAVA,Flair Z1,Android 5.0 Lollipop,2015,2000.0,,1.0,8.0,5.0,5.0
+LAVA,Iris 250,Android 4.2,2014,1450.0,,0.5,4.0,4.0,3.0
+LAVA,Iris 354e,Android 4.2,2013,1400.0,,0.25,2.0,3.5,2.0
+LAVA,Iris 400Q,Android 4.4.2,2014,1700.0,,1.0,4.0,4.0,5.0
+LAVA,Iris 404e,Android 4.2,2013,1400.0,,0.25,2.0,4.0,2.0
+LAVA,Iris 406Q,Android 4.4,2014,1700.0,Qualcomm Snapdragon 200,1.0,4.0,4.0,5.0
+LAVA,Iris 410,Android 4.4,2014,1500.0,,0.5,4.0,4.0,3.0
+LAVA,Iris 454,Android 4.0.4,2013,1650.0,,0.5,4.0,4.5,8.0
+LAVA,Iris 460,Android 4.4.2,2014,1650.0,,1.0,8.0,4.5,5.0
+LAVA,Iris 500,Android 4.4,2014,1800.0,,0.5,4.0,5.0,5.0
+LAVA,Iris 503,Android 4.2.2,2013,2000.0,,0.5,4.0,5.0,5.0
+LAVA,Iris 504Q+,Android 4.4.2,2014,2000.0,,1.0,8.0,5.0,10.0
+LAVA,Iris 506Q,Android 4.2,2013,2000.0,,0.5,4.0,5.0,5.0
+LAVA,Iris 550Q,Android 4.2,2014,2600.0,,1.0,4.0,5.5,8.0
+LAVA,Iris Atom 2,Android 5.1 Lollipop,2015,1750.0,,0.5,8.0,4.5,5.0
+LAVA,Iris Atom 3,Android 5.1 Lollipop,2015,2000.0,,0.5,8.0,5.0,5.0
+LAVA,Iris Fuel 50,Android 4.4.2,2014,3000.0,,1.0,8.0,5.0,8.0
+LAVA,Iris Fuel 60,Android 4.4.2,2014,4000.0,,1.0,8.0,5.0,10.0
+LAVA,Iris Fuel F1,Android 5.1 Lollipop,2015,4000.0,MediaTek,2.0,8.0,5.0,8.0
+LAVA,Iris Selfie 50,Android 4.4,2014,2400.0,,1.0,8.0,5.0,8.0
+LAVA,Iris X1,Android 4.4.2,2014,1800.0,Broadcom BCM23550,1.0,8.0,4.5,8.0
+LAVA,Iris X1 Atom S,Android 4.4,2015,1400.0,,0.5,8.0,4.0,5.0
+LAVA,Iris X1 Selfie,Android 5.1 Lollipop,2015,2000.0,MediaTek,1.0,8.0,4.5,8.0
+LAVA,Iris X1 atom,Android 4.4,2015,1750.0,,0.5,4.0,4.0,5.0
+LAVA,Iris X5,Android 4.4.2,2014,2100.0,,1.0,8.0,5.0,8.0
+LAVA,Iris X5 4G,Android 5.1 Lollipop,2015,2500.0,MediaTek,2.0,16.0,5.0,13.0
+LAVA,Iris X8,Android 4.4.2,2015,2500.0,,2.0,16.0,5.0,8.0
+LAVA,Pixel V1,Android 6.0 Marshmallow,2015,2650.0,,2.0,32.0,5.5,13.0
+LAVA,Pixel V2,Android 5.1 Lollipop,2015,2500.0,MediaTek,2.0,16.0,5.0,13.0
+LAVA,S12,Android 2.2,2011,1300.0,Qualcomm Snapdragon S1,,0.0,3.2,5.0
+LAVA,X10,Android 6.0 Marshmallow,2015,2900.0,,3.0,16.0,5.0,13.0
+LAVA,Z61,Android 8.1 Oreo,2018,3000.0,MediaTek,2.0,16.0,5.5,8.0
+LAVA,alfa L,Android 5.0 Lollipop,2015,3000.0,,1.0,8.0,5.5,8.0
+LG,Ally,Android 2.2,2010,1500.0,Qualcomm Snapdragon S1,0.25,0.0,3.2,3.0
+LG,Apex,Android 2.1,2010,1500.0,Qualcomm Snapdragon S1,0.25,0.0,3.2,3.0
+LG,Aristo,Android 7.0 Nougat,2017,2410.0,Qualcomm Snapdragon 425,1.5,16.0,5.0,13.0
+LG,Aristo 2,Android 8.0 Oreo,2018,2410.0,Qualcomm Snapdragon 425,2.0,16.0,5.0,13.0
+LG,Aristo 4+,Android 9.0 Pie,2019,3000.0,Qualcomm 425,2.0,16.0,5.5,13.0
+LG,Aristo 5,Android 10,2020,3000.0,MediaTek Helio P22,2.0,32.0,5.7,13.0
+LG,Bello II,Android 5.1 Lollipop,2015,2540.0,MediaTek,1.0,8.0,5.0,5.0
+LG,Class,Android 5.1 Lollipop,2015,2050.0,Qualcomm Snapdragon 410,2.0,16.0,5.0,13.0
+LG,Connect 4G,Android 2.3,2012,1540.0,,1.0,2.0,,5.0
+LG,Escape,Android 4.1,2012,2150.0,Qualcomm Snapdragon S4 Plus,1.0,4.0,4.3,5.0
+LG,Escape 2,Android 5.0 Lollipop,2015,2100.0,Qualcomm Snapdragon 410,1.0,8.0,4.7,8.0
+LG,Escape Plus,Android 9.0 Pie,2019,3000.0,Qualcomm Snapdragon 425,2.0,32.0,5.5,8.0
+LG,Esteem,Android 2.3.4,2011,1500.0,,0.5,8.0,4.3,5.0
+LG,Fortune,Android 6.0 Marshmallow,2017,2500.0,Qualcomm Snapdragon 210,1.5,16.0,5.0,5.0
+LG,Fortune 3,Android 10,2020,3000.0,MediaTek Helio P22,2.0,16.0,5.7,13.0
+LG,G Pro 2,Android 5.0 Lollipop,2014,3200.0,Qualcomm Snapdragon 800,3.0,32.0,5.9,13.0
+LG,G Pro Lite,Android 4.1.2,2013,3140.0,MediaTek,1.0,8.0,5.5,8.0
+LG,G Pro Lite Dual,Android 4.1.2,2013,3140.0,MediaTek,1.0,8.0,5.5,8.0
+LG,G Stylo,Android 5.0 Lollipop,2015,3000.0,Qualcomm Snapdragon 410,1.0,16.0,5.7,8.0
+LG,G Vista 2,Android 5.1 Lollipop,2015,3000.0,Qualcomm Snapdragon 615,2.0,16.0,5.7,13.0
+LG,G3,Android 6.0 Marshmallow,2014,3000.0,Qualcomm Snapdragon 801,3.0,32.0,5.5,13.0
+LG,G3 s,Android 4.4.2,2014,2540.0,Qualcomm Snapdragon 400,1.0,8.0,5.0,8.0
+LG,G4,Android 6.0 Marshmallow,2015,3000.0,Qualcomm Snapdragon 808,3.0,32.0,5.5,16.0
+LG,G4 Beat,Android 5.1 Lollipop,2015,2300.0,Qualcomm Snapdragon 615,1.5,8.0,5.2,8.0
+LG,G4c,Android 5.0 Lollipop,2015,2540.0,Qualcomm Snapdragon 410,1.0,8.0,5.0,8.0
+LG,G5,Android 8.0 Oreo,2016,2800.0,Qualcomm Snapdragon 820,4.0,32.0,5.3,16.0
+LG,G6,Android 8.0 Oreo,2017,3300.0,Qualcomm Snapdragon 821,4.0,32.0,5.7,13.0
+LG,G6+,Android 7.0 Nougat,2017,3300.0,Qualcomm Snapdragon 821,4.0,128.0,5.7,13.0
+LG,G7 Fit,Android 8.1 Oreo,2018,3000.0,Qualcomm Snapdragon 821,4.0,32.0,6.1,16.0
+LG,G7 ThinQ,Android 9.0 Pie,2018,3000.0,Qualcomm Snapdragon 845,4.0,64.0,6.1,16.0
+LG,G8 ThinQ,Android 9.0 Pie,2019,3500.0,Qualcomm Snapdragon 855,6.0,128.0,6.1,12.0
+LG,G8X ThinQ,Android 10,2019,4000.0,Qualcomm Snapdragon 855,6.0,128.0,6.4,12.0
+LG,GM750,Windows Mobile Professional 6.5,2009,1500.0,,0.25,0.0,3.0,5.0
+LG,GW550,Windows Mobile Standard 6.5,2009,1300.0,,0.25,0.0,2.4,3.0
+LG,GW620,Android 1.5,2009,1500.0,,,0.0,3.0,5.0
+LG,Genesis,Android 2.2,2011,1500.0,Qualcomm Snapdragon,,0.0,3.5,5.0
+LG,Harmony,Android 8.1 Oreo,2017,2800.0,Qualcomm Snapdragon 425,1.5,16.0,5.3,8.0
+LG,Harmony 2,Android 8.1 Oreo,2018,3000.0,Qualcomm Snapdragon 425,2.0,32.0,5.3,8.0
+LG,Harmony 4,Android 10,2020,3500.0,MediaTek Helio P22,3.0,32.0,6.1,13.0
+LG,INCITE,Windows Mobile Professional 6.1,2008,1300.0,,0.1,0.0,3.0,3.0
+LG,Intuition,Android 4.0.4,2012,2080.0,Qualcomm Snapdragon S3,1.0,32.0,5.0,8.0
+LG,Jil Sander Mobile,Windows Phone 7.5 Mango,2011,1500.0,,,16.0,3.8,5.0
+LG,Joy,Android 4.4,2015,1900.0,Qualcomm Snapdragon 200,0.5,4.0,4.0,5.0
+LG,K10,Android 7.0 Nougat,2016,2300.0,Qualcomm Snapdragon 210,1.5,16.0,5.3,8.0
+LG,K10 (2017),Android 7.0 Nougat,2017,2800.0,MediaTek,2.0,32.0,5.3,13.0
+LG,K20 (2019),Android 9.0 Pie,2019,3000.0,MediaTek,1.0,16.0,5.5,8.0
+LG,K3,Android 6.0 Marshmallow,2016,1940.0,Qualcomm Snapdragon 210,1.0,8.0,4.5,5.0
+LG,K3 2017,Android 6.0 Marshmallow,2017,2100.0,Qualcomm Snapdragon 210,1.0,8.0,4.5,5.0
+LG,K30,Android 7.1 Nougat,2018,3000.0,Qualcomm Snapdragon 425,2.0,16.0,5.3,8.0
+LG,K30 2019,Android 9.0 Pie,2019,3000.0,Qualcomm Snapdragon 425,3.0,16.0,5.5,8.0
+LG,K31,Android 10,2020,3000.0,MediaTek Helio P22,2.0,32.0,5.7,13.0
+LG,K4 2017,Android 6.0 Marshmallow,2017,2500.0,Qualcomm Snapdragon 210,1.0,8.0,5.0,5.0
+LG,K4 LTE,Android 5.1 Lollipop,2016,1940.0,Qualcomm Snapdragon 210,1.5,16.0,4.5,5.0
+LG,K41S,Android 10,2020,4000.0,MediaTek Helio P22,3.0,32.0,6.5,13.0
+LG,K51,Android 10,2020,4000.0,MediaTek Helio P22,3.0,32.0,6.5,13.0
+LG,K51S,Android 10,2020,4000.0,MediaTek Helio P35,3.0,64.0,6.5,32.0
+LG,K52,Android 10,2020,4000.0,Mediatek Helio P35,4.0,64.0,6.6,48.0
+LG,K61,Android 9.0 Pie,2020,4000.0,Mediatek Helio P35,4.0,128.0,6.5,48.0
+LG,K62,Android 10,2020,4000.0,Mediatek Helio P35,4.0,128.0,6.6,48.0
+LG,K8,Android 6.0 Marshmallow,2016,2125.0,MediaTek,1.5,16.0,5.0,8.0
+LG,K8 2017,Android 7.0 Nougat,2017,2500.0,Qualcomm Snapdragon 425,1.5,16.0,5.0,8.0
+LG,K8V,Android 7.0 Nougat,2016,2125.0,Qualcomm Snapdragon 212,1.5,16.0,5.0,8.0
+LG,K8x,Android 10,2020,3000.0,MediaTek Helio P22,2.0,32.0,5.7,13.0
+LG,K92,Android 10,2020,4000.0,Qualcomm Snapdragon 690,6.0,128.0,6.7,64.0
+LG,KT610,"Symbian 9.2S60 3rd Edition, Feature Pack 1",2008,950.0,,0.06,0.0,2.4,2.0
+LG,L Bello,Android 4.4.2,2014,2540.0,,1.0,8.0,5.0,8.0
+LG,L Fino,Android 4.4.2,2014,1900.0,,1.0,4.0,4.5,8.0
+LG,L20,Android 4.4,2014,1540.0,MediaTek,0.5,4.0,3.0,2.0
+LG,L40,Android 4.4,2014,1540.0,Qualcomm Snapdragon 200,0.5,4.0,3.5,3.0
+LG,L50,Android 4.4.2,2014,1900.0,MediaTek,0.5,4.0,4.0,3.0
+LG,L70,Android 4.4,2014,2100.0,,1.0,4.0,4.5,5.0
+LG,L80,Android 4.4,2014,2540.0,Qualcomm Snapdragon,1.0,4.0,5.0,5.0
+LG,L90,Android 5.0 Lollipop,2014,2460.0,Qualcomm Snapdragon 400,1.0,8.0,4.7,8.0
+LG,Lancet,Windows Phone 8.1,2015,2100.0,Qualcomm Snapdragon 410,1.0,8.0,4.5,8.0
+LG,Lancet for Android,Android 5.1 Lollipop,2015,2100.0,Qualcomm Snapdragon 410,1.0,8.0,4.5,8.0
+LG,Lucid,Android 4.0.4,2012,1700.0,,1.0,8.0,4.0,5.0
+LG,Lucid 2,Android 4.1.2,2013,2460.0,Qualcomm Snapdragon S4 Plus,1.0,8.0,4.3,5.0
+LG,Motion 4G,Android 4.0,2012,1700.0,,1.0,5.0,3.5,5.0
+LG,Nitro HD,Android 2.3.5,2011,1830.0,,1.0,4.0,4.5,8.0
+LG,Optimus,Android 2.1,2010,1500.0,,,0.0,3.0,3.0
+LG,Optimus 2X,Android 4.0,2011,1500.0,NVIDIA Tegra 250 T20 (Harmony),0.5,8.0,4.0,8.0
+LG,Optimus 3D,Android 2.3,2011,1500.0,TI OMAP 4430,0.5,8.0,4.3,5.0
+LG,Optimus 3D MAX,Android 2.3.6,2012,1520.0,TI OMAP4430,1.0,8.0,4.3,5.0
+LG,Optimus 4X HD,Android 4.1,2012,2150.0,NVIDIA Tegra 3 T30,1.0,16.0,4.7,8.0
+LG,Optimus 7,Windows Phone 7.5 Mango,2010,1500.0,Qualcomm Snapdragon S1,,16.0,3.8,5.0
+LG,Optimus Black,Android 2.3,2011,1500.0,,0.5,1.0,4.0,5.0
+LG,Optimus Elite,Android 2.3.7,2012,1520.0,,0.5,1.0,3.5,5.0
+LG,Optimus F6,Android 4.1.2,2013,2460.0,Qualcomm Snapdragon S4 Plus,1.0,4.0,4.5,5.0
+LG,Optimus F7,Android 4.1.2,2013,2540.0,Qualcomm Snapdragon S4,1.0,8.0,4.7,8.0
+LG,Optimus G AT&T,Android 4.1.2,2012,2100.0,Qualcomm Snapdragon S4 Pro,2.0,16.0,4.7,8.0
+LG,Optimus G Sprint,Android 4.1.2,2012,2100.0,Qualcomm Snapdragon S4 Pro,2.0,32.0,4.7,13.0
+LG,Optimus L4 II,Android 4.1,2013,1700.0,MediaTek,0.5,4.0,3.8,3.0
+LG,Optimus L5,Android 4.0.3,2012,1540.0,Qualcomm Snapdragon S1,0.5,2.0,4.0,5.0
+LG,Optimus L5 II,Android 4.1,2013,1700.0,MediaTek,0.5,4.0,4.0,5.0
+LG,Optimus L7,Android 4.0.3,2012,1700.0,Qualcomm Snapdragon S1,0.5,2.0,4.3,5.0
+LG,Optimus L9 II,Android 4.4.2,2013,2150.0,Qualcomm Snapdragon 400,1.0,8.0,4.7,8.0
+LG,Optimus L9 T-Mobile,Android 4.1.2,2012,2150.0,TI OMAP4430,1.0,4.0,4.5,5.0
+LG,Optimus M,Android 2.2,2010,1500.0,,0.5,0.0,3.2,3.0
+LG,Optimus Net,Android 2.3.4,2011,1500.0,Qualcomm Snapdragon S1,0.5,0.0,3.2,3.0
+LG,Optimus Pro,Android 2.3.4,2011,1500.0,Qualcomm,0.25,0.0,2.8,3.0
+LG,Optimus S,Android 2.3,2010,1500.0,Qualcomm Snapdragon S1,,0.0,3.2,3.0
+LG,Optimus Slider,Android 2.3,2011,1500.0,,0.5,0.0,3.2,3.0
+LG,Optimus T,Android 2.2,2010,1500.0,,,0.0,3.2,3.0
+LG,Optimus Vu,Android 2.3,2012,2080.0,Qualcomm Snapdragon S3,1.0,32.0,5.0,8.0
+LG,Optimus Zone,Android 2.3.6,2013,1540.0,Qualcomm Snapdragon S1,0.5,4.0,3.2,3.0
+LG,Optimus Zone 3,Android 5.1 Lollipop,2016,1940.0,Qualcomm Snapdragon 210,1.5,8.0,4.5,5.0
+LG,Phoenix 2,Android 7.0 Nougat,2016,2125.0,Qualcomm Snapdragon 210,1.5,16.0,5.0,8.0
+LG,Phoenix 3,Android 6.0 Marshmallow,2017,2500.0,Qualcomm Snapdragon 210,1.5,16.0,5.0,5.0
+LG,Phoenix 5,Android 10,2020,3000.0,MediaTek Helio P22,2.0,16.0,5.7,13.0
+LG,Phoenix Plus,Android 8.1 Oreo,2018,3000.0,Qualcomm Snapdragon 425,2.0,16.0,5.3,8.0
+LG,Prada 3.0,Android 4.0,2011,1540.0,TI OMAP4430,1.0,8.0,4.3,8.0
+LG,Prime 2,Android 9.0 Pie,2019,3000.0,Qualcomm 425,2.0,16.0,5.5,13.0
+LG,Q Stylus,Android 8.1 Oreo,2018,3300.0,MediaTek,3.0,32.0,6.2,16.0
+LG,Q6,Android 8.1 Oreo,2017,3000.0,Qualcomm Snapdragon 435,3.0,32.0,5.5,13.0
+LG,Q60,Android 9.0 Pie,2019,3500.0,MediaTek Helio P22,3.0,64.0,6.3,16.0
+LG,Q7,Android 8.1 Oreo,2018,3000.0,MediaTek,3.0,32.0,5.5,13.0
+LG,Q7+,Android 9.0 Pie,2018,3000.0,Qualcomm Snapdragon 450,4.0,64.0,5.5,16.0
+LG,Q70,Android 10,2020,4000.0,Qualcomm Snapdragon 675,4.0,64.0,6.4,32.0
+LG,Q8,Android 7.0 Nougat,2017,3000.0,Qualcomm Snapdragon 820,4.0,32.0,5.2,16.0
+LG,Quantum,Windows Phone 7.5 Mango,2010,1500.0,Qualcomm Snapdragon S1,0.5,16.0,3.5,5.0
+LG,Revolution,Android 2.3,2011,1500.0,Qualcomm Snapdragon S2,,16.0,4.3,5.0
+LG,Risio 4,Android 10,2020,3000.0,MediaTek Helio P22,2.0,16.0,5.7,13.0
+LG,Spectrum,Android 4.0.4,2012,1830.0,Qualcomm Snapdragon S3,1.0,4.0,4.5,8.0
+LG,Spectrum 2,Android 4.0.4,2012,2150.0,Qualcomm Snapdragon S4 Plus,1.0,16.0,4.7,8.0
+LG,Spree,Android 5.1 Lollipop,2016,1940.0,Qualcomm Snapdragon 210,1.0,8.0,4.5,5.0
+LG,Stylo 2,Android 6.0 Marshmallow,2016,3000.0,Qualcomm Snapdragon 410,2.0,16.0,5.7,13.0
+LG,Stylo 2 Plus,Android 7.0 Nougat,2016,2900.0,Qualcomm Snapdragon 430,2.0,16.0,5.7,13.0
+LG,Stylo 2 V,Android 6.0 Marshmallow,2016,3000.0,MediaTek Helio P10,2.0,16.0,5.7,13.0
+LG,Stylo 3,Android 7.0 Nougat,2017,3200.0,Qualcomm Snapdragon 435,2.0,16.0,5.7,13.0
+LG,Stylo 3 Plus,Android 7.0 Nougat,2017,3080.0,Qualcomm Snapdragon 435,2.0,32.0,5.7,13.0
+LG,Stylo 4,Android 9.0 Pie,2018,3300.0,Qualcomm Snapdragon 450,3.0,32.0,6.2,13.0
+LG,Stylo 5,Android 10,2019,3500.0,Qualcomm Snapdragon SDM450,3.0,32.0,6.2,13.0
+LG,Stylo 5+,Android 10,2019,3500.0,Qualcomm Snapdragon SDM450,3.0,32.0,6.2,16.0
+LG,Stylo 6,Android 10,2020,4000.0,MediaTek Helio P35,4.0,64.0,6.8,13.0
+LG,Stylus 2,Android 6.0 Marshmallow,2016,3000.0,Qualcomm Snapdragon 410,1.5,16.0,5.7,13.0
+LG,Stylus 2 Plus,Android 6.0 Marshmallow,2016,3000.0,Qualcomm Snapdragon,3.0,32.0,5.7,16.0
+LG,Thrill 4G,Android 2.3,2011,1500.0,TI OMAP 4430,0.5,8.0,4.3,5.0
+LG,Tribute 2,Android 5.1 Lollipop,2015,1900.0,Qualcomm Snapdragon 410,1.0,8.0,4.5,5.0
+LG,Tribute 5,Android 5.1 Lollipop,2016,2125.0,Qualcomm Snapdragon 210,1.0,8.0,5.0,5.0
+LG,Tribute Dynasty,,2018,2500.0,MediaTek,2.0,16.0,5.0,8.0
+LG,Tribute Empire,Android 8.1 Oreo,2019,2500.0,MediaTek MT6750,2.0,16.0,5.0,8.0
+LG,Tribute HD,Android 6.0 Marshmallow,2016,2100.0,Qualcomm Snapdragon 212,1.5,16.0,5.0,8.0
+LG,Tribute Monarch,Android 10,2020,2890.0,MediaTek Helio P22,2.0,32.0,5.7,13.0
+LG,Tribute Royal,Android 9.0 Pie,2019,3000.0,MediaTek Helio P22,2.0,16.0,5.5,8.0
+LG,V10,Android 7.0 Nougat,2015,3000.0,Qualcomm Snapdragon 808,4.0,64.0,5.7,16.0
+LG,V20,Android 8.0 Oreo,2016,3200.0,Qualcomm Snapdragon 820,4.0,64.0,5.7,16.0
+LG,V30,Android 9.0 Pie,2017,3300.0,Qualcomm Snapdragon 835,4.0,64.0,6.0,16.0
+LG,V30S ThinQ,Android 8.0 Oreo,2018,3300.0,Qualcomm Snapdragon 835,6.0,128.0,6.0,16.0
+LG,V35 ThinQ,Android 10,2018,3300.0,Qualcomm Snapdragon 845,6.0,64.0,6.0,16.0
+LG,V40 ThinQ,Android 9.0 Pie,2018,3300.0,Qualcomm Snapdragon 845,6.0,64.0,6.4,12.0
+LG,V50 ThinQ,Android 10,2019,4000.0,Qualcomm Snapdragon 855,6.0,128.0,6.4,12.0
+LG,V60 ThinQ,Android 11,2020,5000.0,Qualcomm Snapdragon 865,8.0,128.0,6.8,64.0
+LG,Velvet,Android 12,2020,4300.0,Qualcomm Snapdragon 765G,6.0,128.0,6.8,48.0
+LG,Viper 4G LTE,Android 4.0,2012,1700.0,,1.0,2.0,4.0,5.0
+LG,Volt 2,Android 5.1 Lollipop,2015,2540.0,Qualcomm Snapdragon 410,1.0,8.0,5.0,8.0
+LG,Vortex,Android 2.2,2010,1500.0,,,0.0,3.2,3.0
+LG,W41,Android 10,2021,5000.0,MediaTek Helio G35,4.0,64.0,6.5,48.0
+LG,W41 Plus,Android 10,2021,5000.0,MediaTek Helio G35,4.0,128.0,6.5,48.0
+LG,W41 Pro,Android 10,2021,5000.0,MediaTek Helio G35,6.0,128.0,6.5,48.0
+LG,Wing,Android 10,2020,4000.0,Qualcomm Snapdragon 765G,8.0,256.0,6.8,64.0
+LG,X Power,Android 6.0 Marshmallow,2016,4100.0,Qualcomm Snapdragon 212,1.5,16.0,5.3,8.0
+LG,X Power (International),Android 6.0 Marshmallow,2016,4100.0,MediaTek,2.0,16.0,5.3,13.0
+LG,X cam,Android 6.0 Marshmallow,2016,2500.0,MediaTek,2.0,16.0,5.2,13.0
+LG,X charge,Android 7.1 Nougat,2017,4500.0,Qualcomm Snapdragon 425,2.0,16.0,5.5,13.0
+LG,X screen,Android 6.0 Marshmallow,2016,2300.0,Qualcomm Snapdragon 410,2.0,16.0,4.9,13.0
+LG,X venture,Android 7.0 Nougat,2017,4100.0,Qualcomm Snapdragon 435,2.0,32.0,5.2,16.0
+LG,Zone 4,Android 7.1 Nougat,2018,2500.0,Qualcomm Snapdragon 425,2.0,16.0,5.0,8.0
+Lemon,Mobiles Ocean 102,Android 4.4,2015,1650.0,,1.0,8.0,4.5,8.0
+Lemon,Mobiles Ocean 2 Pro,Android 4.4,2015,1450.0,,0.25,0.0,3.5,2.0
+Lemon,Mobiles Ocean 4G Power,Android 5.0 Lollipop,2015,3000.0,,2.0,16.0,5.0,13.0
+Lemon,Mobiles Ocean 5,Android 4.4.2,2015,1500.0,,0.25,0.0,4.0,2.0
+Lemon,Mobiles Ocean 7,Android 4.4,2015,1650.0,,0.5,4.0,4.0,5.0
+Lenovo,A Plus,Android 5.1 Lollipop,2016,2000.0,MediaTek,1.0,8.0,4.5,5.0
+Lenovo,A2010,Android 5.1 Lollipop,2015,2000.0,MediaTek,1.0,8.0,4.5,5.0
+Lenovo,A6000,Android 4.4.4,2015,2300.0,Qualcomm Snapdragon 410,1.0,8.0,5.0,8.0
+Lenovo,A606,Android 4.4,2014,2000.0,MediaTek,1.0,8.0,5.0,8.0
+Lenovo,A850,Android 4.2,2013,2250.0,MediaTek,1.0,4.0,5.5,5.0
+Lenovo,K3 Note,Android 5.0 Lollipop,2015,2900.0,MediaTek,2.0,16.0,5.5,13.0
+Lenovo,K4 Note,Android 5.1 Lollipop,2016,3300.0,MediaTek,3.0,16.0,5.5,13.0
+Lenovo,K6,Android 6.0 Marshmallow,2016,3000.0,Qualcomm Snapdragon 430,2.0,32.0,5.0,13.0
+Lenovo,K6 Note,Android 7.0 Nougat,2016,4000.0,Qualcomm Snapdragon 430,4.0,32.0,5.5,16.0
+Lenovo,K6 Power,Android 7.0 Nougat,2016,4000.0,Qualcomm Snapdragon 430,3.0,32.0,5.0,13.0
+Lenovo,P2,Android 6.0 Marshmallow,2016,5100.0,Qualcomm Snapdragon 625,4.0,32.0,5.5,13.0
+Lenovo,P70,Android 4.4.4,2015,4000.0,MediaTek,2.0,16.0,5.0,13.0
+Lenovo,P90,Android 4.4,2015,4000.0,Intel Atom,2.0,32.0,5.5,13.0
+Lenovo,PHAB,Android 5.1 Lollipop,2015,4250.0,Qualcomm Snapdragon 410,1.0,16.0,7.0,13.0
+Lenovo,PHAB Plus,Android 5.0 Lollipop,2015,3500.0,Qualcomm Snapdragon 615,2.0,32.0,6.8,13.0
+Lenovo,Phab 2,Android 6.0 Marshmallow,2016,4050.0,MediaTek,3.0,32.0,6.4,13.0
+Lenovo,Phab 2 Plus,Android 6.0 Marshmallow,2016,4050.0,MediaTek,3.0,32.0,6.4,13.0
+Lenovo,Phab 2 Pro,Android 6.0 Marshmallow,2016,4050.0,Qualcomm Snapdragon 652,4.0,64.0,6.4,16.0
+Lenovo,S60,Android 5.0 Lollipop,2015,2150.0,Qualcomm Snapdragon 410,2.0,8.0,5.0,13.0
+Lenovo,S650,Android 4.2,2013,2000.0,MediaTek,1.0,8.0,4.7,8.0
+Lenovo,S850,Android 4.2,2014,2000.0,MediaTek,1.0,16.0,5.0,13.0
+Lenovo,S856,Android 4.4,2014,2500.0,Qualcomm Snapdragon,1.0,8.0,5.5,8.0
+Lenovo,S930,Android 4.2,2013,3000.0,MediaTek,1.0,8.0,6.0,8.0
+Lenovo,VIBE S1 Lite,Android 5.1 Lollipop,2016,2700.0,MediaTek,2.0,16.0,5.0,13.0
+Lenovo,VIBE Shot,Android 5.1 Lollipop,2015,3000.0,Qualcomm Snapdragon 615,3.0,32.0,5.0,16.0
+Lenovo,VIBE X2 Pro,Android 4.4,2015,2410.0,Qualcomm Snapdragon 615,2.0,32.0,5.3,13.0
+Lenovo,Vibe K5,Android 5.1 Lollipop,2016,2750.0,Qualcomm Snapdragon 415,2.0,16.0,5.0,13.0
+Lenovo,Vibe K5 Plus,Android 5.1 Lollipop,2016,2750.0,Qualcomm Snapdragon 616,2.0,16.0,5.0,13.0
+Lenovo,Vibe P1,Android 5.1 Lollipop,2015,5000.0,Qualcomm Snapdragon 615,2.0,32.0,5.5,13.0
+Lenovo,Vibe P1m,Android 5.1 Lollipop,2015,4000.0,MediaTek,2.0,16.0,5.0,8.0
+Lenovo,Vibe S1,Android 6.0 Marshmallow,2015,2500.0,MediaTek,3.0,32.0,5.0,13.0
+Lenovo,Vibe X3,Android 5.1 Lollipop,2015,3500.0,Qualcomm Snapdragon 808,3.0,32.0,5.5,21.0
+Lenovo,Vibe Z,Android 4.4.2,2013,3000.0,Qualcomm Snapdragon 800,2.0,16.0,5.5,13.0
+Lenovo,Vibe Z2,Android 4.4,2014,3000.0,Qualcomm Snapdragon 410,2.0,32.0,5.5,13.0
+Lenovo,Vibe Z2 Pro,Android 4.4,2014,4000.0,Qualcomm Snapdragon 801,3.0,32.0,6.0,16.0
+Lenovo,ZUK Z1,Android 5.1 Lollipop,2015,4100.0,Qualcomm Snapdragon 801,3.0,64.0,5.5,13.0
+Meizu,Blue Charm Metal,Android ,2015,3140.0,MediaTek Helio X10,2.0,32.0,5.5,13.0
+Meizu,M3,Android ,2016,2870.0,MediaTek,3.0,32.0,5.0,13.0
+Meizu,M3 Max,Android 6.0 Marshmallow,2016,4100.0,MediaTek Helio P10,3.0,64.0,6.0,13.0
+Meizu,M3 Note,Android 5.1 Lollipop,2016,4100.0,MediaTek Helio P10,3.0,32.0,5.5,13.0
+Meizu,M3X,Android ,2016,3200.0,MediaTek Helio P20,4.0,64.0,5.5,12.0
+Meizu,M5,Android ,2016,3070.0,MediaTek,3.0,32.0,5.2,13.0
+Meizu,M5 Note,Android 6.0 Marshmallow,2016,4000.0,MediaTek Helio P10,4.0,64.0,5.5,13.0
+Meizu,M5c,Android 6.0 Marshmallow,2017,3000.0,MediaTek,2.0,16.0,5.0,8.0
+Meizu,M5s,Android 6.0 Marshmallow,2017,3000.0,MediaTek,3.0,16.0,5.2,13.0
+Meizu,M6,Android 7.0 Nougat,2017,3070.0,MediaTek,3.0,32.0,5.2,13.0
+Meizu,M6s,Android 7.1 Nougat,2018,3000.0,Samsung Exynos 5 Hexa,3.0,64.0,5.7,16.0
+Meizu,MX4,Android 4.4.4,2014,3100.0,MediaTek,2.0,16.0,5.4,20.0
+Meizu,MX4 Pro,Android 4.4.4,2014,3350.0,Samsung Exynos 5 Octa,3.0,64.0,5.5,20.0
+Meizu,MX5,Android 5.0 Lollipop,2015,3150.0,MediaTek Helio X10,3.0,64.0,5.5,20.0
+Meizu,MX6,Android 6.0 Marshmallow,2016,3060.0,MediaTek Helio X20,4.0,32.0,5.5,12.0
+Meizu,PRO 5,Android ,2015,3050.0,Samsung Exynos 7 Octa,4.0,64.0,5.7,21.0
+Meizu,PRO 6 Plus,Android 6.0 Marshmallow,2016,3400.0,Samsung Exynos 8 Octa,4.0,128.0,5.7,12.0
+Meizu,Pro 6,Android ,2016,2560.0,MediaTek Helio X25,4.0,64.0,5.2,21.0
+Meizu,Pro 7,Android 7.0 Nougat,2017,3000.0,MediaTek Helio X30,4.0,128.0,5.2,12.0
+Meizu,Pro 7 Plus,Android 7.0 Nougat,2017,3500.0,MediaTek Helio X30,6.0,128.0,5.7,12.0
+Meizu,m2,Android 5.1 Lollipop,2015,2500.0,MediaTek,2.0,16.0,5.0,13.0
+Meizu,m2 note,Android 5.0 Lollipop,2015,3100.0,MediaTek,2.0,32.0,5.5,13.0
+Micromax,A100,Android 4.0.3,2012,2000.0,,0.5,4.0,5.0,5.0
+Micromax,A52,Android 2.3.6,2012,1280.0,,,0.0,3.2,2.0
+Micromax,A60,Android 2.1,2010,1280.0,,,0.0,2.8,3.0
+Micromax,A73,Android 2.3,2011,1300.0,,0.25,0.0,3.5,2.0
+Micromax,Bharat 2 Ultra,Android 6.0 Marshmallow,2017,1300.0,Spreadtrum,0.5,4.0,4.0,2.0
+Micromax,Bolt A067,Android 4.4.2,2014,1300.0,MediaTek,0.5,4.0,4.0,2.0
+Micromax,Bolt A068,Android 4.2.2,2014,2000.0,MediaTek,0.5,4.0,5.0,5.0
+Micromax,Bolt A069,Android 4.4.2,2014,1800.0,MediaTek,0.5,4.0,5.0,5.0
+Micromax,Bolt A082,Android 4.4.2,2014,1700.0,MediaTek,0.5,4.0,4.0,2.0
+Micromax,Bolt A82,Android 4.4.2,2015,1800.0,MediaTek,0.5,4.0,5.0,5.0
+Micromax,Bolt AD4500,Android 4.4.2,2014,2000.0,MediaTek,0.5,4.0,4.5,5.0
+Micromax,Bolt D200,Android 4.4.2,2015,1200.0,MediaTek,0.5,0.0,3.5,0.0
+Micromax,Bolt D320,Android 4.4.2,2015,1600.0,MediaTek,0.5,4.0,4.5,3.0
+Micromax,Bolt D321,Android 4.4.2,2015,1800.0,MediaTek,0.5,4.0,5.0,5.0
+Micromax,Bolt Q324,Android 4.4.2,2015,1450.0,Spreadtrum,0.5,4.0,4.0,2.0
+Micromax,Bolt Q338,Android 5.1 Lollipop,2015,2000.0,MediaTek,1.0,8.0,5.0,8.0
+Micromax,Bolt S301,Android 4.4.2,2015,1200.0,Spreadtrum,0.5,4.0,3.5,1.0
+Micromax,Canvas 5,Android 5.1 Lollipop,2015,2900.0,MediaTek,3.0,16.0,5.2,13.0
+Micromax,Canvas Blaze 4G,Android 5.1 Lollipop,2015,2000.0,Qualcomm Snapdragon 210,1.0,8.0,4.5,5.0
+Micromax,Canvas Blaze HD,Android 4.1,2014,2000.0,Qualcomm Snapdragon S4,1.0,4.0,5.0,8.0
+Micromax,Canvas Doodle 4,Android 5.0 Lollipop,2015,3000.0,MediaTek,1.0,8.0,6.0,8.0
+Micromax,Canvas Engage,Android 6.0 Marshmallow,2014,2800.0,Qualcomm Snapdragon 801,2.0,16.0,5.1,16.0
+Micromax,Canvas Fire 3,Android 4.4.2,2015,1850.0,MediaTek,1.0,8.0,4.5,5.0
+Micromax,Canvas Fire 4,Android 5.0 Lollipop,2015,2000.0,MediaTek,1.0,8.0,4.5,8.0
+Micromax,Canvas HUE 2,Android 4.4.2,2015,2000.0,MediaTek,2.0,16.0,5.0,13.0
+Micromax,Canvas Juice 2,Android 5.0 Lollipop,2015,3000.0,MediaTek,2.0,8.0,5.0,8.0
+Micromax,Canvas Knight 2,Android 5.0 Lollipop,2015,2260.0,Qualcomm Snapdragon 615,2.0,16.0,5.0,13.0
+Micromax,Canvas Nitro 2,Android 4.4.2,2015,2400.0,MediaTek,2.0,16.0,5.0,13.0
+Micromax,Canvas Play,Android 5.0 Lollipop,2015,2820.0,MediaTek,1.0,8.0,5.5,5.0
+Micromax,Canvas Selfie Lens,Android 5.0 Lollipop,2015,2800.0,MediaTek,1.0,8.0,5.0,8.0
+Micromax,Canvas Sliver 5,Android 5.0 Lollipop,2015,2000.0,Qualcomm Snapdragon 410,2.0,16.0,4.8,8.0
+Micromax,Canvas Xpress 2,Android 5.1 Lollipop,2015,2500.0,MediaTek,1.0,8.0,5.0,13.0
+Micromax,Unite 3,Android 5.0 Lollipop,2015,2000.0,MediaTek,1.0,8.0,4.7,8.0
+Microsoft,Lumia 430,Windows Phone 8.1,2015,1500.0,Qualcomm Snapdragon 200,1.0,8.0,4.0,2.0
+Microsoft,Lumia 540 Dual,Windows Phone 8.1,2015,2200.0,Qualcomm Snapdragon 200,1.0,8.0,5.0,8.0
+Microsoft,Lumia 550,Windows 10 Mobile,2015,2100.0,Qualcomm Snapdragon 210,1.0,8.0,4.7,5.0
+Microsoft,Lumia 650,Windows 10 Mobile,2016,2000.0,Qualcomm Snapdragon 212,1.0,16.0,5.0,8.0
+Microsoft,Lumia 950,Windows 10 Mobile,2015,3000.0,Qualcomm Snapdragon 808,3.0,32.0,5.2,20.0
+Microsoft,Lumia 950 XL,Windows 10 Mobile,2015,3340.0,Qualcomm Snapdragon 810,3.0,32.0,5.7,20.0
+Microsoft,Surface Duo,Android 10,2020,3577.0,Qualcomm Snapdragon 855,6.0,128.0,8.1,11.0
+Motorola,ATRIX 2,Android 2.3.5,2011,1785.0,TI OMAP4430,1.0,8.0,4.3,8.0
+Motorola,Admiral,Android 2.3,2011,1860.0,Qualcomm Snapdragon S2,0.5,4.0,3.1,5.0
+Motorola,BACKFLIP,Android 2.1,2010,1400.0,Qualcomm MSM7200A,0.25,0.0,3.1,5.0
+Motorola,CHARM,Android 2.1,2010,1170.0,,,0.0,2.8,3.0
+Motorola,CITRUS,Android 2.1,2010,1150.0,,,0.0,3.0,3.0
+Motorola,CLIQ,Android 1.5,2009,1420.0,Qualcomm MSM7200A,0.25,0.0,3.1,5.0
+Motorola,CLIQ 2,Android 2.3,2011,1420.0,,0.5,1.0,3.7,5.0
+Motorola,CLIQ XT,Android 1.5,2010,1420.0,Qualcomm MSM7200A,0.25,0.0,3.1,5.0
+Motorola,DEFY,Android 2.2,2010,1540.0,TI OMAP3630,0.5,2.0,3.7,5.0
+Motorola,DEFY XT,Android 2.3.7,2012,1650.0,Qualcomm Snapdragon S1,0.5,1.0,3.7,5.0
+Motorola,DEFY+,Android 2.3,2011,1700.0,,0.5,2.0,3.7,5.0
+Motorola,DROID 2,Android 2.3,2010,1400.0,TI OMAP3630,0.5,8.0,3.7,5.0
+Motorola,DROID 2 Global,Android 2.3,2010,1420.0,,0.5,6.0,3.7,5.0
+Motorola,DROID 3,Android 2.3,2011,1540.0,TI OMAP 4430,0.5,16.0,4.0,8.0
+Motorola,DROID 4,Android 4.1.2,2012,1785.0,TI OMAP4430,1.0,16.0,4.0,8.0
+Motorola,DROID BIONIC,Android 4.1.2,2011,1735.0,,1.0,16.0,4.3,8.0
+Motorola,DROID MAXX,Android 4.4.4,2013,3500.0,Motorola X8,2.0,32.0,5.0,10.0
+Motorola,DROID MAXX 2,Android 7.0 Nougat,2015,3630.0,Qualcomm Snapdragon 615,2.0,16.0,5.5,21.0
+Motorola,DROID PRO,Android 2.3.3,2010,1420.0,TI OMAP3620,0.5,1.0,3.1,5.0
+Motorola,DROID RAZR,Android 4.1.2,2011,1780.0,TI OMAP4430,1.0,16.0,4.3,8.0
+Motorola,DROID RAZR HD,Android 4.4.2,2012,2530.0,Qualcomm Snapdragon S4 Plus,1.0,16.0,4.7,8.0
+Motorola,DROID RAZR MAXX,Android 4.1.2,2012,3300.0,TI OMAP4430,1.0,16.0,4.3,8.0
+Motorola,DROID RAZR MAXX HD,Android 4.4.2,2012,3300.0,Qualcomm Snapdragon S4 Plus,1.0,32.0,4.7,8.0
+Motorola,DROID Turbo 2,Android 7.0 Nougat,2015,3760.0,Qualcomm Snapdragon 810,3.0,64.0,5.4,21.0
+Motorola,DROID Ultra,Android 4.4.4,2013,2130.0,Motorola X8,2.0,16.0,5.0,10.0
+Motorola,DROID X2,Android 2.3,2011,1540.0,NVIDIA Tegra 2,0.5,8.0,4.3,8.0
+Motorola,Defy (2021),Android 11,2021,5000.0,Qualcomm Snapdragon 662,4.0,64.0,6.5,48.0
+Motorola,ELECTRIFY M,Android 4.1,2012,2000.0,,1.0,8.0,4.3,8.0
+Motorola,Edge (2021),Android 11,2021,5000.0,Qualcomm Snapdragon 778G,8.0,256.0,6.8,108.0
+Motorola,Edge (2022),Android 12,2022,5000.0,MediaTek Dimensity 1050,6.0,128.0,6.6,50.0
+Motorola,Edge 20,Android 11,2021,4000.0,Qualcomm Snapdragon 778G,8.0,128.0,6.7,108.0
+Motorola,Edge 20 Lite,Android 11,2021,5000.0,MediaTek Dimensity 720,8.0,128.0,6.7,108.0
+Motorola,Edge 20 Pro,Android 12,2021,4500.0,Qualcomm Snapdragonn 870,12.0,256.0,6.7,108.0
+Motorola,Edge 30,Android 12,2022,4020.0,Qualcomm Snapdragon 778G+ ,8.0,128.0,6.5,50.0
+Motorola,Edge+ (2022),Android 12,2022,4800.0,Qualcomm Snapdragon 8 Gen 1,8.0,128.0,6.7,50.0
+Motorola,MILESTONE XT720,Android 2.1,2010,1390.0,TI OMAP3430,0.25,0.0,3.7,8.0
+Motorola,MOTOZINE ZN5,Linux ,2008,950.0,,0.06,0.0,2.4,5.0
+Motorola,Moto C,Android 7.0 Nougat,2017,2350.0,MediaTek,1.0,16.0,5.0,5.0
+Motorola,Moto C Plus,Android 7.0 Nougat,2017,4000.0,MediaTek,2.0,16.0,5.0,8.0
+Motorola,Moto E,Android 4.4.4,2014,1980.0,Qualcomm Snapdragon 200,1.0,4.0,4.3,5.0
+Motorola,Moto E (2020),Android 10,2020,3550.0,Qualcomm Snapdragon 632 ,2.0,32.0,6.2,13.0
+Motorola,Moto E20,Android 11,2021,4000.0,Unisoc T606,2.0,32.0,6.5,13.0
+Motorola,Moto E3,Android 6.0 Marshmallow,2016,2800.0,MediaTek,1.0,8.0,5.0,8.0
+Motorola,Moto E4,,2017,2800.0,Qualcomm Snapdragon 427,2.0,16.0,5.0,8.0
+Motorola,Moto E4 Plus,Android 7.1 Nougat,2017,5000.0,Qualcomm Snapdragon 427,2.0,32.0,5.5,13.0
+Motorola,Moto E5,Android 8.0 Oreo,2018,4000.0,Qualcomm Snapdragon 425,2.0,16.0,5.7,8.0
+Motorola,Moto E5 Play,Android 8.0 Oreo,2018,2800.0,Qualcomm Snapdragon 425,2.0,16.0,5.2,8.0
+Motorola,Moto E6,Android 9.0 Pie,2019,3000.0,Qualcomm Snapdragon 435,2.0,16.0,5.5,13.0
+Motorola,Moto E6 Play,Android 9.0 Pie,2019,3000.0,MediaTek MT6739,2.0,32.0,5.5,13.0
+Motorola,Moto E6 Plus,Android 9.0 Pie,2019,3000.0,MediaTek Helio P22,4.0,64.0,6.1,13.0
+Motorola,Moto E6s,Android 9.0 Pie,2020,3000.0,MediaTek Helio P22,2.0,32.0,6.1,13.0
+Motorola,Moto E7 Plus,Android 10,2020,5000.0,Qualcomm Snapdragon 460,4.0,64.0,6.5,48.0
+Motorola,Moto G (2015),Android 6.0 Marshmallow,2015,2470.0,Qualcomm Snapdragon 410,2.0,16.0,5.0,13.0
+Motorola,Moto G 5G,Android 10,2020,5000.0,Qualcomm Snapdragon 750G ,4.0,64.0,6.7,48.0
+Motorola,Moto G 5G (2022),Android 12,2022,5000.0,MediaTek Dimensity 700,4.0,64.0,6.5,50.0
+Motorola,Moto G 5G Plus,Android 11,2020,5000.0,Qualcomm Snapdragon 765,4.0,64.0,6.7,48.0
+Motorola,Moto G Fast,Android 11,2020,4000.0,Qualcomm Snapdragon 665,3.0,32.0,6.4,16.0
+Motorola,Moto G LTE,Android 5.1 Lollipop,2014,2070.0,Qualcomm Snapdragon 400,1.0,8.0,4.5,5.0
+Motorola,Moto G Play,Android 11,2021,5000.0,Qualcomm Snapdragon 460,3.0,32.0,6.5,13.0
+Motorola,Moto G Power,Android 11,2020,5000.0,Qualcomm Snapdragon 665,4.0,64.0,6.4,16.0
+Motorola,Moto G Power (2021),Android 10,2021,5000.0,Qualcomm Snapdragon 662,4.0,64.0,6.6,48.0
+Motorola,Moto G Power (2022),Android 11,2022,5000.0,MediaTek Helio G37,4.0,128.0,6.5,50.0
+Motorola,Moto G Pure,Android 11,2021,4000.0,MediaTek Helio G25,3.0,32.0,6.5,13.0
+Motorola,Moto G Stylus,Android 12,2020,4000.0,Qualcomm Snapdragon 665,4.0,128.0,6.4,48.0
+Motorola,Moto G Stylus (2021),Android 10,2021,4000.0,Qualcomm Snapdragon 678,4.0,128.0,6.8,48.0
+Motorola,Moto G Stylus (2022),Android 11,2022,5000.0,MediaTek Helio G88,6.0,128.0,6.8,50.0
+Motorola,Moto G Stylus 5G (2021),Android 11,2021,5000.0,Qualcomm Snapdragon 480 5G,4.0,128.0,6.8,48.0
+Motorola,Moto G Stylus 5G (2022),Android 12,2022,5000.0,Qualcomm Snapdragon 695,4.0,128.0,6.8,50.0
+Motorola,Moto G10,Android 11,2021,5000.0,Qualcomm Snapdragon 460,4.0,64.0,6.5,48.0
+Motorola,Moto G100,Android 11,2021,5000.0,Qualcomm Snapdragon 870 5G,8.0,128.0,6.7,64.0
+Motorola,Moto G200 5G,Android 11,2022,5000.0,Qualcomm Snapdragon 888+,8.0,128.0,6.8,108.0
+Motorola,Moto G22,Android 12,2022,5000.0,Mediatek Helio G37,4.0,64.0,6.5,50.0
+Motorola,Moto G30,Android 11,2021,5000.0,Qualcomm Snapdragon 662,4.0,128.0,6.5,64.0
+Motorola,Moto G31,Android 11,2021,5000.0,MediaTek Helio G85,4.0,64.0,6.4,50.0
+Motorola,Moto G4,Android 7.0 Nougat,2016,3000.0,Qualcomm Snapdragon 617,2.0,32.0,5.5,13.0
+Motorola,Moto G4 Play,Android 7.0 Nougat,2016,2800.0,Qualcomm Snapdragon 410,2.0,16.0,5.0,8.0
+Motorola,Moto G4 Plus,Android 8.1 Oreo,2016,3000.0,Qualcomm Snapdragon 617,4.0,64.0,5.5,16.0
+Motorola,Moto G41,Android 11,2022,5000.0,MediaTek Helio G85,4.0,128.0,6.4,48.0
+Motorola,Moto G42,Android 12,2022,5000.0,Qualcomm Snapdragon 680 4G,4.0,64.0,6.4,50.0
+Motorola,Moto G5,Android 8.1 Oreo,2017,2800.0,Qualcomm Snapdragon 430,2.0,16.0,5.0,13.0
+Motorola,Moto G5 Plus,Android 8.1 Oreo,2017,3000.0,Qualcomm Snapdragon 625,4.0,64.0,5.2,12.0
+Motorola,Moto G50,Android 12,2021,5000.0,Qualcomm Snapdragon 480 5G,4.0,64.0,6.5,48.0
+Motorola,Moto G6,Android 9.0 Pie,2018,3000.0,Qualcomm Snapdragon 450,3.0,32.0,5.7,12.0
+Motorola,Moto G6 Play,Android 9.0 Pie,2018,4000.0,Qualcomm Snapdragon 427,3.0,32.0,5.7,13.0
+Motorola,Moto G6 Plus,Android 9.0 Pie,2018,3200.0,Qualcomm Snapdragon 630,6.0,64.0,5.9,12.0
+Motorola,Moto G60,Android 11,2021,6000.0,Qualcomm Snapdragon 732G,4.0,64.0,6.8,108.0
+Motorola,Moto G60s,Android 11,2021,5000.0,MediaTek Helio G95,4.0,128.0,6.8,64.0
+Motorola,Moto G62 5G,Android 12,2022,5000.0,Qualcomm Snapdragon 480+ 5G,4.0,64.0,6.5,50.0
+Motorola,Moto G7,Android 9.0 Pie,2019,3000.0,Qualcomm Snapdragon 632,4.0,64.0,6.2,12.0
+Motorola,Moto G7 Play,Android 9.0 Pie,2019,3000.0,Qualcomm Snapdragon 632,2.0,32.0,5.7,13.0
+Motorola,Moto G7 Plus,Android 10,2019,3000.0,Qualcomm Snapdragon 636,4.0,64.0,6.2,16.0
+Motorola,Moto G7 Power,Android 9.0 Pie,2019,5000.0,Qualcomm Snapdragon 632,3.0,32.0,6.2,12.0
+Motorola,Moto G71 5G,Android 11,2022,5000.0,Qualcomm Snapdragon 695,6.0,128.0,6.4,50.0
+Motorola,Moto G8,Android 10,2020,4000.0,Qualcomm Snapdragon 665,4.0,64.0,6.4,16.0
+Motorola,Moto G8 Play,Android 10,2019,4000.0,MediaTek Helio P70,2.0,32.0,6.2,13.0
+Motorola,Moto G8 Plus,Android 10,2019,4000.0,Qualcomm Snapdragon 665,4.0,64.0,6.3,48.0
+Motorola,Moto G8 Power,Android 10,2020,5000.0,Qualcomm Snapdragon 665,4.0,64.0,6.4,16.0
+Motorola,Moto G82,Android 12,2022,5000.0,Qualcomm Snapdragon 695,6.0,128.0,6.6,50.0
+Motorola,Moto G9 Play,Android 10,2020,5000.0,Qualcomm Snapdragon 662,4.0,64.0,6.5,48.0
+Motorola,Moto G9 Plus,Android 10,2020,5000.0,Qualcomm Snapdragon 730,4.0,128.0,6.8,64.0
+Motorola,Moto M,Android 7.0 Nougat,2016,3050.0,MediaTek Helio P15,4.0,32.0,5.5,16.0
+Motorola,Moto X,Android 5.1 Lollipop,2013,2200.0,Qualcomm Snapdragon S4 Pro,2.0,16.0,4.7,10.0
+Motorola,Moto X Play,Android 7.1 Nougat,2015,3630.0,Qualcomm Snapdragon 615,2.0,32.0,5.5,21.0
+Motorola,Moto X Pure Edition (2015),Android 7.0 Nougat,2015,3000.0,Qualcomm Snapdragon 808,3.0,64.0,5.7,21.0
+Motorola,Moto X Style,Android 7.0 Nougat,2015,3000.0,Qualcomm Snapdragon 808,3.0,64.0,5.7,21.0
+Motorola,Moto Z,Android 8.0 Oreo,2016,2600.0,Qualcomm Snapdragon 820,4.0,32.0,5.5,13.0
+Motorola,Moto Z Droid Edition,Android 7.1 Nougat,2016,2600.0,Qualcomm Snapdragon 820,4.0,64.0,5.5,13.0
+Motorola,Moto Z Force,Android 7.0 Nougat,2016,3500.0,Qualcomm Snapdragon 820,4.0,64.0,5.5,21.0
+Motorola,Moto Z Force Droid Edition,Android 7.1 Nougat,2016,3500.0,Qualcomm Snapdragon 820,4.0,64.0,5.5,21.0
+Motorola,Moto Z Play,Android 8.0 Oreo,2016,3510.0,Qualcomm Snapdragon 625,3.0,32.0,5.5,16.0
+Motorola,Moto Z Play Droid,Android 8.0 Oreo,2016,3510.0,Qualcomm Snapdragon 625,3.0,32.0,5.5,16.0
+Motorola,Moto Z2 Force Edition,Android 9.0 Pie,2017,2730.0,Qualcomm Snapdragon 835,4.0,64.0,5.5,12.0
+Motorola,Moto Z2 Play,Android 9.0 Pie,2017,3000.0,Qualcomm Snapdragon 626,4.0,64.0,5.5,12.0
+Motorola,Moto Z3,Android 9.0 Pie,2018,3000.0,Qualcomm Snapdragon 835,4.0,64.0,6.0,12.0
+Motorola,Moto Z3 Play,Android 9.0 Pie,2018,3000.0,Qualcomm Snapdragon 636,4.0,64.0,6.0,12.0
+Motorola,Moto Z4,Android 10,2019,3600.0,Qualcomm Snapdragon 675,4.0,128.0,6.4,48.0
+Motorola,One,Android 9.0 Pie,2018,3000.0,Qualcomm Snapdragon 625,4.0,64.0,5.9,13.0
+Motorola,One 5G,Android 10,2020,5000.0,Qualcomm Snapdragon 765,4.0,128.0,6.7,48.0
+Motorola,One 5G Ace,Android 10,2021,5000.0,Qualcomm Snapdragon 750G,4.0,64.0,6.7,48.0
+Motorola,One Action,Android 11,2019,3500.0,Samsung Exynos 7 Octa,4.0,128.0,6.3,12.0
+Motorola,One Fusion+,Android 10,2020,5000.0,Qualcomm Snapdragon 730,4.0,128.0,6.5,64.0
+Motorola,One Hyper,Android 11,2019,4000.0,Qualcomm Snapdragon 675,4.0,128.0,6.5,64.0
+Motorola,One Macro,Android 9.0 Pie,2019,4000.0,MediaTek Helio P70,4.0,64.0,6.2,13.0
+Motorola,One Power,Android 10,2018,5000.0,Qualcomm Snapdragon 636,4.0,64.0,6.2,16.0
+Motorola,One Vision,Android 9.0 Pie,2019,3500.0,Samsung Exynos 7 Octa,4.0,128.0,6.3,48.0
+Motorola,One Zoom,Android 9.0 Pie,2019,4000.0,Qualcomm Snapdragon 675 ,4.0,128.0,6.4,48.0
+Motorola,PRO+,Android 2.3,2011,1600.0,Qualcomm Snapdragon S2,0.5,4.0,3.1,5.0
+Motorola,QUENCH,Android 1.5,2010,1420.0,Qualcomm MSM7200A,0.25,0.0,3.1,5.0
+Motorola,RAZR,Android 4.1.2,2011,1780.0,TI OMAP4430,1.0,16.0,4.3,8.0
+Motorola,RIZR Z8,Symbian 9.2UIQ 3.1,2007,1030.0,,0.06,0.0,2.2,2.0
+Motorola,TITANIUM,Android 2.1,2011,1820.0,,,0.0,3.1,5.0
+Motorola,TRIUMPH,Android 2.2,2011,1400.0,Qualcomm Snapdragon S2,0.5,2.0,4.1,5.0
+Motorola,XPRT,Android 2.3,2011,1860.0,TI OMAP3620,0.5,1.0,3.1,5.0
+Motorola,XT319,Android 2.3.4,2011,1390.0,Qualcomm MSM7227T-1,0.25,0.0,3.2,3.0
+Motorola,edge,Android 10,2020,4500.0,Qualcomm Snapdragon 765,6.0,256.0,6.7,64.0
+Motorola,edge+,Android 11,2020,5000.0,Qualcomm Snapdragon 865,12.0,256.0,6.7,108.0
+Motorola,i1,Android 1.5,2010,1400.0,,0.25,0.0,3.1,5.0
+Motorola,moto g52,Android 12,2022,5000.0,Qualcomm Snapdragon 680,4.0,128.0,6.6,50.0
+Motorola,razr (2020),Android 11,2020,2800.0,Qualcomm Snapdragon 765G,8.0,256.0,6.2,48.0
+Motorola,razr (2022),Android 12,2022,3500.0,Snapdragon 8+ Gen 1,8.0,128.0,6.7,50.0
+NIU,Tek 3.5D2,Android 4.4,2014,1200.0,MediaTek,0.25,2.0,3.5,2.0
+NIU,Tek 4D2,Android 4.4,2014,1200.0,MediaTek,0.5,4.0,4.0,3.0
+NIU,Tek 5D,Android 4.4.2,2015,2000.0,MediaTek,0.5,4.0,5.0,5.0
+Nokia,1,Android 10,2018,2150.0,MediaTek,1.0,8.0,4.5,5.0
+Nokia,1.3,Android 11,2020,3000.0,Qualcomm 215,1.0,16.0,5.7,8.0
+Nokia,1.4,Android 10,2021,4000.0,Qualcomm 215,3.0,64.0,6.5,8.0
+Nokia,2,Android 8.1 Oreo,2017,4100.0,Qualcomm Snapdragon 212,1.0,8.0,5.0,8.0
+Nokia,2 V,Android 8.1 Oreo,2019,4000.0,Qualcomm Snapdragon 425,1.0,8.0,5.5,8.0
+Nokia,2 V Tella,Android 10,2020,3000.0,MediaTek Helio A22,2.0,16.0,5.5,8.0
+Nokia,2.1,Android 9.0 Pie,2018,4000.0,Qualcomm Snapdragon 425,1.0,8.0,5.5,8.0
+Nokia,2.2,Android 9.0 Pie,2019,3000.0,MediaTek Helio A22,3.0,32.0,5.7,13.0
+Nokia,2.3,Android 10,2019,4000.0,MediaTek Helio A22,2.0,32.0,6.2,13.0
+Nokia,2.4,Android 12,2020,4500.0,MediaTek Helio P22,2.0,32.0,6.5,13.0
+Nokia,2660 Flip,,2022,1450.0,Unisoc T107,,0.0,2.8,0.0
+Nokia,3,Android 9.0 Pie,2017,2650.0,MediaTek,2.0,16.0,5.0,8.0
+Nokia,3 V,Android 9.0 Pie,2019,4000.0,Qualcomm Snapdragon 429,2.0,16.0,6.3,13.0
+Nokia,3.1,Android 9.0 Pie,2018,2990.0,MediaTek,3.0,32.0,5.2,13.0
+Nokia,3.1 A,Android 9.0 Pie,2019,2990.0,Qualcomm Snapdragon 429,2.0,32.0,5.5,8.0
+Nokia,3.1 C,Android 9.0 Pie,2019,2990.0,Qualcomm Snapdragon 429,2.0,32.0,5.5,8.0
+Nokia,3.1 Plus,Android 9.0 Pie,2019,3500.0,Qualcomm Snapdragon 439,2.0,32.0,6.0,13.0
+Nokia,3.1 Plus International,Android 10,2018,3500.0,MediaTek Helio P22,3.0,32.0,6.0,13.0
+Nokia,3.2,Android 11,2019,4000.0,Qualcomm Snapdragon 429,3.0,32.0,6.3,13.0
+Nokia,3.4,Android 11,2020,4000.0,Qualcomm Snapdragon 460,3.0,32.0,6.4,13.0
+Nokia,3650,Symbian 6.0,2003,850.0,,,0.0,,0.0
+Nokia,4.2,Android 10,2019,3000.0,Qualcomm Snapdragon 439,3.0,32.0,5.7,13.0
+Nokia,5,Android 9.0 Pie,2017,3000.0,Qualcomm Snapdragon 430,2.0,16.0,5.2,13.0
+Nokia,5.1,Android 9.0 Pie,2018,2970.0,MediaTek Helio P18,3.0,32.0,5.5,16.0
+Nokia,5.1 Plus,Android 10,2018,3060.0,MediaTek Helio P60,3.0,32.0,5.8,13.0
+Nokia,5.3,Android 11,2020,4000.0,Qualcomm Snapdragon 665,4.0,64.0,6.5,13.0
+Nokia,5.4,Android 11,2020,4000.0,Snapdragon 662,4.0,128.0,6.4,48.0
+Nokia,5230,Symbian 9.4S60 5th Edition,2009,1320.0,,0.1,0.0,3.2,2.0
+Nokia,5230 Nuron,Symbian 9.4S60 5th Edition,2010,1320.0,,,0.0,3.2,2.0
+Nokia,5235 Comes With Music,Symbian 9.4S60 5th Edition,2010,1320.0,,0.1,0.0,3.2,2.0
+Nokia,5320 XpressMusic,"Symbian 9.3S60 3rd Edition, Feature Pack 2",2008,890.0,,0.1,0.0,2.0,2.0
+Nokia,5530 XpressMusic,Symbian 9.4S60 5th Edition,2009,1000.0,,0.1,0.0,2.9,3.0
+Nokia,5630 XpressMusic,"Symbian 9.3S60 3rd Edition, Feature Pack 2",2009,860.0,,0.1,0.0,2.2,3.0
+Nokia,5710 Xpress Audio,,2022,1450.0,Unisoc T107,,0.0,2.4,0.0
+Nokia,5730 XpressMusic,"Symbian 9.3S60 3rd Edition, Feature Pack 2",2009,1000.0,,0.1,0.0,2.4,3.0
+Nokia,5800 XpressMusic,Symbian 9.4S60 5th Edition,2008,1320.0,,0.1,0.0,3.2,3.0
+Nokia,6,Android 9.0 Pie,2017,3000.0,Qualcomm Snapdragon 430,3.0,32.0,5.5,16.0
+Nokia,6 (2018),Android 9.0 Pie,2018,3000.0,Qualcomm Snapdragon 630,3.0,32.0,5.5,16.0
+Nokia,6.1 Plus,Android 10,2018,3060.0,Qualcomm Snapdragon 636,4.0,64.0,5.8,16.0
+Nokia,6.2,Android 10,2019,3500.0,Qualcomm Snapdragon 636,4.0,64.0,6.3,16.0
+Nokia,603,Symbian Belle,2011,1300.0,,0.5,2.0,3.5,5.0
+Nokia,6220 classic,"Symbian 9.3S60 3rd Edition, Feature Pack 2",2008,900.0,,0.1,0.0,2.2,5.0
+Nokia,6650,"Symbian 9.3S60 3rd Edition, Feature Pack 2",2008,1500.0,,0.06,0.0,2.2,2.0
+Nokia,6700 slide,"Symbian 9.3S60 3rd Edition, Feature Pack 2",2010,860.0,,,0.0,2.2,5.0
+Nokia,6710 Navigator,"Symbian 9.3S60 3rd Edition, Feature Pack 2",2009,950.0,,,0.0,2.6,5.0
+Nokia,6720 classic,"Symbian 9.3S60 3rd Edition, Feature Pack 2",2009,1050.0,,,0.0,2.2,5.0
+Nokia,6730 classic,"Symbian 9.3S60 3rd Edition, Feature Pack 2",2009,1050.0,,0.1,0.0,2.2,3.0
+Nokia,6760 slide,"Symbian 9.3S60 3rd Edition, Feature Pack 2",2009,1500.0,,0.1,0.0,2.4,3.0
+Nokia,6790 Surge,"Symbian 9.3S60 3rd Edition, Feature Pack 2",2009,1500.0,,0.1,0.0,2.4,2.0
+Nokia,7 plus,Android 10,2018,3800.0,Qualcomm Snapdragon 660,4.0,64.0,6.0,12.0
+Nokia,7.1,Android 10,2018,3060.0,Qualcomm Snapdragon 636,4.0,64.0,5.8,12.0
+Nokia,7.2,Android 10,2019,3500.0,Qualcomm Snapdragon 660,6.0,128.0,6.3,48.0
+Nokia,700,Symbian Belle,2011,1080.0,,0.5,2.0,3.2,5.0
+Nokia,701,Symbian Belle,2011,1300.0,,0.5,8.0,3.5,8.0
+Nokia,8,Android 9.0 Pie,2017,3090.0,Qualcomm Snapdragon 835,4.0,64.0,5.3,13.0
+Nokia,8 Sirocco,Android 10,2018,3260.0,Qualcomm Snapdragon 835,6.0,128.0,5.5,12.0
+Nokia,8 V 5G UW,Android 10,2020,4500.0,Qualcomm Snapdragon 765G,6.0,64.0,6.8,64.0
+Nokia,8.1,Android 10,2018,3500.0,Qualcomm Snapdragon 710,4.0,64.0,6.2,12.0
+Nokia,8.3 5G,Android 11,2020,4500.0,Qualcomm Snapdragon 765G,8.0,128.0,6.8,64.0
+Nokia,808 PureView,Symbian Belle,2012,1400.0,,0.5,16.0,4.0,41.0
+Nokia,8210 4G,,2022,1450.0,Unisoc T107,,0.0,2.8,0.0
+Nokia,9 PureView,Android 10,2019,3320.0,Qualcomm Snapdragon 845,6.0,128.0,6.0,12.0
+Nokia,C1 Plus,Android 10,2021,2500.0,,1.0,16.0,5.5,5.0
+Nokia,C2 Tava,Android 10,2020,3000.0,MediaTek Helio A22,2.0,32.0,5.5,8.0
+Nokia,C30,Android 11,2021,6000.0,,2.0,32.0,6.8,13.0
+Nokia,C5,"Symbian 9.3S60 3rd Edition, Feature Pack 2",2010,1050.0,,0.1,0.0,2.2,3.0
+Nokia,C5 5MP,"Symbian 9.3S60 3rd Edition, Feature Pack 2",2011,1050.0,,0.25,0.0,2.2,5.0
+Nokia,C5 Endi,Android 10,2020,4000.0,MediaTek Helio P22,3.0,64.0,6.5,13.0
+Nokia,C6,Symbian 9.4S60 5th Edition,2010,1200.0,,0.1,0.0,3.2,5.0
+Nokia,C6-01,Symbian Belle,2010,1050.0,,0.25,0.0,3.2,8.0
+Nokia,C7,Symbian Symbian^3,2010,1200.0,,0.25,8.0,3.5,8.0
+Nokia,E52,"Symbian 9.3S60 3rd Edition, Feature Pack 2",2009,1500.0,,,0.0,2.4,3.0
+Nokia,E55,"Symbian 9.3S60 3rd Edition, Feature Pack 2",2009,1500.0,,,0.0,2.4,3.0
+Nokia,E6,Symbian Belle,2011,1500.0,,0.25,8.0,2.5,8.0
+Nokia,E61i,Symbian 9.1,2007,1500.0,,0.06,0.0,2.8,2.0
+Nokia,E63,"Symbian 9.2S60 3rd Edition, Feature Pack 1",2008,1500.0,,0.07,0.0,2.4,2.0
+Nokia,E63 US,"Symbian 9.2S60 3rd Edition, Feature Pack 1",2008,1500.0,,,0.0,2.4,2.0
+Nokia,E65,Symbian 9.1,2007,1100.0,,0.06,0.0,,2.0
+Nokia,E66,"Symbian 9.2S60 3rd Edition, Feature Pack 1",2008,1000.0,,0.1,0.0,2.4,3.0
+Nokia,E7,Symbian Belle,2011,1200.0,,0.25,16.0,4.0,8.0
+Nokia,E71,"Symbian 9.2S60 3rd Edition, Feature Pack 1",2008,1500.0,,0.1,0.0,2.4,3.0
+Nokia,E71x,"Symbian 9.2S60 3rd Edition, Feature Pack 2",2009,1500.0,,0.1,0.0,2.4,3.0
+Nokia,E72,,2009,1500.0,,0.1,0.0,2.4,5.0
+Nokia,E72 US,"Symbian 9.3S60 3rd Edition, Feature Pack 2",2009,1500.0,,0.1,0.0,2.4,5.0
+Nokia,E73 Mode,"Symbian 9.3S60 3rd Edition, Feature Pack 2",2010,1500.0,,0.1,0.0,2.4,5.0
+Nokia,G10,Android 12,2021,5050.0,Mediatek G25,3.0,32.0,,13.0
+Nokia,G11 Plus,Android 12,2022,,Unisoc,4.0,64.0,6.5,50.0
+Nokia,G20,Android 11,2021,5050.0,Mediatek G35,4.0,64.0,6.5,48.0
+Nokia,G21,Android 11,2022,5050.0,Unisoc T606,3.0,64.0,6.5,50.0
+Nokia,G50,Android 11,2021,5000.0,Qualcomm Snapdragon 480,4.0,64.0,6.8,48.0
+Nokia,Lumia 1020,Windows Phone 8.1,2013,2000.0,Qualcomm Snapdragon S4 Plus,2.0,32.0,4.5,41.0
+Nokia,Lumia 1520,Windows Phone 8.1,2013,3400.0,Qualcomm Snapdragon 800,2.0,32.0,6.0,20.0
+Nokia,Lumia 505,Windows Phone 7.8,2013,1300.0,Qualcomm Snapdragon S1,0.25,4.0,4.0,8.0
+Nokia,Lumia 520,Windows Phone 8.1,2015,1430.0,Qualcomm Snapdragon S4 Plus,0.5,8.0,4.0,5.0
+Nokia,Lumia 620,Windows Phone 8,2013,1300.0,Qualcomm Snapdragon S4 Plus,0.5,8.0,3.8,5.0
+Nokia,Lumia 710,Windows Phone 7.5 Mango,2011,1300.0,Qualcomm Snapdragon S2,0.5,8.0,3.7,5.0
+Nokia,Lumia 820,Windows Phone 8,2012,1650.0,Qualcomm Snapdragon S4 Plus,1.0,8.0,4.3,8.0
+Nokia,Lumia 822,Windows Phone 8,2012,1800.0,Qualcomm Snapdragon S4 Plus,1.0,16.0,4.3,8.0
+Nokia,Lumia 900,Windows Phone 7.8,2012,1830.0,Qualcomm Snapdragon S2 APQ8055,0.5,16.0,4.3,8.0
+Nokia,Lumia 920,Windows Phone 8,2012,2000.0,Qualcomm Snapdragon S4 Plus,1.0,32.0,4.5,8.0
+Nokia,Lumia 925,Windows Phone 8,2013,2000.0,Qualcomm Snapdragon S4 Plus,1.0,16.0,4.5,8.0
+Nokia,Lumia 928,Windows Phone 8,2013,2000.0,Qualcomm Snapdragon S4 Plus,1.0,32.0,4.5,8.0
+Nokia,Lumia Icon,Windows Phone 8,2014,2420.0,Qualcomm Snapdragon 800,2.0,32.0,5.0,20.0
+Nokia,N79,"Symbian 9.3S60 3rd Edition, Feature Pack 2",2008,1200.0,,,0.0,2.4,5.0
+Nokia,N8,Symbian Belle,2010,1200.0,,0.25,16.0,3.5,12.0
+Nokia,N85,"Symbian 9.3S60 3rd Edition, Feature Pack 2",2008,1200.0,,,0.0,2.6,5.0
+Nokia,N86 8MP,"Symbian 9.3S60 3rd Edition, Feature Pack 2",2009,1200.0,,0.1,8.0,2.6,8.0
+Nokia,N86 8MP US,"Symbian 9.3S60 3rd Edition, Feature Pack 2",2009,1200.0,,0.1,8.0,2.6,8.0
+Nokia,N9,MeeGo ,2011,1450.0,,1.0,64.0,3.9,8.0
+Nokia,N900,Linux Maemo 5,2009,1320.0,TI OMAP3430,0.25,32.0,3.5,5.0
+Nokia,N96,"Symbian 9.3S60 3rd Edition, Feature Pack 2",2008,950.0,,0.1,16.0,2.8,5.0
+Nokia,N96 US,"Symbian 9.3S60 3rd Edition, Feature Pack 2",2008,950.0,,0.1,16.0,2.8,5.0
+Nokia,N97,Symbian 9.4S60 5th Edition,2009,1500.0,,0.1,32.0,3.5,5.0
+Nokia,N97 US,Symbian 9.4S60 5th Edition,2009,1500.0,,0.1,32.0,3.5,5.0
+Nokia,N97 mini,Symbian 9.4S60 5th Edition,2009,1200.0,,0.1,8.0,3.2,5.0
+Nokia,N97 mini Latin America,Symbian 9.4S60 5th Edition,2009,1200.0,,0.1,8.0,3.2,5.0
+Nokia,X,Android ,2014,1500.0,Qualcomm Snapdragon S4,0.5,4.0,4.0,3.0
+Nokia,X+,Android ,2014,1500.0,Qualcomm Snapdragon S4,0.75,4.0,4.0,3.0
+Nokia,X10,Android 11,2021,4470.0,Qualcomm Snapdragon 480 5G,6.0,64.0,6.7,48.0
+Nokia,X100,Android 11,2021,4470.0,Qualcomm Snapdragon 480,6.0,128.0,6.7,48.0
+Nokia,X2 (2014),Android 4.3,2014,1800.0,Qualcomm Snapdragon 200,1.0,4.0,4.3,5.0
+Nokia,X20,Android 11,2021,4470.0,Qualcomm Snapdragon 480 5G,6.0,128.0,6.7,64.0
+Nokia,X6,Symbian 9.4S60 5th Edition,2009,1320.0,,0.1,32.0,3.2,5.0
+Nokia,X6 16GB,Symbian 9.4S60 5th Edition,2010,1320.0,,0.1,16.0,3.2,5.0
+Nokia,X6 16GB Latin America,Symbian 9.4S60 5th Edition,2010,1320.0,,0.1,16.0,3.2,5.0
+Nokia,X7,Symbian Belle,2011,1300.0,,0.25,0.0,4.0,8.0
+Nokia,XR20,Android 11,2021,4630.0,Qualcomm Snapdragon 480,6.0,128.0,6.7,48.0
+Nothing,Phone (1),Android 12,2022,4500.0,Qualcomm Snapdragon 778G+,8.0,128.0,6.5,50.0
+OPPO,A5 (2020),Android 9.0 Pie,2019,5000.0,Qualcomm Snapdragon 665,3.0,64.0,6.5,12.0
+OPPO,A52,Android 10,2020,5000.0,Qualcomm Snapdragon 665,4.0,64.0,6.5,12.0
+OPPO,A53,Android 10,2020,5000.0,Qualcomm Snapdragon 460,4.0,64.0,6.5,13.0
+OPPO,A53s,Android 10,2020,5000.0,Qualcomm Snapdragon 460,4.0,128.0,6.5,13.0
+OPPO,A54 5G,Android 11,2021,5000.0,Qualcomm Snapdragon 480,4.0,64.0,6.5,48.0
+OPPO,A72,Android 10,2020,5000.0,Snapdragon 665,4.0,128.0,6.5,48.0
+OPPO,A74 5G,Android 11,2021,5000.0,Qualcomm Snapdragon 480,6.0,128.0,6.5,48.0
+OPPO,A83,Android 7.1 Nougat,2018,3180.0,MediaTek Helio P23,3.0,32.0,5.7,13.0
+OPPO,A9 (2020),Android 10,2019,5000.0,Qualcomm Snapdragon 665,4.0,128.0,6.5,48.0
+OPPO,A91,Android 9.0 Pie,2019,4025.0,Mediatek  Helio P70,4.0,128.0,6.4,48.0
+OPPO,A94 5G,Android 11,2021,4310.0,MediaTek Dimensity 800U,8.0,128.0,6.4,48.0
+OPPO,F1,Android 5.1 Lollipop,2016,2500.0,Qualcomm Snapdragon 616,3.0,16.0,5.0,13.0
+OPPO,F3,Android 6.0 Marshmallow,2017,3200.0,MediaTek,4.0,64.0,5.5,13.0
+OPPO,F3 Plus,Android 6.0 Marshmallow,2017,4000.0,Qualcomm Snapdragon 653,4.0,64.0,6.0,16.0
+OPPO,F5,Android 7.1 Nougat,2017,3200.0,MediaTek Helio P23,6.0,64.0,6.0,16.0
+OPPO,F7,Android 8.1 Oreo,2018,3400.0,MediaTek Helio P60,6.0,128.0,6.2,16.0
+OPPO,F9,Android 10,2018,3500.0,Mediatek Helio P60,6.0,64.0,6.3,16.0
+OPPO,Find N,Android 11,2021,4500.0,Qualcomm Snapdragon 888,8.0,256.0,7.1,50.0
+OPPO,Find X,Android 8.1 Oreo,2018,3730.0,Qualcomm Snapdragon 845,8.0,256.0,6.4,16.0
+OPPO,Find X2,Android 10,2020,4200.0,Qualcomm Snapdragon 865,12.0,256.0,6.7,48.0
+OPPO,Find X2 Lite,Android 10,2020,4025.0,Qualcomm Snapdragon 765G,8.0,128.0,6.4,48.0
+OPPO,Find X2 Neo,Android 10,2020,4025.0,Qualcomm Snapdragon 765G,12.0,256.0,6.5,48.0
+OPPO,Find X2 Pro,Android 10,2020,4260.0,Qualcomm Snapdragon 865,12.0,512.0,6.7,48.0
+OPPO,Find X3 Lite,Android 11,2021,4300.0,Qualcomm Snapdragon 765G,8.0,128.0,6.4,64.0
+OPPO,Find X3 Neo,Android 11,2021,4500.0,Qualcomm Snapdragon 865,12.0,256.0,6.5,50.0
+OPPO,Find X3 Pro,Android 11,2021,4500.0,Qualcomm Snapdragon 888,12.0,256.0,6.7,50.0
+OPPO,Find X5,Android 12,2022,4800.0,Qualcomm Snapdragon 888,8.0,256.0,6.5,50.0
+OPPO,Find X5 Pro,Android 12,2022,5000.0,Qualcomm Snapdragon 8 Gen 1,12.0,256.0,6.7,50.0
+OPPO,Mirror 5,Android 5.1 Lollipop,2015,2420.0,Qualcomm Snapdragon 410,2.0,16.0,5.0,8.0
+OPPO,N1 mini,Android 4.3,2014,2140.0,Qualcomm Snapdragon 400,2.0,16.0,5.0,13.0
+OPPO,Neo 5 (2015),Android 4.4.2,2015,2000.0,MediaTek,1.0,8.0,4.5,8.0
+OPPO,Neo 5s,Android 4.4.2,2015,2000.0,Qualcomm Snapdragon 410,1.0,8.0,4.5,8.0
+OPPO,Neo 7,Android 5.1 Lollipop,2015,2420.0,Qualcomm Snapdragon 410,1.0,16.0,5.0,8.0
+OPPO,R11,Android 7.1 Nougat,2017,3000.0,Qualcomm Snapdragon 660,4.0,64.0,5.5,16.0
+OPPO,R15 Pro,Android 8.1 Oreo,2019,3430.0,Qualcomm Snapdragon 660,6.0,128.0,6.3,16.0
+OPPO,R1C,Android 4.4,2015,2420.0,Qualcomm Snapdragon 615,2.0,16.0,5.0,13.0
+OPPO,R5s,Android 4.4.4,2015,2000.0,Qualcomm Snapdragon 615,3.0,32.0,5.2,13.0
+OPPO,R7,Android 4.4,2015,2320.0,Qualcomm Snapdragon 615,3.0,16.0,5.0,13.0
+OPPO,R7 Lite,Android 5.1 Lollipop,2015,2320.0,Qualcomm Snapdragon 615,2.0,16.0,5.0,13.0
+OPPO,R7 Plus,Android 5.1 Lollipop,2015,4100.0,Qualcomm Snapdragon 615,3.0,32.0,6.0,13.0
+OPPO,R7s,Android 5.1 Lollipop,2015,3070.0,Qualcomm Snapdragon 615,4.0,32.0,5.5,13.0
+OPPO,R9,Android 6.0 Marshmallow,2016,2850.0,MediaTek Helio P10,4.0,64.0,5.5,16.0
+OPPO,R9 Plus,Android 6.0 Marshmallow,2016,4120.0,Qualcomm Snapdragon 652,4.0,64.0,6.0,16.0
+OPPO,R9s,Android 6.0 Marshmallow,2016,3010.0,Qualcomm Snapdragon 625,4.0,64.0,5.5,16.0
+OPPO,R9s Plus,Android 6.0 Marshmallow,2016,4000.0,Qualcomm Snapdragon 653,6.0,64.0,6.0,16.0
+OPPO,Reno,Android 9.0 Pie,2019,3765.0,Qualcomm Snapdragon 710,8.0,256.0,6.4,48.0
+OPPO,Reno 10x Zoom,Android 9.0 Pie,2019,4065.0,Qualcomm Snapdragon 855,8.0,256.0,6.6,48.0
+OPPO,Reno2,Android 10,2019,4000.0,Qualcomm Snapdragon 730G,8.0,256.0,6.5,48.0
+OPPO,Reno2 F,Android 9.0 Pie,2019,4000.0,MediaTek Helio P70,8.0,128.0,6.5,48.0
+OPPO,Reno2 Z,Android 10,2019,4000.0,MediaTek Helio P90,8.0,128.0,6.5,48.0
+OPPO,Reno3,Android 10,2020,4025.0,MediaTek Helio P90,8.0,128.0,6.4,48.0
+OPPO,Reno3 Pro,Android 10,2020,4025.0,MediaTek Helio P95,8.0,128.0,6.4,64.0
+OPPO,Reno4 Pro,Android 10,2020,4000.0,Qualcomm Snapdragon 720G,8.0,128.0,6.5,48.0
+OPPO,Reno5 Pro,Android 11,2021,4350.0,MediaTek Dimensity 1000+,8.0,128.0,6.5,64.0
+OPPO,Reno6 5G,Android 11,2021,4300.0,MediaTek Dimesnity 900,8.0,128.0,6.4,64.0
+OPPO,Reno6 Pro 5G,Android 11,2021,,MediaTek Dimensity 1200,12.0,256.0,6.5,64.0
+OPPO,U3,Android 4.4.4,2015,3000.0,MediaTek,2.0,16.0,5.9,13.0
+OnePlus,10 Pro,Android 12,2022,5000.0,Qualcomm Snapdragon 8 Gen 1,8.0,128.0,6.7,48.0
+OnePlus,10T,Android 12,2022,4800.0,Qualcomm Snapdragon 8+ Gen 1,8.0,128.0,6.7,50.0
+OnePlus,2,Android 6.0 Marshmallow,2015,3300.0,Qualcomm Snapdragon 810,4.0,64.0,5.5,13.0
+OnePlus,3,Android 9.0 Pie,2016,3000.0,Qualcomm Snapdragon 820,6.0,64.0,5.5,16.0
+OnePlus,3T,Android 9.0 Pie,2016,3400.0,Qualcomm Snapdragon 821,6.0,128.0,5.5,16.0
+OnePlus,5,Android 10,2017,3300.0,Qualcomm Snapdragon 835,8.0,128.0,5.5,16.0
+OnePlus,5T,Android 10,2017,3300.0,Qualcomm Snapdragon 835,8.0,128.0,6.0,16.0
+OnePlus,6,Android 11,2018,3300.0,Qualcomm Snapdragon 845,8.0,256.0,6.3,16.0
+OnePlus,6T,Android 11,2018,3700.0,Qualcomm Snapdragon 845,8.0,256.0,6.4,16.0
+OnePlus,7,Android 11,2019,3700.0,Qualcomm Snapdragon 855,6.0,128.0,6.4,48.0
+OnePlus,7 Pro,Android 10,2019,4000.0,Qualcomm Snapdragon 855,6.0,128.0,6.7,48.0
+OnePlus,7 Pro 5G,Android 10,2019,4000.0,Qualcomm Snapdragon 855,12.0,256.0,6.7,48.0
+OnePlus,7T,Android 11,2019,3800.0,Qualcomm Snapdragon 855+,8.0,128.0,6.5,48.0
+OnePlus,7T Pro,Android 10,2019,4085.0,Qualcomm Snapdragon 855+,8.0,256.0,6.7,48.0
+OnePlus,7T Pro 5G McLaren,Android 10,2019,4085.0,Qualcomm Snapdragon 855+,12.0,256.0,6.7,48.0
+OnePlus,8,Android 11,2020,4300.0,Qualcomm Snapdragon 865,8.0,128.0,6.5,48.0
+OnePlus,8 Pro,Android 11,2020,4510.0,Qualcomm Snapdragon 865,8.0,128.0,6.8,48.0
+OnePlus,8 UW,Android 10,2020,4300.0,Qualcomm Snapdragon 865,8.0,128.0,6.5,48.0
+OnePlus,8T,Android 11,2020,4500.0,Qualcomm Snapdragon 865,12.0,256.0,6.5,48.0
+OnePlus,9,Android 11,2021,4500.0,Qualcomm Snapdragon 888,8.0,128.0,6.5,48.0
+OnePlus,9 Pro,Android 11,2021,4500.0,Qualcomm Snapdragon 888,8.0,128.0,6.7,48.0
+OnePlus,Nord,Android 10,2020,4115.0,Snapdragon 765G,8.0,128.0,6.4,48.0
+OnePlus,Nord 2 5G,Android 11,2021,4500.0,MediaTek Dimensity 1200,6.0,128.0,6.4,50.0
+OnePlus,Nord 2T,Android 12,2022,4500.0,MediaTek Dimensity 1300,8.0,128.0,6.4,50.0
+OnePlus,Nord CE 2 5G,Android 11,2022,4500.0,MediaTek Dimensity 900,6.0,128.0,6.4,64.0
+OnePlus,Nord CE 2 Lite 5G,Android 12,2022,5000.0,Qualcomm Snapdragon 695,6.0,128.0,6.6,64.0
+OnePlus,Nord CE 5G,Android 12,2021,4500.0,Qualcomm Snapdragon 750G,6.0,128.0,6.4,64.0
+OnePlus,Nord N10,Android 11,2020,4300.0,Qualcomm Snapdragon 690,6.0,128.0,6.5,64.0
+OnePlus,Nord N100,Android 11,2020,5000.0,Qualcomm Snapdragon 460,4.0,64.0,6.5,13.0
+OnePlus,Nord N20 5G,Android 11,2022,4500.0,Qualcomm Snapdragon 695 5G,6.0,128.0,6.4,64.0
+OnePlus,Nord N200 5G,Android 11,2021,5000.0,Qualcomm Snapdragon 480 5G,4.0,64.0,6.5,13.0
+OnePlus,X,Android 6.0 Marshmallow,2015,2525.0,Qualcomm Snapdragon 801,3.0,16.0,5.0,13.0
+Orbic,Myra 5G,Android 11,2021,5000.0,Qualcomm Snapdragon 750G,6.0,64.0,6.8,48.0
+Palm,Phone,Android 8.1 Oreo,2018,800.0,Qualcomm Snapdragon 435,3.0,32.0,3.3,12.0
+Palm,Pixi,webOS ,2009,1150.0,,,8.0,2.6,2.0
+Palm,Pixi Plus,webOS 1.3.5,2010,,Qualcomm Snapdragon S1,,8.0,2.6,2.0
+Palm,Pixi Plus GSM,webOS 1.3.5,2010,,,,8.0,2.6,2.0
+Palm,Pre,webOS ,2009,1150.0,,,8.0,3.1,3.0
+Palm,Pre 2 GSM,webOS 2.2,2010,,,,16.0,3.1,5.0
+Palm,Pre GSM,webOS ,2009,1150.0,,,8.0,3.1,3.0
+Palm,Pre Plus,webOS 1.3.5,2010,1150.0,,,16.0,3.1,3.0
+Palm,Pre Plus GSM,webOS 1.4,2010,1150.0,,,16.0,3.1,3.0
+Pantech,Breakout,Android 2.3,2011,1500.0,,0.5,0.0,4.0,5.0
+Pantech,Burst,Android 4.0,2012,1650.0,Qualcomm,,16.0,4.0,5.0
+Pantech,Crossover,Android 2.2,2011,1500.0,,,0.0,3.1,3.0
+Pantech,Discover,Android 4.0,2013,2100.0,Qualcomm Snapdragon S4 Plus,1.0,16.0,4.8,12.0
+Pantech,Flex,Android 4.1.2,2012,1830.0,Qualcomm Snapdragon S4 Plus,1.0,8.0,4.3,8.0
+Pantech,Marauder,Android 4.0,2012,1680.0,,1.0,4.0,3.8,5.0
+Pantech,Perception,Android 4.1.2,2013,2020.0,Qualcomm Snapdragon S4,1.0,16.0,4.8,8.0
+Pantech,Pocket,Android 2.3,2011,1650.0,,,0.0,4.0,5.0
+Philips,S309,Android 4.4,2015,1600.0,,1.0,4.0,4.0,5.0
+Philips,Xenium S307,Android 4.4,2015,1630.0,,0.5,4.0,4.0,2.0
+Philips,Xenium V387,Android 4.4,2014,4400.0,,2.0,16.0,5.0,8.0
+Plum,Coach Pro,Android 4.4.2,2015,2400.0,MediaTek,1.0,16.0,6.0,8.0
+Plum,Might Pro,Android 4.4.2,2014,2200.0,MediaTek,1.0,16.0,5.0,8.0
+RED,Hydrogen One,Android 8.1 Oreo,2018,4500.0,Qualcomm Snapdragon 835,6.0,128.0,5.7,12.0
+Razer,Phone,Android 9.0 Pie,2017,4000.0,Qualcomm Snapdragon 835,8.0,64.0,5.7,12.0
+Razer,Phone 2,Android 9.0 Pie,2018,4000.0,Qualcomm Snapdragon 845,8.0,64.0,5.7,12.0
+Samsung,ATIV Odyssey,Windows Phone 8,2013,2100.0,Qualcomm Snapdragon S4 Plus,1.0,8.0,4.0,5.0
+Samsung,ATIV S,Windows Phone 8.1,2012,2300.0,Qualcomm Snapdragon S4 Plus,1.0,16.0,4.8,8.0
+Samsung,ATIV S Neo,Windows Phone 8,2013,2000.0,Qualcomm Snapdragon 400,1.0,16.0,4.8,8.0
+Samsung,Admire,Android 2.3.4,2011,1600.0,,,0.0,3.5,3.0
+Samsung,Behold II,Android ,2009,1500.0,,,0.0,3.2,5.0
+Samsung,C6620,Windows Mobile Standard 6.1,2009,1300.0,,,0.0,2.6,2.0
+Samsung,C6625,Windows Mobile Standard 6.1,2009,1300.0,,0.1,0.0,2.6,2.0
+Samsung,Captivate,Android 2.3,2010,1500.0,Samsung Exynos 3,0.5,16.0,4.0,5.0
+Samsung,Captivate Glide,Android 4.0,2011,1650.0,NVIDIA Tegra 2,1.0,8.0,4.0,8.0
+Samsung,Code SCH-I220,Windows Mobile Standard 6.5,2009,1440.0,,0.1,0.0,2.4,2.0
+Samsung,Continuum,Android 2.1,2010,1500.0,Samsung Exynos 3,0.3,2.0,3.4,5.0
+Samsung,DoubleTime,Android 2.2,2011,1200.0,Qualcomm Snapdragon S2,0.25,0.0,3.2,3.0
+Samsung,Droid Charge,Android 2.3,2011,1600.0,Samsung Exynos 3,,2.0,4.3,8.0
+Samsung,Epic 4G Touch,Android 4.1.2,2011,1800.0,Samsung Exynos 4 Dual,1.0,16.0,4.5,8.0
+Samsung,Exec,Windows Mobile Standard 6.5,2010,1500.0,,,0.0,2.4,2.0
+Samsung,Exhibit II 4G,Android 2.3.3,2011,1500.0,Qualcomm Snapdragon S2,0.5,4.0,3.7,3.0
+Samsung,Fascinate,Android 2.3,2010,1500.0,Samsung Exynos 3,0.4,2.0,4.0,5.0
+Samsung,Focus,Windows Phone 7.5 Mango,2010,1500.0,Qualcomm Snapdragon S1,0.5,8.0,4.0,5.0
+Samsung,Focus 2,Windows Phone 7.5 Mango,2012,1750.0,,,8.0,4.0,5.0
+Samsung,Focus Flash,Windows Phone 7.5 Mango,2011,1500.0,Qualcomm Snapdragon S2,0.5,8.0,3.7,5.0
+Samsung,Focus S,Windows Phone 7.5 Mango,2011,1650.0,,,16.0,4.3,8.0
+Samsung,GALAXY Nexus,Android 4.3,2011,1750.0,TI OMAP4460,1.0,32.0,4.7,5.0
+Samsung,GALAXY Nexus CDMA,Android 4.2.2,2011,1850.0,TI OMAP4460,1.0,32.0,4.7,5.0
+Samsung,GALAXY Nexus Sprint,Android 4.3,2012,1850.0,TI OMAP4460,1.0,32.0,4.7,5.0
+Samsung,GALAXY Note,Android 4.1.2,2011,2500.0,Samsung Exynos 4,1.0,32.0,5.3,8.0
+Samsung,GALAXY Note II,Android 4.4.2,2012,3100.0,Samsung Exynos 4 Quad,2.0,64.0,5.5,8.0
+Samsung,GALAXY Note II AT&T,Android 4.3,2012,3100.0,Samsung Exynos 4 Quad,2.0,16.0,5.5,8.0
+Samsung,GALAXY Note II Sprint,Android 4.1,2012,3100.0,Samsung Exynos 4 Quad,2.0,16.0,5.5,8.0
+Samsung,GALAXY Note II T-Mobile,Android 4.1,2012,3100.0,Samsung Exynos 4 Quad,2.0,16.0,5.5,8.0
+Samsung,GALAXY Note II US Cellular,Android 4.1,2012,,Samsung Exynos 4 Quad,2.0,16.0,5.5,8.0
+Samsung,GALAXY Note II Verizon,Android 4.4.2,2012,3100.0,Samsung Exynos 4 Quad,2.0,16.0,5.5,8.0
+Samsung,GALAXY Pro,Android 2.2,2011,1350.0,,,0.0,2.8,3.0
+Samsung,GALAXY S Advance,Android 4.1.2,2012,1500.0,,0.75,16.0,4.0,5.0
+Samsung,GALAXY S II Plus,Android 4.1.2,2013,1650.0,Broadcom BCM28155,1.0,8.0,4.3,8.0
+Samsung,GALAXY mini,Android 2.3.3,2011,1200.0,Qualcomm Snapdragon S1,,0.0,3.1,3.0
+Samsung,Galaxy,Android 1.5,2009,1500.0,,,8.0,3.2,5.0
+Samsung,Galaxy 5,Android 2.2,2010,1200.0,,,0.0,2.8,2.0
+Samsung,Galaxy A02s,Android 12,2021,5000.0,Qualcomm Snapdragon 450,3.0,32.0,6.5,13.0
+Samsung,Galaxy A03,Android ,2022,5000.0,,3.0,32.0,6.5,48.0
+Samsung,Galaxy A03s,Android 12,2021,5000.0,MediaTek Helio P35,3.0,32.0,6.5,13.0
+Samsung,Galaxy A10,Android 11,2019,3400.0,Samsung Exynos,2.0,32.0,6.2,13.0
+Samsung,Galaxy A10e,Android 11,2019,3000.0,Samsung Exynos 7884,2.0,32.0,5.8,8.0
+Samsung,Galaxy A10s,Android 11,2019,4000.0,MediaTek Helio P22,2.0,32.0,6.2,13.0
+Samsung,Galaxy A11,Android 11,2020,4000.0,Qualcomm Snapdragon 450,2.0,32.0,6.4,13.0
+Samsung,Galaxy A12,Android 10,2020,5000.0,Mediatek Helio P35,4.0,64.0,6.5,48.0
+Samsung,Galaxy A13,Android 12,2022,5000.0,Еьънос 850,3.0,32.0,6.5,50.0
+Samsung,Galaxy A13 5G,Android 12,2021,5000.0,MediaTek Dimensity 700,4.0,64.0,6.5,50.0
+Samsung,Galaxy A20,Android 11,2019,4000.0,Samsung Exynos,3.0,32.0,6.4,13.0
+Samsung,Galaxy A20e,Android 9.0 Pie,2019,3000.0,Samsung Exynos,3.0,32.0,5.8,13.0
+Samsung,Galaxy A21,Android 10,2020,4000.0,Mediatek Helio P35,3.0,32.0,6.5,16.0
+Samsung,Galaxy A21s,Android 10,2020,5000.0,Samsung Exynos 850,3.0,32.0,6.5,48.0
+Samsung,Galaxy A22,Android 12,2021,,MediaTek Helio G80,4.0,64.0,6.4,48.0
+Samsung,Galaxy A22 5G,Android 11,2021,5000.0,MediaTek Dimensity 700,4.0,64.0,6.6,48.0
+Samsung,Galaxy A23,Android 12,2022,5000.0,Qualcomm Snapdragon 680,4.0,64.0,6.6,50.0
+Samsung,Galaxy A3 (2016),Android 7.0 Nougat,2016,2300.0,Samsung Exynos 7 Quad,1.5,16.0,4.7,13.0
+Samsung,Galaxy A3 (2017),Android 7.0 Nougat,2017,2350.0,Samsung Exynos 7 Octa,2.0,16.0,4.7,13.0
+Samsung,Galaxy A30,Android 10,2019,4000.0,Samsung Exynos 7 Octa,4.0,64.0,6.4,16.0
+Samsung,Galaxy A31,Android 10,2020,5000.0,MediaTek Helio P65,4.0,64.0,6.4,48.0
+Samsung,Galaxy A32 5G,Android 12,2021,5000.0,MediaTek Dimensity 720,4.0,64.0,6.5,48.0
+Samsung,Galaxy A32 LTE Only,Android 12,2021,5000.0,Mediatek Helio G80,4.0,64.0,6.4,64.0
+Samsung,Galaxy A33 5G,Android 12,2022,5000.0,Exynos 1280,6.0,128.0,6.4,48.0
+Samsung,Galaxy A40,Android 11,2019,3100.0,Exynos 7904,4.0,64.0,5.9,16.0
+Samsung,Galaxy A41,Android 11,2020,3500.0,MediaTek Helio P65,4.0,64.0,6.1,48.0
+Samsung,Galaxy A42,Android 12,2020,5000.0,Qualcomm Snapdragon 750G,4.0,128.0,6.6,48.0
+Samsung,Galaxy A5 (2016),Android 5.1 Lollipop,2016,2900.0,Qualcomm Snapdragon 615,2.0,16.0,5.2,13.0
+Samsung,Galaxy A5 (2017),Android 8.0 Oreo,2017,3000.0,Samsung Exynos 7 Octa,3.0,32.0,5.2,16.0
+Samsung,Galaxy A50,Android 10,2019,4000.0,Samsung Exynos 7 Octa,4.0,128.0,6.4,25.0
+Samsung,Galaxy A51,Android 11,2019,4000.0,Samsung Exynos 9611,4.0,128.0,6.5,48.0
+Samsung,Galaxy A51 5G,Android 11,2020,4500.0,Samsung Exynos 980,6.0,128.0,6.5,48.0
+Samsung,Galaxy A52,Android 11,2021,4500.0,Qualcomm Snapdragon 720G,6.0,128.0,6.5,64.0
+Samsung,Galaxy A52 5G,Android 12,2021,4500.0,Qualcomm Snapdragon 750G,6.0,128.0,6.5,64.0
+Samsung,Galaxy A52s,Android 11,2021,4500.0,Qualcomm Snapdragon 778G,6.0,128.0,6.5,64.0
+Samsung,Galaxy A53 5G,Android 12,2022,5000.0,Exynos,6.0,128.0,6.5,64.0
+Samsung,Galaxy A6,Android 10,2018,3000.0,Samsung Exynos 7 Octa,3.0,32.0,5.6,16.0
+Samsung,Galaxy A6+,Android 9.0 Pie,2018,3500.0,Qualcomm Snapdragon 450,3.0,32.0,6.0,16.0
+Samsung,Galaxy A7 (2016),Android 5.1 Lollipop,2015,3300.0,Qualcomm Snapdragon 615,3.0,16.0,5.5,13.0
+Samsung,Galaxy A7 (2017),Android 8.0 Oreo,2017,3600.0,Samsung Exynos 7 Octa,3.0,32.0,5.7,16.0
+Samsung,Galaxy A71,Android 12,2020,4500.0,Qualcomm Snapdragon 730,6.0,128.0,6.7,64.0
+Samsung,Galaxy A71 5G,Android 12,2020,4500.0,Qualcomm Snapdragon 765,6.0,128.0,6.7,64.0
+Samsung,Galaxy A71 5G UW,Android 12,2020,4500.0,Qualcomm Snapdragon 765G,8.0,128.0,6.7,64.0
+Samsung,Galaxy A72,Android 11,2021,5000.0,Qualcomm Snapdragon 720G,6.0,128.0,6.7,64.0
+Samsung,Galaxy A73 5G,Android 12,2022,5000.0,Qualcomm Snapdragon 778G,6.0,128.0,6.7,108.0
+Samsung,Galaxy A8,Android 6.0 Marshmallow,2015,3050.0,Qualcomm Snapdragon 615,2.0,32.0,5.7,16.0
+Samsung,Galaxy A8 (2016),Android 6.0 Marshmallow,2016,3300.0,Samsung Exynos 7 Octa,3.0,32.0,5.7,16.0
+Samsung,Galaxy A8 (2018),Android 9.0 Pie,2018,3000.0,Samsung Exynos 5 Octa,4.0,64.0,5.6,16.0
+Samsung,Galaxy A8 Star,Android 9.0 Pie,2018,3700.0,Qualcomm Snapdragon 660,6.0,64.0,6.3,16.0
+Samsung,Galaxy A8+ (2018),Android 9.0 Pie,2018,3500.0,Samsung Exynos 5 Octa,6.0,64.0,6.0,16.0
+Samsung,Galaxy A80,Android 11,2019,3700.0,Qualcomm Snapdragon 730,8.0,128.0,6.7,48.0
+Samsung,Galaxy A9 (2016),Android 6.0 Marshmallow,2016,4000.0,Qualcomm Snapdragon 652,3.0,32.0,6.0,13.0
+Samsung,Galaxy A9 (2018),Android 10,2018,3800.0,Qualcomm Snapdragon 660,6.0,128.0,6.3,24.0
+Samsung,Galaxy A9 Pro (2016),Android 8.0 Oreo,2016,5000.0,Qualcomm Snapdragon 652,4.0,32.0,6.0,16.0
+Samsung,Galaxy A90 5G,Android ,2019,4500.0,Qualcomm Snapdragon 855,6.0,128.0,6.7,48.0
+Samsung,Galaxy Ace NXT,Android 4.4.2,2014,1500.0,,0.5,4.0,4.0,3.0
+Samsung,Galaxy Alpha,Android 5.1 Lollipop,2014,1860.0,Samsung Exynos 5 Octa,2.0,32.0,4.7,12.0
+Samsung,Galaxy Amp 2,Android 6.0 Marshmallow,2016,2050.0,Samsung Exynos 3 Quad,1.0,8.0,4.5,5.0
+Samsung,Galaxy Amp Prime,Android 6.0 Marshmallow,2016,2600.0,Samsung Exynos 3 Quad,1.5,16.0,5.0,5.0
+Samsung,Galaxy Amp Prime 2,Android 7.0 Nougat,2017,2600.0,Qualcomm Snapdragon 425,1.5,16.0,5.0,5.0
+Samsung,Galaxy Amp Prime 3,Android 8.0 Oreo,2018,2600.0,Samsung Exynos 7 Quad,2.0,16.0,5.0,8.0
+Samsung,Galaxy Avant,Android 4.4.2,2014,2100.0,Qualcomm Snapdragon 400,1.5,16.0,4.5,5.0
+Samsung,Galaxy Axiom,Android 4.1.2,2012,2100.0,Qualcomm Snapdragon,,4.0,4.0,5.0
+Samsung,Galaxy C5,Android 6.0 Marshmallow,2016,2600.0,Qualcomm Snapdragon 617,4.0,64.0,5.2,16.0
+Samsung,Galaxy C7,Android 8.0 Oreo,2016,3300.0,Qualcomm Snapdragon 625,4.0,64.0,5.7,16.0
+Samsung,Galaxy C7 Pro,Android 6.0 Marshmallow,2017,3300.0,Qualcomm Snapdragon 626,4.0,64.0,5.7,16.0
+Samsung,Galaxy C9 Pro,Android 6.0 Marshmallow,2017,4000.0,Qualcomm Snapdragon 653,6.0,64.0,6.0,16.0
+Samsung,Galaxy Core Advance,Android 4.2,2014,2000.0,Qualcomm Snapdragon S4,1.0,8.0,4.7,5.0
+Samsung,Galaxy Core Plus,Android 4.2,2013,1800.0,Broadcom,0.75,4.0,4.3,5.0
+Samsung,Galaxy Core Prime,Android 5.0 Lollipop,2014,2000.0,Qualcomm Snapdragon 410,1.0,8.0,4.5,5.0
+Samsung,Galaxy E7,Android 5.1 Lollipop,2015,2950.0,Qualcomm Snapdragon 410,2.0,16.0,5.5,13.0
+Samsung,Galaxy Exhibit,Android 4.1,2013,1500.0,NovaThor U8420,1.0,4.0,3.8,5.0
+Samsung,Galaxy Express 2,Android 4.2.2,2013,2100.0,Qualcomm Snapdragon S4,1.5,8.0,4.5,5.0
+Samsung,Galaxy Express 3,Android 6.0 Marshmallow,2016,2050.0,Spreadtrum SC9830,1.0,8.0,4.5,5.0
+Samsung,Galaxy Express Prime,Android 6.0 Marshmallow,2016,2600.0,Samsung Exynos 3 Quad,1.5,16.0,5.0,5.0
+Samsung,Galaxy Express Prime 2,Android 7.0 Nougat,2017,2600.0,Samsung Exynos 7 Quad,1.5,16.0,5.0,5.0
+Samsung,Galaxy F41,Android 11,2020,6000.0,Samsung Exynos 9611,6.0,64.0,6.4,64.0
+Samsung,Galaxy F62,Android 11,2021,7000.0,Exynos 9825,6.0,128.0,6.7,64.0
+Samsung,Galaxy Fold,Android 9.0 Pie,2019,4380.0,Qualcomm Snapdragon 855,12.0,512.0,7.3,12.0
+Samsung,Galaxy Golden,Android 4.2,2013,1820.0,Qualcomm Snapdragon 400,1.5,16.0,3.7,8.0
+Samsung,Galaxy Grand,Android 4.2.2,2013,2100.0,,1.0,8.0,5.0,8.0
+Samsung,Galaxy Grand Neo,Android 4.2,2014,2100.0,Broadcom BCM23550,1.0,8.0,5.0,5.0
+Samsung,Galaxy Grand Neo Plus,Android 4.4,2015,2100.0,,1.0,8.0,5.0,5.0
+Samsung,Galaxy Grand Prime,Android 5.1 Lollipop,2014,2600.0,Qualcomm Snapdragon 410,1.0,8.0,5.0,8.0
+Samsung,Galaxy Indulge,Android 2.2,2011,1500.0,Samsung Exynos 3,,2.0,3.5,3.0
+Samsung,Galaxy J1 (2016),Android 5.0 Lollipop,2016,2050.0,Samsung Exynos 3 Quad,1.0,8.0,4.5,5.0
+Samsung,Galaxy J2 (2016),Android ,2016,2600.0,Spreadtrum,1.5,8.0,5.0,8.0
+Samsung,Galaxy J2 Core,Android 8.0 Oreo,2018,2600.0,Samsung Exynos 7 Quad,1.0,8.0,5.0,8.0
+Samsung,Galaxy J3 (2016),Android 7.0 Nougat,2016,2600.0,Qualcomm Snapdragon 410,1.5,8.0,5.0,8.0
+Samsung,Galaxy J3 (2017),Android 7.0 Nougat,2017,2600.0,Samsung Exynos 7 Quad,1.5,16.0,5.0,5.0
+Samsung,Galaxy J3 (2017) International,Android 9.0 Pie,2017,2400.0,Samsung Exynos 7 Quad,2.0,16.0,5.0,13.0
+Samsung,Galaxy J3 (2018),Android 9.0 Pie,2018,2600.0,Samsung Exynos 7 Quad,2.0,16.0,5.0,8.0
+Samsung,Galaxy J3 Emerge,Android 6.0 Marshmallow,2017,2600.0,Qualcomm Snapdragon 425,1.5,16.0,5.0,5.0
+Samsung,Galaxy J3 Prime,Android 7.0 Nougat,2017,2600.0,Qualcomm Snapdragon 425,1.5,16.0,5.0,5.0
+Samsung,Galaxy J3 V,Android 6.0 Marshmallow,2016,2600.0,Qualcomm Snapdragon 410,1.5,16.0,5.0,5.0
+Samsung,Galaxy J4,Android 8.0 Oreo,2018,3000.0,Samsung Exynos 7 Quad,3.0,32.0,5.5,13.0
+Samsung,Galaxy J5,Android 6.0 Marshmallow,2015,2600.0,Qualcomm Snapdragon 410,1.5,8.0,5.0,13.0
+Samsung,Galaxy J5 (2016),Android 7.1 Nougat,2016,3100.0,Qualcomm Snapdragon 410,2.0,16.0,5.2,13.0
+Samsung,Galaxy J5 (2017),Android 9.0 Pie,2017,3000.0,Samsung Exynos 7 Octa,2.0,16.0,5.2,13.0
+Samsung,Galaxy J6,Android 9.0 Pie,2018,3000.0,Samsung Exynos 7 Octa,3.0,32.0,5.6,13.0
+Samsung,Galaxy J7,Android 6.0 Marshmallow,2015,3000.0,Qualcomm Snapdragon 615,1.5,16.0,5.5,13.0
+Samsung,Galaxy J7 (2016),Android 7.0 Nougat,2016,3300.0,Samsung Exynos 7 Octa,2.0,16.0,5.5,13.0
+Samsung,Galaxy J7 (2017),Android 9.0 Pie,2017,3600.0,Samsung Exynos 7 Octa,3.0,16.0,5.5,13.0
+Samsung,Galaxy J7 (2017) AT&T,Android 7.0 Nougat,2017,3300.0,Samsung Exynos 7 Octa,2.0,16.0,5.5,8.0
+Samsung,Galaxy J7 (2018),Android 8.0 Oreo,2018,3300.0,Samsung Exynos 7 Octa,2.0,32.0,5.5,13.0
+Samsung,Galaxy J7 Max,Android 7.0 Nougat,2017,3300.0,MediaTek Helio P20,4.0,32.0,5.7,13.0
+Samsung,Galaxy J7 Perx,Android 7.0 Nougat,2017,3300.0,Qualcomm Snapdragon 625,2.0,16.0,5.5,8.0
+Samsung,Galaxy J7 Prime,Android 7.0 Nougat,2016,3300.0,Samsung Exynos 7 Octa,3.0,16.0,5.5,13.0
+Samsung,Galaxy J7 Refine,Android 8.0 Oreo,2018,3300.0,Samsung Exynos 7 Octa,2.0,32.0,5.5,13.0
+Samsung,Galaxy J7 Star,Android 9.0 Pie,2018,3300.0,Samsung Exynos 7 Octa,2.0,32.0,5.5,13.0
+Samsung,Galaxy J7 V,Android 7.0 Nougat,2017,3300.0,Qualcomm Snapdragon 625,2.0,16.0,5.5,8.0
+Samsung,Galaxy J8,Android 10,2018,3500.0,Qualcomm Snapdragon 450,4.0,64.0,6.0,16.0
+Samsung,Galaxy Luna,Android 6.0 Marshmallow,2016,2050.0,,1.0,8.0,4.5,5.0
+Samsung,Galaxy M01,Android 11,2020,4000.0,Qualcomm Snapdragon 439,3.0,32.0,5.7,13.0
+Samsung,Galaxy M01 Core,Android 10,2020,3000.0,MediaTek MT6739,1.0,16.0,5.3,8.0
+Samsung,Galaxy M02,Android 10,2021,5000.0,Mediatek MT6739W,2.0,32.0,6.5,13.0
+Samsung,Galaxy M10,Android 9.0 Pie,2019,3400.0,Samsung Exynos 7 Octa,3.0,32.0,6.2,13.0
+Samsung,Galaxy M11,Android 10,2020,5000.0,Qualcomm Snapdragon 450,3.0,32.0,6.4,13.0
+Samsung,Galaxy M12,Android 10,2021,5000.0,Samsung Exynos 850,4.0,64.0,6.5,48.0
+Samsung,Galaxy M20,Android 10,2019,5000.0,Samsung Exynos 7 Octa,4.0,64.0,6.3,13.0
+Samsung,Galaxy M21,Android 11,2020,6000.0,Exynos 9611,4.0,64.0,6.4,48.0
+Samsung,Galaxy M30,Android 9.0 Pie,2019,5000.0,Samsung Exynos 7 Octa,6.0,128.0,6.4,13.0
+Samsung,Galaxy M30s,Android 11,2019,6000.0,Samsung Exynos 9611,4.0,64.0,6.4,48.0
+Samsung,Galaxy M31,Android 11,2020,6000.0,Exynos 9611,6.0,64.0,6.4,64.0
+Samsung,Galaxy M31s,Android 11,2020,6000.0,Samsung Exynos 9611,6.0,128.0,6.5,64.0
+Samsung,Galaxy M40,Android 10,2019,3500.0,Qualcomm Snapdragon 675,6.0,128.0,6.3,32.0
+Samsung,Galaxy M51,Android 10,2020,7000.0,Qualcomm Snapdragon 730,6.0,128.0,6.7,64.0
+Samsung,Galaxy M53 5G,Android 12,2022,5000.0,MediaTek Dimensity 900,6.0,128.0,6.7,108.0
+Samsung,Galaxy Mega 2,Android 4.4,2014,2800.0,Samsung Exynos 4 Quad,1.5,16.0,6.0,8.0
+Samsung,Galaxy Mega 6.3,Android 4.4.2,2013,3200.0,Qualcomm Snapdragon 400,1.5,8.0,6.3,8.0
+Samsung,Galaxy Note 20,Android 12,2020,4300.0,Qualcomm Snapdragon 865+,8.0,128.0,6.7,12.0
+Samsung,Galaxy Note 20 Ultra,Android 12,2020,4500.0,Qualcomm Snapdragon 865+,12.0,128.0,6.9,108.0
+Samsung,Galaxy Note Fan Edition,Android 9.0 Pie,2017,3200.0,Samsung Exynos 8 Octa,4.0,64.0,5.7,12.0
+Samsung,Galaxy Note10,Android 11,2019,3500.0,Qualcomm Snapdragon 855,8.0,256.0,6.3,12.0
+Samsung,Galaxy Note10 Lite,Android 11,2020,4500.0,Samsung Exynos 9810,6.0,128.0,6.7,12.0
+Samsung,Galaxy Note10+,Android 11,2019,4300.0,Qualcomm Snapdragon 855,12.0,256.0,6.8,12.0
+Samsung,Galaxy Note10+ 5G,Android 11,2019,4300.0,Qualcomm Snapdragon 855,12.0,256.0,6.8,12.0
+Samsung,Galaxy Note3,Android 5.0 Lollipop,2013,3200.0,Qualcomm Snapdragon 800,3.0,64.0,5.7,13.0
+Samsung,Galaxy Note4,Android 6.0 Marshmallow,2014,3220.0,Samsung Exynos 7 Octa,3.0,32.0,5.7,16.0
+Samsung,Galaxy Note5,Android 7.0 Nougat,2015,3000.0,Samsung Exynos 7 Octa,4.0,64.0,5.7,16.0
+Samsung,Galaxy Note8,Android 8.0 Oreo,2017,3300.0,Qualcomm Snapdragon 835,6.0,64.0,6.3,12.0
+Samsung,Galaxy Note9,Android 10,2018,4000.0,Qualcomm Snapdragon 845,6.0,128.0,6.4,12.0
+Samsung,Galaxy On Nxt,Android ,2016,3300.0,Samsung Exynos 7 Octa,3.0,32.0,5.5,13.0
+Samsung,Galaxy On5,Android 6.0 Marshmallow,2015,2600.0,,1.5,8.0,5.0,5.0
+Samsung,Galaxy On7,Android ,2015,3000.0,,1.5,8.0,5.5,13.0
+Samsung,Galaxy On7 Prime,Android 9.0 Pie,2018,3300.0,Samsung Exynos 7 Octa,4.0,64.0,5.5,13.0
+Samsung,Galaxy On8,Android 6.0 Marshmallow,2016,3300.0,Samsung Exynos 7 Octa,3.0,16.0,5.5,13.0
+Samsung,Galaxy Pocket 2,Android 4.4.2,2014,1200.0,,0.5,4.0,3.3,2.0
+Samsung,Galaxy Pocket Duos,Android 2.3.6,2012,1200.0,,,3.0,2.8,2.0
+Samsung,Galaxy R,Android 2.3.3,2011,1650.0,NVIDIA Tegra 2,1.0,8.0,4.2,5.0
+Samsung,Galaxy Rugby Pro,Android 4.1,2012,1850.0,Qualcomm Snapdragon S4 Plus,1.0,8.0,4.0,5.0
+Samsung,Galaxy S,Android 2.3.5,2010,1500.0,,0.5,16.0,4.0,5.0
+Samsung,Galaxy S Blaze 4G,Android 4.0.4,2012,1750.0,Qualcomm Snapdragon S3,1.0,1.0,4.0,5.0
+Samsung,Galaxy S Duos,Android 4.0.4,2012,1500.0,Qualcomm Snapdragon S1,0.75,4.0,4.0,5.0
+Samsung,Galaxy S II,Android 4.1.2,2011,1650.0,Samsung Exynos 4 Dual,1.0,32.0,4.3,8.0
+Samsung,Galaxy S II AT&T,Android 2.3.6,2011,1650.0,Samsung Exynos,1.0,16.0,4.3,8.0
+Samsung,Galaxy S II CDMA,Android 2.3,2012,1800.0,,1.0,16.0,4.5,8.0
+Samsung,Galaxy S II Skyrocket,Android 4.1.2,2011,1850.0,,1.0,16.0,4.5,8.0
+Samsung,Galaxy S III,Android 4.3,2012,2100.0,Samsung Exynos 4 Quad,1.0,32.0,4.8,8.0
+Samsung,Galaxy S III AT&T,Android 4.4.2,2012,2100.0,Qualcomm Snapdragon S4 Plus,2.0,16.0,4.8,8.0
+Samsung,Galaxy S III MetroPCS,Android 4.0.4,2012,2100.0,Qualcomm Snapdragon S4 Pro,2.0,16.0,4.8,8.0
+Samsung,Galaxy S III Sprint,Android 4.4.2,2012,2100.0,Qualcomm Snapdragon S4 Plus,2.0,32.0,4.8,8.0
+Samsung,Galaxy S III T-Mobile,Android 4.3,2012,2100.0,Qualcomm Snapdragon S4 Plus,2.0,32.0,4.8,8.0
+Samsung,Galaxy S III Verizon,Android 4.1.2,2012,2100.0,Qualcomm Snapdragon S4 Plus,2.0,32.0,4.8,8.0
+Samsung,Galaxy S III mini Value Edition,Android 4.2.2,2014,1500.0,,1.0,8.0,4.0,5.0
+Samsung,Galaxy S Relay 4G,Android 4.0,2012,1800.0,Qualcomm Snapdragon S4 Plus,1.0,8.0,4.0,5.0
+Samsung,Galaxy S10,Android 11,2019,3400.0,Qualcomm Snapdragon 855,8.0,128.0,6.1,12.0
+Samsung,Galaxy S10 5G,Android 12,2019,4500.0,Qualcomm Snapdragon 855,8.0,256.0,6.7,12.0
+Samsung,Galaxy S10 Lite,Android 11,2020,4500.0,Qualcomm Snapdragon 855,8.0,128.0,6.7,48.0
+Samsung,Galaxy S10+,Android 11,2019,4100.0,Qualcomm Snapdragon 855,8.0,128.0,6.4,12.0
+Samsung,Galaxy S10e,Android 11,2019,3100.0,Qualcomm Snapdragon 855,6.0,128.0,5.8,12.0
+Samsung,Galaxy S20,Android 11,2020,4000.0,Qualcomm Snapdragon 865,12.0,128.0,6.2,12.0
+Samsung,Galaxy S20 FE,Android 11,2020,4500.0,Qualcomm Snapdragon 865,6.0,128.0,6.5,12.0
+Samsung,Galaxy S20 Ultra 5G,Android 11,2020,5000.0,Qualcomm Snapdragon 865,12.0,128.0,6.9,108.0
+Samsung,Galaxy S20+,Android 11,2020,4500.0,Qualcomm Snapdragon 865,12.0,128.0,6.7,12.0
+Samsung,Galaxy S21,Android 12,2021,4000.0,Qualcomm Snapdragon 888,8.0,128.0,6.2,12.0
+Samsung,Galaxy S21 FE,Android 11,2022,4500.0,Qualcomm Snapdragon 888,6.0,128.0,6.4,12.0
+Samsung,Galaxy S21 Ultra,Android 12,2021,5000.0,Qualcomm Snapdragon 888,12.0,128.0,6.8,108.0
+Samsung,Galaxy S21+,Android 12,2021,4800.0,Qualcomm Snapdragon 888,8.0,128.0,6.7,12.0
+Samsung,Galaxy S22,Android 12,2022,3700.0,Qualcomm Snapdragon 8 Gen 1,8.0,128.0,6.1,50.0
+Samsung,Galaxy S22 Ultra,Android 12,2022,5000.0,Qualcomm Snapdragon 8 Gen 1,8.0,128.0,6.8,108.0
+Samsung,Galaxy S22+,Android 12,2022,4500.0,Qualcomm Snapdragon 8 Gen 1,8.0,128.0,6.6,50.0
+Samsung,Galaxy S3 Neo,Android 4.4.4,2014,2100.0,Qualcomm Snapdragon 400,1.5,16.0,4.8,8.0
+Samsung,Galaxy S3 Slim,Android 4.2,2014,2100.0,,1.0,8.0,4.5,5.0
+Samsung,Galaxy S4 Active,Android 4.4.2,2013,2600.0,Qualcomm Snapdragon 600,2.0,16.0,5.0,8.0
+Samsung,Galaxy S5,Android 6.0 Marshmallow,2014,2800.0,Qualcomm Snapdragon 801,2.0,32.0,5.1,16.0
+Samsung,Galaxy S5 Active,Android 6.0 Marshmallow,2014,2800.0,Qualcomm Snapdragon 801,2.0,16.0,5.1,16.0
+Samsung,Galaxy S5 Neo,Android 7.0 Nougat,2015,2800.0,Samsung Exynos 7 Octa,2.0,16.0,5.1,16.0
+Samsung,Galaxy S6,Android 7.0 Nougat,2015,2550.0,Samsung Exynos 7 Octa,3.0,128.0,5.1,16.0
+Samsung,Galaxy S6 Active,Android 7.0 Nougat,2015,3500.0,Samsung Exynos 7 Octa,3.0,32.0,5.1,16.0
+Samsung,Galaxy S6 edge,Android 7.0 Nougat,2015,2600.0,Samsung Exynos 7 Octa,3.0,128.0,5.1,16.0
+Samsung,Galaxy S6 edge+,Android 7.0 Nougat,2015,3000.0,Samsung Exynos 7 Octa,4.0,64.0,5.7,16.0
+Samsung,Galaxy S7,Android 8.0 Oreo,2016,3000.0,Qualcomm Snapdragon 820,4.0,32.0,5.1,12.0
+Samsung,Galaxy S7 Active,Android 8.0 Oreo,2016,4000.0,Qualcomm Snapdragon 820,4.0,32.0,5.1,12.0
+Samsung,Galaxy S7 edge,Android 8.0 Oreo,2016,3600.0,Qualcomm Snapdragon 820,4.0,32.0,5.5,12.0
+Samsung,Galaxy S8,Android 9.0 Pie,2017,3000.0,Qualcomm Snapdragon 835,4.0,64.0,5.8,12.0
+Samsung,Galaxy S8 Active,Android 9.0 Pie,2017,4000.0,Qualcomm Snapdragon 835,4.0,64.0,5.8,12.0
+Samsung,Galaxy S8+,Android 9.0 Pie,2017,3500.0,Qualcomm Snapdragon 835,4.0,64.0,6.2,12.0
+Samsung,Galaxy S9,Android 10,2018,3000.0,Qualcomm Snapdragon 845,4.0,64.0,5.8,12.0
+Samsung,Galaxy S9+,Android 10,2018,3500.0,Qualcomm Snapdragon 845,6.0,64.0,6.2,12.0
+Samsung,Galaxy SL,Android 2.2,2011,1650.0,,0.5,16.0,4.0,5.0
+Samsung,Galaxy Spica,Android 1.5,2009,1500.0,,0.1,0.0,3.2,3.0
+Samsung,Galaxy Stellar,Android 4.1,2012,2100.0,Qualcomm Snapdragon S4 Plus,1.0,4.0,4.0,3.0
+Samsung,Galaxy Trend Plus,Android 4.2.2,2013,1500.0,,0.75,4.0,4.0,5.0
+Samsung,Galaxy V,Android 4.4.2,2014,1500.0,,0.5,4.0,4.0,3.0
+Samsung,Galaxy V Plus,Android 4.4,2015,1500.0,,0.5,4.0,4.0,3.0
+Samsung,Galaxy Victory 4G LTE,Android 4.1,2012,2100.0,Qualcomm Snapdragon S4 Lite,1.0,4.0,4.0,5.0
+Samsung,Galaxy Win,Android 4.1,2013,2000.0,Qualcomm Snapdragon 200,1.0,8.0,4.7,5.0
+Samsung,Galaxy XCover 3,Android 4.4.4,2015,2200.0,Marvell Armada PXA1908,1.5,8.0,4.5,5.0
+Samsung,Galaxy XCover 5,Android 11,2021,3000.0,Samsung Exynos 850,4.0,64.0,5.3,16.0
+Samsung,Galaxy XCover 6 Pro,Android 12,2022,4050.0,Qualcomm Snapdragon 778G,6.0,128.0,6.6,50.0
+Samsung,Galaxy XCover FieldPro,Android 8.0 Oreo,2020,4500.0,Samsung Exynos 9810,4.0,64.0,5.1,12.0
+Samsung,Galaxy XCover Pro,Android 11,2020,4050.0,Samsung Exynos 9611,4.0,64.0,6.3,25.0
+Samsung,Galaxy Xcover 2,Android 4.1.2,2013,1700.0,,1.0,4.0,4.0,5.0
+Samsung,Galaxy Xcover 4,Android 9.0 Pie,2017,2800.0,Samsung Exynos 7 Quad,2.0,16.0,5.0,13.0
+Samsung,Galaxy Y Pro,Android 2.3,2011,1200.0,,,0.0,2.6,3.0
+Samsung,Galaxy Young 2,Android 4.4,2014,1300.0,,0.5,4.0,3.5,3.0
+Samsung,Galaxy Z Flip,Android 12,2020,3300.0,Qualcomm Snapdragon 855+,8.0,256.0,6.7,12.0
+Samsung,Galaxy Z Flip 3,Android 11,2021,3300.0,Qualcomm Snapdragon 888,8.0,128.0,6.7,12.0
+Samsung,Galaxy Z Flip 4,Android 12,2022,3700.0,Qualcomm Snapdragon 8+ Gen 1,8.0,128.0,6.7,12.0
+Samsung,Galaxy Z Flip 5G,Android 12,2020,3300.0,Qualcomm Snapdragon 865+,8.0,256.0,6.7,12.0
+Samsung,Galaxy Z Fold 2,Android 11,2020,4500.0,Qualcomm Snapdragon 865+,12.0,256.0,7.6,12.0
+Samsung,Galaxy Z Fold 3,Android 11,2021,4400.0,Qualcomm Snapdragon 888,12.0,256.0,7.6,12.0
+Samsung,Galaxy Z Fold 4,Android 12,2022,4400.0,Qualcomm Snapdragon 8+ Gen 1,12.0,256.0,7.6,50.0
+Samsung,Giorgio Armani B7620,Windows Mobile Professional 6.5,2009,1500.0,,,8.0,3.5,5.0
+Samsung,Giorgio Armani Galaxy S,Android 2.2,2011,1650.0,,0.5,16.0,4.0,5.0
+Samsung,I7110,"Symbian 9.3S60 3rd Edition, Feature Pack 2",2009,1200.0,,0.1,0.0,2.6,5.0
+Samsung,I7500L,Android ,2010,1500.0,,,8.0,3.2,5.0
+Samsung,I8000L,Windows Mobile Professional 6.5,2009,1500.0,,,16.0,3.7,5.0
+Samsung,INNOV8,"Symbian 9.3S60 3rd Edition, Feature Pack 2",2008,1200.0,,,16.0,2.8,8.0
+Samsung,Illusion,Android 2.3,2011,1500.0,,0.5,2.0,3.5,3.0
+Samsung,Infuse 4G,Android 2.3.6,2011,1750.0,Samsung Exynos 3,0.5,16.0,4.5,8.0
+Samsung,OMNIA,Windows Mobile Professional 6.1,2008,1440.0,,0.1,16.0,3.2,5.0
+Samsung,OMNIA HD,Symbian 9.4S60 5th Edition,2009,1500.0,TI OMAP3430,,16.0,3.7,8.0
+Samsung,OMNIA Pro 4,Windows Mobile Professional 6.5.3,2010,1500.0,,,0.0,2.6,3.0
+Samsung,Omnia 7,Windows Phone 7.5 Mango,2010,1500.0,Qualcomm Snapdragon S1,,8.0,4.0,5.0
+Samsung,Omnia CDMA,Windows Mobile Professional 6.1,2008,1440.0,,0.1,8.0,3.2,5.0
+Samsung,Omnia II,Windows Mobile Professional 6.5,2009,1500.0,,0.25,16.0,3.7,5.0
+Samsung,Omnia II CDMA,Windows Mobile Professional 6.5,2009,1500.0,,0.25,8.0,3.7,5.0
+Samsung,OmniaLITE B7300,Windows Mobile Professional 6.5,2009,1500.0,,0.1,0.0,3.0,3.0
+Samsung,OmniaPRO B7320,Windows Mobile Standard 6.1,2009,1480.0,,,0.0,2.4,3.0
+Samsung,OmniaPRO B7330,Windows Mobile Standard 6.5,2009,1500.0,,0.25,0.0,2.6,3.0
+Samsung,OmniaPRO B7610,Windows Mobile Professional 6.5,2009,1500.0,,0.25,2.0,3.5,5.0
+Samsung,Rugby Smart,Android 2.3.5,2012,1650.0,,0.5,4.0,3.7,5.0
+Samsung,SGH-L870,"Symbian 9.3S60 3rd Edition, Feature Pack 2",2009,1000.0,,,0.0,2.4,3.0
+Samsung,SGH-i200,Windows Mobile Standard 6.1,2008,1100.0,,0.06,0.0,2.3,2.0
+Samsung,SGH-i740,Windows Mobile Professional 6.1,2009,1500.0,,,0.0,,3.0
+Samsung,Stratosphere,Android 2.3,2011,1800.0,,0.5,4.0,4.0,5.0
+Samsung,Transfix,Android 2.3,2011,1500.0,,,0.0,3.2,3.0
+Samsung,Vibrant,Android 2.2,2010,1500.0,Samsung Exynos 3,,16.0,4.0,5.0
+Samsung,Vodafone 360 H1,Linux LiMo R2,2009,1500.0,,,16.0,3.5,5.0
+Samsung,Vodafone 360 M1,Linux LiMo R2,2009,1500.0,,,1.0,3.2,3.0
+Samsung,Wave,bada 2.0,2010,1500.0,,,2.0,3.3,5.0
+Samsung,Z2,Tizen ,2016,1500.0,,1.0,8.0,4.0,5.0
+Samsung,Z3,Tizen 2.3,2015,2600.0,Spreadtrum,1.0,8.0,5.0,8.0
+Samsung,Z4,Tizen 3.0,2017,2050.0,,1.0,8.0,4.5,5.0
+Sonim,XP8,Android 7.0 Nougat,2018,4900.0,Qualcomm Snapdragon 630,4.0,64.0,5.0,12.0
+Sony,Ericsson Aspen,Windows Mobile Professional 6.5.3,2010,1500.0,,0.25,0.0,2.4,3.0
+Sony,Ericsson P800,Symbian 7.0UIQ 2.0,2003,1000.0,,,0.0,,0.0
+Sony,Ericsson P900,Symbian 7.0UIQ 2.1,2004,1260.0,,,0.0,,0.0
+Sony,Ericsson P910,Symbian 7.0UIQ 2.1,2004,1000.0,,,0.0,,0.0
+Sony,Ericsson Satio,Symbian Symbian^1S60 5th Edition,2009,950.0,TI OMAP3430,0.25,0.0,3.5,12.0
+Sony,Ericsson Satio a,Symbian Symbian^1S60 5th Edition,2010,950.0,,0.25,0.0,3.5,12.0
+Sony,Ericsson Vivaz,Symbian S60 5th Edition,2010,1200.0,,,0.0,3.2,8.0
+Sony,Ericsson Vivaz a,Symbian S60 5th Edition,2010,1200.0,,,0.0,3.2,8.0
+Sony,Ericsson XPERIA X2,Windows Mobile Professional 6.5,2010,1500.0,,0.3,0.0,3.2,8.0
+Sony,Ericsson Xperia PLAY,Android 2.3.3,2011,1500.0,Qualcomm Snapdragon S2,0.5,0.0,4.0,5.0
+Sony,Ericsson Xperia PLAY 4G,Android 2.3.3,2011,1500.0,Qualcomm Snapdragon S2,0.5,0.0,4.0,5.0
+Sony,Ericsson Xperia X1,Windows Mobile Professional 6.1,2008,1500.0,,0.25,0.0,3.0,3.0
+Sony,Ericsson Xperia X10,Android 2.3.3,2010,1500.0,Qualcomm Snapdragon S1,0.25,1.0,4.0,8.0
+Sony,Ericsson Xperia X10 mini,Android 2.1,2010,,Qualcomm Snapdragon S1,,0.0,2.5,5.0
+Sony,Ericsson Xperia X10 mini pro,Android 2.1,2010,930.0,Qualcomm Snapdragon S1,,0.0,2.5,5.0
+Sony,Ericsson Xperia X10a,Android 2.3.3,2010,1500.0,Qualcomm Snapdragon S1,0.25,1.0,4.0,8.0
+Sony,Ericsson Xperia X8,Android 2.1,2010,1200.0,Qualcomm Snapdragon S1,,0.0,3.0,3.0
+Sony,Ericsson Xperia mini pro,Android 4.0,2011,1200.0,Qualcomm Snapdragon S2,0.5,0.0,3.0,5.0
+Sony,Ericsson Xperia pro,Android 2.3,2011,1500.0,Qualcomm Snapdragon S2,,0.0,3.7,8.0
+Sony,Ericsson Xperia ray,Android 4.0,2011,1500.0,,0.5,0.0,3.3,8.0
+Sony,Xperia 1,Android 10,2019,3330.0,Qualcomm Snapdragon 855,6.0,128.0,6.5,12.0
+Sony,Xperia 1 II,Android 11,2020,4000.0,Qualcomm Snapdragon 865,8.0,256.0,6.5,12.0
+Sony,Xperia 1 III,Android 11,2021,4500.0,Qualcomm Snapdragon 888,12.0,256.0,6.5,12.0
+Sony,Xperia 1 IV,Android 12,2022,5000.0,Qualcomm Snapdragon 8 Gen 1,12.0,256.0,6.5,12.0
+Sony,Xperia 10,Android 10,2019,2870.0,Qualcomm Snapdragon 630,3.0,64.0,6.0,13.0
+Sony,Xperia 10 II,Android 12,2020,3600.0,Qualcomm Snapdragon 665,4.0,128.0,6.0,12.0
+Sony,Xperia 10 III,Android 11,2021,4500.0,Qualcomm Snapdragon 690,6.0,128.0,6.0,12.0
+Sony,Xperia 10 IV,Android 12,2022,5000.0,Qualcomm Snapdragon 695,6.0,128.0,6.0,12.0
+Sony,Xperia 10 Plus,Android 10,2019,3000.0,Qualcomm Snapdragon 636,4.0,64.0,6.5,12.0
+Sony,Xperia 5,Android 10,2019,3140.0,Qualcomm Snapdragon 855,6.0,128.0,6.1,12.0
+Sony,Xperia 5 II,Android 10,2020,4000.0,Qualcomm Snapdragon 865,8.0,128.0,6.1,12.0
+Sony,Xperia C,Android 4.2.2,2013,2390.0,MediaTek,1.0,4.0,5.0,8.0
+Sony,Xperia C3,Android 5.0 Lollipop,2014,2500.0,Qualcomm Snapdragon 400,1.0,8.0,5.5,8.0
+Sony,Xperia C4,Android 6.0 Marshmallow,2015,2600.0,MediaTek,2.0,16.0,5.5,13.0
+Sony,Xperia C5 Ultra,Android 5.0 Lollipop,2015,2930.0,MediaTek,2.0,16.0,6.0,13.0
+Sony,Xperia E4,Android 4.4.4,2015,2300.0,MediaTek,1.0,8.0,5.0,5.0
+Sony,Xperia E5,Android 6.0 Marshmallow,2016,2300.0,MediaTek,1.5,16.0,5.0,13.0
+Sony,Xperia L1,Android 7.0 Nougat,2017,2620.0,MediaTek,2.0,16.0,5.5,13.0
+Sony,Xperia L2,Android 7.1 Nougat,2018,3300.0,MediaTek,3.0,32.0,5.5,13.0
+Sony,Xperia L3,Android 8.1 Oreo,2019,3300.0,MediaTek Helio P22,3.0,32.0,5.7,13.0
+Sony,Xperia L4,Android 9.0 Pie,2020,3580.0,MediaTek Helio P22,3.0,64.0,6.2,13.0
+Sony,Xperia M2,Android 5.1 Lollipop,2014,2300.0,Qualcomm Snapdragon 400,1.0,8.0,4.8,8.0
+Sony,Xperia M4 Aqua,Android 6.0 Marshmallow,2015,2400.0,Qualcomm Snapdragon 615,2.0,16.0,5.0,13.0
+Sony,Xperia M5,Android 6.0 Marshmallow,2015,2600.0,MediaTek Helio X10,3.0,16.0,5.0,21.0
+Sony,Xperia PRO,Android 10,2021,4000.0,Qualcomm Snapdragon 865,8.0,512.0,6.5,12.0
+Sony,Xperia PRO-I,Android 11,2021,4500.0,Qualcomm Snapdragon 888,12.0,512.0,6.5,12.0
+Sony,Xperia SL,Android 4.0.4,2012,,Qualcomm Snapdragon S3,1.0,26.0,4.3,12.0
+Sony,Xperia SP,Android 4.3,2013,2370.0,Qualcomm Snapdragon S4 Pro,1.0,8.0,4.6,8.0
+Sony,Xperia TL,Android 4.1,2012,1850.0,Qualcomm Snapdragon S4 Plus,1.0,16.0,4.5,13.0
+Sony,Xperia TX,Android 4.3,2012,1750.0,Qualcomm Snapdragon S4 Plus,1.0,16.0,4.6,13.0
+Sony,Xperia U,Android 4.0,2012,1320.0,ST Erricson NovaThor U8500,0.5,8.0,3.5,5.0
+Sony,Xperia X,Android 8.0 Oreo,2016,2620.0,Qualcomm Snapdragon 650,3.0,32.0,5.0,23.0
+Sony,Xperia X Compact,Android 8.0 Oreo,2016,2700.0,Qualcomm Snapdragon 650,3.0,32.0,4.6,23.0
+Sony,Xperia X Performance,Android 8.0 Oreo,2016,2700.0,Qualcomm Snapdragon 820,3.0,32.0,5.0,23.0
+Sony,Xperia XA,Android 7.0 Nougat,2016,2300.0,MediaTek Helio P10,2.0,16.0,5.0,13.0
+Sony,Xperia XA Ultra,Android 6.0 Marshmallow,2016,2700.0,MediaTek Helio P10,3.0,16.0,6.0,21.0
+Sony,Xperia XA1,Android 8.0 Oreo,2017,2300.0,MediaTek Helio P20,3.0,32.0,5.0,23.0
+Sony,Xperia XA1 Plus,Android 8.0 Oreo,2017,3430.0,MediaTek Helio P20,3.0,32.0,5.5,23.0
+Sony,Xperia XA1 Ultra,Android 8.0 Oreo,2017,2700.0,MediaTek Helio P20,4.0,32.0,6.0,23.0
+Sony,Xperia XA2,Android 9.0 Pie,2018,3300.0,Qualcomm Snapdragon 630,3.0,32.0,5.2,23.0
+Sony,Xperia XA2 Plus,Android 8.0 Oreo,2018,3580.0,Qualcomm Snapdragon 630,6.0,64.0,6.0,23.0
+Sony,Xperia XA2 Ultra,Android 9.0 Pie,2018,3580.0,Qualcomm Snapdragon 630,4.0,32.0,6.0,23.0
+Sony,Xperia XZ,Android 8.0 Oreo,2016,2900.0,Qualcomm Snapdragon 820,3.0,32.0,5.2,23.0
+Sony,Xperia XZ Premium,Android 8.0 Oreo,2017,3230.0,Qualcomm Snapdragon 835,4.0,64.0,5.5,19.0
+Sony,Xperia XZ1,Android 8.0 Oreo,2017,2700.0,Qualcomm Snapdragon 835,4.0,64.0,5.2,19.0
+Sony,Xperia XZ1 Compact,Android 8.0 Oreo,2017,2700.0,Qualcomm Snapdragon 835,4.0,32.0,4.6,19.0
+Sony,Xperia XZ2,Android 9.0 Pie,2018,3180.0,Qualcomm Snapdragon 845,4.0,64.0,5.7,19.0
+Sony,Xperia XZ2 Compact,Android 8.0 Oreo,2018,2870.0,Qualcomm Snapdragon 845,4.0,64.0,5.0,19.0
+Sony,Xperia XZ2 Premium,Android 9.0 Pie,2018,3540.0,Qualcomm Snapdragon 845,6.0,64.0,5.8,19.0
+Sony,Xperia XZ3,Android 9.0 Pie,2018,3330.0,Qualcomm Snapdragon 845,4.0,64.0,6.0,19.0
+Sony,Xperia XZs,Android 8.0 Oreo,2017,2900.0,Qualcomm Snapdragon 820,4.0,32.0,5.2,19.0
+Sony,Xperia Z,Android 5.1 Lollipop,2013,2330.0,Qualcomm Snapdragon S4 Pro,2.0,16.0,5.0,13.0
+Sony,Xperia Z1 Compact,Android 5.1 Lollipop,2014,2300.0,Qualcomm Snapdragon 800,2.0,16.0,4.3,20.0
+Sony,Xperia Z2,Android 6.0 Marshmallow,2014,3200.0,Qualcomm Snapdragon 801,3.0,16.0,5.2,20.0
+Sony,Xperia Z3+,Android 7.1 Nougat,2015,2930.0,Qualcomm Snapdragon 810,3.0,32.0,5.2,20.0
+Sony,Xperia Z5,Android 7.1 Nougat,2015,2900.0,Qualcomm Snapdragon 810,3.0,32.0,5.2,23.0
+Sony,Xperia Z5 Compact,Android 6.0 Marshmallow,2015,2700.0,Qualcomm Snapdragon 810,2.0,32.0,4.6,23.0
+Sony,Xperia Z5 Premium,Android 7.0 Nougat,2015,3430.0,Qualcomm Snapdragon 810,3.0,32.0,5.5,23.0
+Sony,Xperia ZL,Android 5.1 Lollipop,2013,2370.0,Qualcomm Snapdragon S4 Pro,2.0,16.0,5.0,13.0
+Sony,Xperia advance,Android 2.3,2012,1305.0,,0.5,4.0,3.5,5.0
+Sony,Xperia miro,Android 4.0.4,2012,1500.0,Qualcomm Snapdragon S1,0.5,2.0,3.5,5.0
+Sony,Xperia sola,Android 4.0.4,2012,1320.0,ST-Ericsson NovaThor U8500,0.5,8.0,3.7,5.0
+Spice,Mobile Pinnacle Stylus,Android 4.2,2014,2500.0,MediaTek,1.0,8.0,5.5,8.0
+Spice,Mobile Stellar 519,Android 4.4.4,2015,2500.0,,1.0,8.0,5.0,8.0
+Spice,Mobile X-Life 364,Android 4.4,2015,1300.0,,0.25,0.0,3.5,2.0
+Spice,Mobile X-Life 403E,Android 4.4,2015,1400.0,,0.25,0.0,4.0,2.0
+Spice,Mobile X-Life 404,Android 4.4,2015,1450.0,,0.25,0.0,4.0,3.0
+Spice,Mobile X-Life 406,Android 4.4,2015,1450.0,,0.5,4.0,4.0,3.0
+Spice,Mobile X-Life 410,Android 4.4,2015,1400.0,,0.25,0.0,4.0,2.0
+Spice,Mobile X-Life 425,Android 5.1 Lollipop,2015,1400.0,,0.5,4.0,4.0,3.0
+Spice,Mobile X-Life 431 Q Lite,Android 4.4,2015,1750.0,,0.5,4.0,4.0,3.0
+Spice,Mobile X-Life 480Q,Android 4.4,2015,1750.0,,1.0,8.0,4.5,5.0
+Spice,Mobile X-Life 511 Pro,Android 4.4.2,2015,1750.0,,1.0,8.0,,8.0
+Spice,Mobile X-Life 512,Android 4.4,2015,2000.0,,0.5,4.0,5.0,8.0
+Spice,Mobile X-Life 515Q,Android 5.1 Lollipop,2015,2000.0,,0.5,8.0,5.0,8.0
+Spice,Mobile XLife 46Q,Android 5.1 Lollipop,2015,1600.0,,1.0,8.0,4.5,5.0
+T-Mobile,G2,Android 2.3.3,2010,1300.0,Qualcomm Snapdragon S2,0.5,4.0,3.7,5.0
+T-Mobile,G2x,Android 2.3.3,2011,1500.0,NVIDIA Tegra 2,0.5,8.0,4.0,8.0
+T-Mobile,REVVL,Android 7.0 Nougat,2017,3000.0,MediaTek,2.0,32.0,5.5,13.0
+T-Mobile,REVVL V+ 5G,Android 11,2021,5000.0,MediaTek Dimensity 700,4.0,64.0,6.8,16.0
+T-Mobile,Revvl 2,Android 8.1 Oreo,2018,3000.0,MediaTek,2.0,32.0,5.5,13.0
+T-Mobile,Revvl 2 Plus,Android 8.1 Oreo,2018,4000.0,MediaTek Helio P23,3.0,32.0,6.0,12.0
+T-Mobile,Revvl 4,Android 10,2020,3500.0,MediaTek Helio A22,2.0,32.0,6.2,13.0
+T-Mobile,Revvl 4+,Android 10,2020,4000.0,Qualcomm Snapdragon 665,4.0,64.0,6.5,16.0
+T-Mobile,Revvl 5G,Android 10,2020,4500.0,Qualcomm Snapdragon 765,6.0,128.0,6.5,48.0
+T-Mobile,Revvl Plus,Android 7.0 Nougat,2017,3380.0,Qualcomm Snapdragon 625,2.0,32.0,6.0,13.0
+T-Mobile,Revvlry,Android 9.0 Pie,2019,3000.0,Qualcomm Snapdragon 632,3.0,32.0,5.7,13.0
+T-Mobile,Revvlry+,Android 9.0 Pie,2019,3000.0,Qualcomm Snapdragon 636,4.0,64.0,6.2,16.0
+T-Mobile,myTouch 4G Slide,Android 2.3.4,2011,1520.0,Qualcomm Snapdragon S3,0.75,1.0,3.7,8.0
+TCL,10 5G UW,Android 10,2020,4500.0,Qualcomm Snapdragon 765G,6.0,128.0,6.5,48.0
+TCL,10 Pro,Android 10,2020,4550.0,Qualcomm Snapdragon 675,6.0,128.0,6.5,64.0
+TCL,10L,Android 11,2020,4000.0,Qualcomm Snapdragon 665,6.0,64.0,6.5,48.0
+TCL,20 5G,Android 10,2020,4500.0,Qualcomm Snapdragon 690 5G,6.0,128.0,6.7,48.0
+TCL,20 R 5G,Android 11,2021,4500.0,MediaTek Dimensity 700,4.0,64.0,6.5,13.0
+TCL,20L,Android 11,2021,5000.0,Qualcomm Snapdragon 662,4.0,128.0,6.7,48.0
+TCL,20L+,Android 11,2021,5000.0,Qualcomm Snapdragon 662,6.0,256.0,6.7,64.0
+TCL,20S,Android 11,2021,5000.0,Qualcomm Snapdragon 665,4.0,128.0,6.7,64.0
+TCL,30 V 5G,Android 11,2022,4500.0,Qualcomm Snapdragon 480,4.0,128.0,6.7,50.0
+TCL,30 XE 5G,Android 11,2022,4500.0,MediaTek Dimensity 700,4.0,64.0,6.5,13.0
+TCL,SIGNA,Android 10,2020,3000.0,Qualcomm Snapdragon 429,2.0,16.0,5.5,8.0
+Vertu,Aster,Android 5.1 Lollipop,2014,2275.0,Qualcomm Snapdragon 801,2.0,64.0,4.7,13.0
+Vertu,Constellation Quest,Symbian ,2010,,,,0.0,2.5,5.0
+Vertu,Signature Touch (2015),Android 5.1 Lollipop,2015,3160.0,Qualcomm Snapdragon 810,4.0,64.0,5.2,21.0
+Vertu,Signature Touch for Bentley,Android 5.1 Lollipop,2016,3160.0,Qualcomm Snapdragon 810,4.0,64.0,5.2,21.0
+Vertu,Ti,Android 4.0,2013,,Qualcomm Snapdragon,1.0,64.0,3.7,8.0
+Verykool,Cyprus LTE SL6010,Android 5.1 Lollipop,2015,2500.0,MediaTek,1.0,16.0,6.0,13.0
+Verykool,Cyprus s6001,Android 4.4.2,2015,2300.0,MediaTek,1.0,8.0,6.0,13.0
+Verykool,Dorado s5017Q,Android 5.0 Lollipop,2015,1850.0,MediaTek,1.0,8.0,5.0,8.0
+Verykool,Fusion II SL4502,Android 5.1 Lollipop,2015,1800.0,MediaTek,1.0,8.0,4.5,8.0
+Verykool,Gazelle s4010,Android 4.4.2,2015,1400.0,MediaTek,0.5,4.0,4.0,8.0
+Verykool,Giant s5020,Android 5.1 Lollipop,2015,3000.0,MediaTek,1.0,8.0,5.0,8.0
+Verykool,Helix s5025,Android 5.1 Lollipop,2015,1950.0,,1.0,8.0,5.0,13.0
+Verykool,Jet SL5009,Android 5.1 Lollipop,2015,1900.0,MediaTek,1.0,8.0,5.0,8.0
+Verykool,Juno Quatro s5511,Android 4.4,2014,2300.0,MediaTek,1.0,4.0,5.5,8.0
+Verykool,Juno S5510,Android 4.4.2,2014,2300.0,MediaTek,0.5,4.0,5.5,8.0
+Verykool,Leo II s4003,Android 4.4,2015,1450.0,MediaTek,0.25,0.0,4.0,5.0
+Verykool,Leo III s4006Q,Android 4.4,2015,1450.0,MediaTek,0.5,4.0,4.0,5.0
+Verykool,Leo Jr. s4005,Android 4.4,2015,1450.0,MediaTek,0.25,0.0,4.0,5.0
+Verykool,Lotus s5001,Android 4.4,2015,2000.0,MediaTek,0.5,4.0,5.0,5.0
+Verykool,Luna s4510,Android 4.4,2014,1650.0,MediaTek,0.5,4.0,4.5,8.0
+Verykool,Lynx II s3503,Android 4.4,2015,1200.0,,0.25,0.0,3.5,2.0
+Verykool,Lynx III s3502,Android 4.4,2016,1200.0,MediaTek,0.25,0.0,3.5,2.0
+Verykool,Maverick Jr. s5516,Android 4.4,2015,2600.0,MediaTek,0.5,4.0,5.5,8.0
+Verykool,Maverick LTE SL5550,Android 5.1 Lollipop,2015,2500.0,MediaTek,1.0,16.0,5.5,13.0
+Verykool,Maverick s5518Q,Android 5.0 Lollipop,2015,2600.0,MediaTek,1.0,8.0,5.5,8.0
+Verykool,Mystic s354,Android 4.2,2014,1200.0,MediaTek,0.5,4.0,3.5,2.0
+Verykool,Quantum SL5000,Android 4.4,2014,2000.0,Qualcomm Snapdragon 400,1.0,4.0,5.0,8.0
+Verykool,Spark II s5015,Android 4.4,2015,2100.0,MediaTek,1.0,8.0,5.0,8.0
+Videocon,A29,Android 4.2.2,2014,1400.0,,0.5,4.0,3.5,3.0
+Videocon,A31,Android 4.2.2,2013,1550.0,,0.5,4.0,4.0,5.0
+Videocon,A47,Android 2.3.5,2013,1800.0,,0.5,0.0,5.0,3.0
+Videocon,A48,Android 4.2.2,2013,1650.0,,0.5,4.0,4.5,5.0
+Videocon,A52,Android 4.2.2,2013,2000.0,,0.5,4.0,5.0,5.0
+Videocon,A55HD,Android 4.2.1,2013,2000.0,,1.0,4.0,5.0,8.0
+Videocon,Infinium Z30 Pace,Android 4.4.2,2015,1250.0,,0.25,0.0,3.5,2.0
+Videocon,Infinium Z45 Dazzle,Android 4.4.2,2015,1600.0,Spreadtrum,1.0,8.0,4.5,5.0
+Videocon,Infinium Z45Q Star,Android 4.4.2,2015,1600.0,,1.0,8.0,4.5,5.0
+Videocon,Infinium Z50Q Lite,Android 4.4.2,2015,2000.0,,0.5,4.0,5.0,5.0
+Videocon,Infinium Z51 Nova+,Android 4.4.2,2015,2000.0,,1.0,8.0,5.0,8.0
+Videocon,Infinium Z51 Punch,Android 4.4.2,2015,3000.0,,1.0,8.0,5.0,8.0
+Videocon,Infinium Z51Q Star,Android 4.4.2,2015,2000.0,Spreadtrum,1.0,8.0,5.0,5.0
+Videocon,Infinium Z55 Krypton,Android 5.1 Lollipop,2016,2200.0,MediaTek,1.0,8.0,5.0,13.0
+Videocon,Infinium Zest Pro,Android 4.4,2015,1400.0,,0.25,0.0,3.5,2.0
+Videocon,Octa Core Z55 Delite,Android 4.4.2,2015,2200.0,MediaTek,1.0,8.0,5.0,8.0
+Videocon,Vstyle Smart,Android 2.3.5,2014,1300.0,,0.1,0.0,3.5,1.0
+Xiaomi,11 lite 5G NE,Android 11,2021,4250.0,Qualcomm Snapdragon 778G,6.0,128.0,6.5,64.0
+Xiaomi,11T,Android 11,2021,5000.0,MediaTek Dimensity 1200,8.0,128.0,6.7,108.0
+Xiaomi,11T Pro,Android 11,2021,5000.0,Qualcomm Snapdragon 888,8.0,128.0,,108.0
+Xiaomi,12,Android 12,2021,4500.0,Qualcomm Snapdragon 8 Gen1,8.0,128.0,6.3,50.0
+Xiaomi,12 Lite,Android 12,2022,4300.0,Qualcomm Snapdragon 778G,6.0,128.0,6.5,108.0
+Xiaomi,12 Pro,Android 12,2021,4600.0,Qualcomm Snapdragon 8 Gen1,8.0,128.0,6.7,50.0
+Xiaomi,12S,Android 12,2022,4500.0,Qualcomm Snapdragon 8+ Gen 1,8.0,128.0,6.3,50.0
+Xiaomi,12S Pro,Android 12,2022,4600.0,Qualcomm Snapdragon 8+ Gen 1,8.0,128.0,6.7,50.0
+Xiaomi,12S Ultra,Android 12,2022,4860.0,Qualcomm Snapdragon 8+ Gen 1,8.0,256.0,6.7,50.0
+Xiaomi,12X,Android 11,2022,4500.0,Qualcomm Snapdragon 870,8.0,128.0,6.3,50.0
+Xiaomi,Black Shark,Android 9.0 Pie,2018,4000.0,Qualcomm Snapdragon 845,8.0,128.0,6.0,12.0
+Xiaomi,Black Shark 2,Android 10,2019,4000.0,Qualcomm Snapdragon 855,8.0,128.0,6.4,48.0
+Xiaomi,Black Shark 3,Android 10,2020,4720.0,Qualcomm Snapdragon 865,8.0,128.0,6.7,64.0
+Xiaomi,Black Shark 3 Pro,Android 10,2020,5000.0,Qualcomm Snapdragon 865,8.0,256.0,7.1,64.0
+Xiaomi,Black Shark 4,Android 11,2021,4500.0,Qualcomm Snapdragon 870,8.0,128.0,6.7,48.0
+Xiaomi,Black Shark 5 Pro,Android 12,2022,4650.0,Qualcomm Snapdragon 8 Gen 1,8.0,256.0,6.7,108.0
+Xiaomi,Mi 10,Android 10,2020,4780.0,Qualcomm Snapdragon 865,8.0,128.0,6.7,108.0
+Xiaomi,Mi 10 Lite,Android 10,2020,4160.0,Qualcomm Snapdragon 765G,6.0,64.0,6.6,48.0
+Xiaomi,Mi 10 Pro,Android 10,2020,4500.0,Qualcomm Snapdragon 865,8.0,256.0,6.7,108.0
+Xiaomi,Mi 10T,Android 10,2020,5000.0,Qualcomm Snapdragon 865,6.0,128.0,6.7,64.0
+Xiaomi,Mi 10T Lite,Android 10,2020,4820.0,Qualcomm Snapdragon 750G,6.0,64.0,6.7,64.0
+Xiaomi,Mi 10T Pro,Android 10,2020,5000.0,Qualcomm Snapdragon 865,8.0,128.0,6.7,108.0
+Xiaomi,Mi 11i,Android 11,2021,4520.0,Qualcomm Snapdragon 888,8.0,128.0,6.7,108.0
+Xiaomi,Mi 4,Android 6.0 Marshmallow,2014,3080.0,Qualcomm Snapdragon 801,3.0,64.0,5.0,13.0
+Xiaomi,Mi 4c,Android 5.1 Lollipop,2015,3080.0,Qualcomm Snapdragon 808,3.0,32.0,5.0,13.0
+Xiaomi,Mi 4i,Android 5.0 Lollipop,2015,3120.0,Qualcomm Snapdragon 615,2.0,32.0,5.0,13.0
+Xiaomi,Mi 4s,Android ,2016,3260.0,Qualcomm Snapdragon 808,3.0,64.0,5.0,13.0
+Xiaomi,Mi 5,Android 8.0 Oreo,2016,3000.0,Qualcomm Snapdragon 820,4.0,128.0,5.2,16.0
+Xiaomi,Mi 5c,Android 7.1 Nougat,2017,2860.0,Xiaomi Surge,3.0,64.0,5.2,12.0
+Xiaomi,Mi 5s,Android 6.0 Marshmallow,2016,3200.0,Qualcomm Snapdragon 821,4.0,128.0,5.2,12.0
+Xiaomi,Mi 5s Plus,Android 6.0 Marshmallow,2016,3800.0,Qualcomm Snapdragon 821,6.0,128.0,5.7,13.0
+Xiaomi,Mi 6,Android 9.0 Pie,2017,3350.0,Qualcomm Snapdragon 835,6.0,128.0,5.2,12.0
+Xiaomi,Mi 8,Android 10,2018,3400.0,Qualcomm Snapdragon 845,6.0,256.0,6.2,12.0
+Xiaomi,Mi 8 SE,Android ,2018,3120.0,Qualcomm Snapdragon 710,6.0,64.0,5.9,12.0
+Xiaomi,Mi 9,Android 9.0 Pie,2019,3300.0,Qualcomm Snapdragon 855,6.0,128.0,6.4,48.0
+Xiaomi,Mi 9 SE,Android 9.0 Pie,2019,3070.0,Qualcomm Snapdragon 712,6.0,128.0,6.0,48.0
+Xiaomi,Mi 9T,Android 10,2019,4000.0,Qualcomm Snapdragon 730,6.0,128.0,6.4,48.0
+Xiaomi,Mi 9T Pro,Android 10,2019,4000.0,Qualcomm Snapdragon 855,6.0,128.0,6.4,48.0
+Xiaomi,Mi A1,Android 9.0 Pie,2017,3080.0,Qualcomm Snapdragon 625,4.0,64.0,5.5,12.0
+Xiaomi,Mi A2,Android 10,2018,3010.0,Qualcomm Snapdragon 660,6.0,128.0,6.0,12.0
+Xiaomi,Mi A2 Lite,Android 8.1 Oreo,2018,4000.0,Qualcomm Snapdragon 625,4.0,64.0,5.8,12.0
+Xiaomi,Mi A3,Android 11,2019,4030.0,Qualcomm Snapdragon 665,4.0,128.0,6.1,48.0
+Xiaomi,Mi MIX,Android 6.0 Marshmallow,2016,4400.0,Qualcomm Snapdragon 821,4.0,128.0,6.4,16.0
+Xiaomi,Mi MIX 2,Android 7.1 Nougat,2017,3400.0,Qualcomm Snapdragon 835,6.0,256.0,6.0,12.0
+Xiaomi,Mi Max,Android 7.0 Nougat,2016,4850.0,Qualcomm Snapdragon 652,4.0,128.0,6.4,16.0
+Xiaomi,Mi Max 2,Android 7.1 Nougat,2017,5300.0,Qualcomm Snapdragon 625,4.0,128.0,6.4,12.0
+Xiaomi,Mi Max 3,Android 8.1 Oreo,2018,5500.0,Qualcomm Snapdragon 636,4.0,64.0,6.9,12.0
+Xiaomi,Mi Mix 2s,Android 9.0 Pie,2018,3400.0,Qualcomm Snapdragon 845,8.0,256.0,6.0,12.0
+Xiaomi,Mi Mix 3,Android 9.0 Pie,2018,3200.0,Qualcomm Snapdragon 845,8.0,256.0,,12.0
+Xiaomi,Mi Mix 4,Android 11,2021,4500.0,Qualcomm Snapdragon 888+,8.0,128.0,6.7,108.0
+Xiaomi,Mi Mix Fold,Android 10,2021,5020.0,Qualcomm Snapdragon 888,12.0,256.0,8.0,108.0
+Xiaomi,Mi Note,Android 5.0 Lollipop,2015,3000.0,Qualcomm Snapdragon 801,3.0,64.0,5.7,13.0
+Xiaomi,Mi Note 10 Lite,Android 11,2020,5260.0,Qualcomm Snapdragon 730G,6.0,64.0,6.5,64.0
+Xiaomi,Mi Note 2,Android 6.0 Marshmallow,2016,4070.0,Qualcomm Snapdragon 821,6.0,128.0,5.7,23.0
+Xiaomi,Mi Note 3,Android 8.1 Oreo,2017,3500.0,Qualcomm Snapdragon 660,6.0,128.0,5.5,12.0
+Xiaomi,Mi Note Pro,Android 5.0 Lollipop,2015,3000.0,Qualcomm Snapdragon 810,4.0,64.0,5.7,13.0
+Xiaomi,Note 7 Pro,Android 9.0 Pie,2019,4000.0,Qualcomm Snapdragon 675,6.0,128.0,6.3,48.0
+Xiaomi,POCO F4 GT,Android 12,2022,4700.0,Qualcomm Snapdragon 8 Gen 1,8.0,128.0,6.7,64.0
+Xiaomi,POCO M3 Pro 5G,Android 11,2021,5000.0,MediaTek Dimensity 700,4.0,64.0,6.5,48.0
+Xiaomi,POCO M4 Pro,Android 12,2022,5000.0,MediaTek Helio G96,6.0,128.0,6.4,64.0
+Xiaomi,POCO M4 Pro 5G,Android 11,2021,5000.0,MediaTek Dimensity 810 5G,4.0,64.0,6.6,50.0
+Xiaomi,POCO X4 Pro 5G,Android 12,2022,5000.0,Qualcomm Snapdragon 696,6.0,128.0,6.7,108.0
+Xiaomi,Poco F2 Pro,Android 10,2020,4700.0,Qualcomm Snapdragon 865,6.0,128.0,6.7,64.0
+Xiaomi,Poco F3,Android 11,2021,4520.0,Qualcomm Snapdragon 870,6.0,128.0,6.7,48.0
+Xiaomi,Poco F4,Android 12,2022,4500.0,Qualcomm Snapdragon 870,6.0,128.0,6.7,64.0
+Xiaomi,Poco M2 Pro,Android 10,2020,5000.0,Snapdragon 720G,4.0,64.0,6.7,48.0
+Xiaomi,Poco M3,Android 10,2020,6000.0,Qualcomm Snapdragon 662,4.0,64.0,6.5,48.0
+Xiaomi,Poco X2,Android 11,2020,4500.0,Qualcomm Snapdragon 730G,6.0,64.0,6.7,64.0
+Xiaomi,Poco X3 NFC,Android 10,2020,5160.0,Qualcomm Snapdragon 732G,6.0,64.0,6.7,64.0
+Xiaomi,Poco X4 GT,Android 12,2022,5080.0,MediaTek Dimensity 8100,8.0,128.0,6.6,64.0
+Xiaomi,Pocophone F1,Android 10,2018,4000.0,Qualcomm Snapdragon 845,8.0,256.0,6.2,12.0
+Xiaomi,Redmi 1S,Android 4.3,2014,2000.0,Qualcomm Snapdragon 400,1.0,8.0,4.7,8.0
+Xiaomi,Redmi 2 Prime,Android 4.4.4,2015,2200.0,Qualcomm Snapdragon 410,2.0,16.0,4.7,8.0
+Xiaomi,Redmi 3,Android 5.1 Lollipop,2016,4100.0,Qualcomm Snapdragon 616,2.0,16.0,5.0,13.0
+Xiaomi,Redmi 3 Pro,Android 5.1 Lollipop,2016,4100.0,Qualcomm Snapdragon 616,3.0,32.0,5.0,13.0
+Xiaomi,Redmi 3S,Android 6.0 Marshmallow,2016,4100.0,Qualcomm Snapdragon 430,3.0,32.0,5.0,13.0
+Xiaomi,Redmi 4,Android 6.0 Marshmallow,2016,4100.0,Qualcomm Snapdragon 430,2.0,16.0,5.0,13.0
+Xiaomi,Redmi 4 Prime,Android 6.0 Marshmallow,2016,4100.0,Qualcomm Snapdragon 625,3.0,32.0,5.0,13.0
+Xiaomi,Redmi 4a,Android 6.0 Marshmallow,2016,3120.0,Qualcomm Snapdragon 425,2.0,16.0,5.0,13.0
+Xiaomi,Redmi 5,Android 7.1 Nougat,2017,3300.0,Qualcomm Snapdragon 450,3.0,32.0,5.7,12.0
+Xiaomi,Redmi 7,Android 10,2020,4000.0,Qualcomm Snapdragon 632 ,2.0,16.0,6.3,12.0
+Xiaomi,Redmi 8,Android 10,2019,5000.0,Qualcomm Snapdragon 439,3.0,32.0,6.2,12.0
+Xiaomi,Redmi 8A,Android 10,2019,5000.0,Qualcomm Snapdragon 439,2.0,32.0,6.2,12.0
+Xiaomi,Redmi 9,Android ,2020,5020.0,MediaTek Helio G80,3.0,32.0,6.5,13.0
+Xiaomi,Redmi 9A,Android 10,2020,5000.0,MediaTek Helio G25,2.0,32.0,6.5,13.0
+Xiaomi,Redmi 9C,Android 10,2020,5000.0,MediaTek Helio G35,2.0,32.0,6.5,13.0
+Xiaomi,Redmi 9T,Android 10,2021,6000.0,Qualcomm Snapdragon 662,4.0,64.0,6.5,48.0
+Xiaomi,Redmi Go,Android 8.1 Oreo,2019,3000.0,Qualcomm Snapdragon 425,1.0,8.0,5.0,8.0
+Xiaomi,Redmi Note 10 5G,Android 11,2021,5000.0,MediaTek Dimensity 700,4.0,64.0,6.5,48.0
+Xiaomi,Redmi Note 10 Pro,Android 11,2021,5020.0,Qualcomm Snapdragon 732G,6.0,64.0,6.7,108.0
+Xiaomi,Redmi Note 10S,Android 11,2021,5000.0,MediaTek Helio G95,6.0,64.0,6.4,64.0
+Xiaomi,Redmi Note 11,Android 11,2022,5000.0,Qualcomm Snapdragon 680,4.0,64.0,6.4,50.0
+Xiaomi,Redmi Note 11 Pro,Android 11,2022,5000.0,MediaTek Helio G96,6.0,64.0,6.7,108.0
+Xiaomi,Redmi Note 11 Pro 5G,Android 11,2022,5000.0,Qualcomm Snapdragon 665G,6.0,64.0,6.7,108.0
+Xiaomi,Redmi Note 11S,Android 11,2022,5000.0,MediaTek Helio G96,4.0,64.0,6.4,108.0
+Xiaomi,Redmi Note 2,Android 5.0 Lollipop,2015,3060.0,MediaTek Helio X10,2.0,16.0,5.5,13.0
+Xiaomi,Redmi Note 3,Android 6.0 Marshmallow,2015,4000.0,MediaTek Helio X10,3.0,32.0,5.5,13.0
+Xiaomi,Redmi Note 4,Android 7.0 Nougat,2017,4100.0,Qualcomm Snapdragon 625,4.0,64.0,5.5,13.0
+Xiaomi,Redmi Note 4X,Android 6.0 Marshmallow,2017,4100.0,Qualcomm Snapdragon 625,3.0,32.0,5.5,13.0
+Xiaomi,Redmi Note 5,Android 7.1 Nougat,2018,4000.0,Qualcomm Snapdragon 625,4.0,64.0,6.0,12.0
+Xiaomi,Redmi Note 5 Pro,Android 8.0 Oreo,2018,4000.0,Qualcomm Snapdragon 636,6.0,64.0,6.0,12.0
+Xiaomi,Redmi Note 6 Pro,Android 8.1 Oreo,2018,4000.0,Qualcomm Snapdragon 636,6.0,64.0,6.3,12.0
+Xiaomi,Redmi Note 7,Android 9.0 Pie,2019,4000.0,Qualcomm Snapdragon 660,4.0,128.0,6.3,48.0
+Xiaomi,Redmi Note 8,,2019,4000.0,Qualcomm Snapdragon 665,3.0,32.0,6.3,48.0
+Xiaomi,Redmi Note 8 2021,Android 11,2021,4000.0,MediaTek Helio G85,4.0,64.0,6.3,48.0
+Xiaomi,Redmi Note 8T,Android 9.0 Pie,2019,4000.0,Qualcomm Snapdragon 665,3.0,32.0,6.3,48.0
+Xiaomi,Redmi Note 9,Android 10,2020,5020.0,MediaTek Helio G85,3.0,64.0,6.5,48.0
+Xiaomi,Redmi Note 9 Pro,Android 10,2020,5020.0,Qualcomm Snapdragon 720G,6.0,64.0,6.7,64.0
+Xiaomi,Redmi Note 9S,Android 11,2020,5020.0,Qualcomm Snapdragon 720G,4.0,64.0,6.7,48.0
+Xiaomi,Redmi Note 9T,Android 10,2021,5000.0,MediaTek Dimensity 800U,4.0,64.0,6.5,48.0
+Xiaomi,Redmi Note Prime,Android 4.4,2015,3100.0,Qualcomm Snapdragon 410,2.0,16.0,5.5,13.0
+Xiaomi,Redmi Pro,Android 6.0 Marshmallow,2016,4000.0,MediaTek Helio X25,4.0,128.0,5.5,13.0
+Xiaomi,Redmi S2,Android 9.0 Pie,2018,3080.0,Qualcomm Snapdragon 625,3.0,32.0,6.0,12.0
+Xiaomi,Redmi Y1,Android 7.0 Nougat,2017,3080.0,Qualcomm Snapdragon 435,4.0,64.0,5.5,13.0
+Xiaomi,Redmi Y1 Lite,Android 7.0 Nougat,2017,3080.0,Qualcomm Snapdragon 425,2.0,16.0,5.5,13.0
+Xolo,A1010,Android 4.4.2,2015,2500.0,MediaTek,0.5,4.0,5.0,5.0
+Xolo,Black,Android 5.0 Lollipop,2015,3200.0,Qualcomm Snapdragon 615,2.0,16.0,5.5,13.0
+Xolo,Black 1X,Android 6.0 Marshmallow,2015,2400.0,MediaTek,3.0,32.0,5.0,13.0
+Xolo,Cube 5.0,Android 5.0 Lollipop,2015,2100.0,MediaTek,2.0,8.0,5.0,8.0
+Xolo,Era,Android 4.4.2,2015,2100.0,Spreadtrum,1.0,8.0,5.0,8.0
+Xolo,Era 4K,Android 5.1 Lollipop,2016,4000.0,MediaTek,2.0,8.0,5.0,8.0
+Xolo,Era HD,Android 5.1 Lollipop,2015,2500.0,Spreadtrum,1.0,8.0,5.0,8.0
+Xolo,LT2000,Android 5.0 Lollipop,2015,2920.0,Qualcomm Snapdragon 410,1.0,8.0,5.5,8.0
+Xolo,Omega 5.0,Android 4.4,2014,2100.0,MediaTek,1.0,8.0,5.0,8.0
+Xolo,Omega 5.5,Android 4.4.2,2014,2600.0,MediaTek,1.0,8.0,5.5,13.0
+Xolo,Prime,Android 5.0 Lollipop,2015,1800.0,MediaTek,1.0,8.0,4.5,5.0
+Xolo,Q1001,Android 4.4.2,2015,2000.0,MediaTek,1.0,8.0,5.0,5.0
+Xolo,Q520s,Android 4.4.2,2015,1820.0,MediaTek,0.5,4.0,4.0,5.0
+Xolo,Q610s,Android 4.4.2,2014,1700.0,MediaTek,1.0,8.0,4.5,5.0
+Xolo,Q710s,Android 4.4,2014,2000.0,MediaTek,1.0,8.0,4.5,8.0
+Xolo,Q900s Plus,Android 4.4,2014,1800.0,Qualcomm Snapdragon 200,1.0,8.0,4.7,8.0
+Xolo,Win Q1000,Windows Phone 8.1,2015,2200.0,Qualcomm Snapdragon 200,1.0,8.0,5.0,8.0
+Xolo,Win Q900s,Windows Phone 8.1,2014,1800.0,Qualcomm Snapdragon 200,1.0,8.0,4.7,8.0
+Yezz,Andy 4.5E LTE,Android 4.4,2015,1400.0,,1.0,4.0,4.5,8.0
+Yezz,Andy 4.5EL LTE,Android 5.1 Lollipop,2015,2000.0,MediaTek,1.0,8.0,4.5,5.0
+Yezz,Andy 4E,Android 4.4,2015,1450.0,,0.5,4.0,4.0,8.0
+Yezz,Andy 4E LTE,Android 4.4,2015,1450.0,MediaTek,0.5,4.0,4.0,5.0
+Yezz,Andy 4E2I,Android 4.4,2015,1400.0,MediaTek,0.5,4.0,4.0,5.0
+Yezz,Andy 4EI,Android 4.4,2014,1400.0,MediaTek,0.5,4.0,4.0,5.0
+Yezz,Andy 5.5EI,Android 4.4,2014,2500.0,MediaTek,0.5,4.0,5.5,8.0
+Yezz,Andy 5.5T LTE VR,Android 5.1 Lollipop,2016,3000.0,MediaTek,1.0,8.0,5.5,20.0
+Yezz,Andy 5EI,Android 4.4,2014,1550.0,MediaTek,0.5,4.0,5.0,5.0
+Yezz,Andy 5EL LTE,Android 5.1 Lollipop,2015,2100.0,MediaTek,1.0,8.0,5.0,5.0
+Yezz,Andy 5M LTE,Android 4.4,2015,,,1.0,8.0,5.0,13.0
+Yezz,Andy 6EL LTE,Android 5.1 Lollipop,2015,2900.0,MediaTek,1.0,8.0,6.0,8.0
+Yezz,Andy C5ML,Android 4.4.2,2014,2020.0,MediaTek,1.0,8.0,5.0,13.0
+Yezz,Andy C5QL,Android 4.4.2,2014,2020.0,MediaTek,1.0,8.0,5.0,13.0
+Yezz,Andy C5VP,Android 4.4.2,2014,2020.0,MediaTek,1.0,8.0,5.0,13.0
+Yezz,Billy 4,Windows Phone 8.1,2014,1300.0,Qualcomm Snapdragon 200,0.5,4.0,4.0,8.0
+Yezz,Billy 5S LTE,Windows Phone 8.1,2015,,,1.0,8.0,5.0,13.0
+ZTE,Avid Plus,Android 5.1 Lollipop,2016,2300.0,Qualcomm Snapdragon 210,1.0,8.0,5.0,5.0
+ZTE,Avid Trio,Android 6.0 Marshmallow,2016,2800.0,Qualcomm Snapdragon 425,1.0,8.0,5.0,5.0
+ZTE,Axon,Android 5.1 Lollipop,2015,3000.0,Qualcomm Snapdragon 801,2.0,32.0,5.5,13.0
+ZTE,Axon 10 Pro,Android 10,2019,4000.0,Qualcomm Snapdragon 855,12.0,256.0,6.5,48.0
+ZTE,Axon 11,Android 10,2020,4000.0,Qualcomm Snapdragon 765G,6.0,128.0,6.5,64.0
+ZTE,Axon 20,Android 10,2020,4220.0,Qualcomm Snapdragon 765G,8.0,128.0,6.9,64.0
+ZTE,Axon 30 5G,Android 11,2021,4500.0,Qualcomm Snapdragon 870 5G,6.0,128.0,6.9,64.0
+ZTE,Axon 30 Ultra,Android 11,2021,4600.0,Qualcomm Snapdragon 888,8.0,128.0,6.7,64.0
+ZTE,Axon 40 Pro,Android 12,2022,5000.0,Qualcomm Snapdragon 870,8.0,128.0,6.7,108.0
+ZTE,Axon 40 Ultra,Android 12,2022,,Qualcomm Snapdragon 8 Gen 1,8.0,128.0,6.8,64.0
+ZTE,Axon 7,Android 8.0 Oreo,2016,3250.0,Qualcomm Snapdragon 820,4.0,64.0,5.5,20.0
+ZTE,Axon 7 Mini,Android 7.1 Nougat,2016,2705.0,Qualcomm Snapdragon 617,3.0,32.0,5.2,16.0
+ZTE,Axon 9 Pro,Android 8.1 Oreo,2018,4000.0,Qualcomm Snapdragon 845,6.0,128.0,6.2,12.0
+ZTE,Axon Elite,Android 5.0 Lollipop,2015,3000.0,Qualcomm Snapdragon 810,3.0,32.0,5.5,13.0
+ZTE,Axon Lux,Android 5.1 Lollipop,2015,3000.0,Qualcomm Snapdragon 810,4.0,128.0,5.5,13.0
+ZTE,Axon M,Android 7.1 Nougat,2017,3180.0,Qualcomm Snapdragon 821,4.0,64.0,5.2,20.0
+ZTE,Axon Max,Android 5.1 Lollipop,2015,4140.0,Qualcomm Snapdragon 617,3.0,32.0,6.0,16.0
+ZTE,Axon Mini,Android 5.1 Lollipop,2015,2800.0,Qualcomm Snapdragon 616,3.0,32.0,5.2,13.0
+ZTE,Axon Pro,Android 6.0 Marshmallow,2015,3000.0,Qualcomm Snapdragon 810,4.0,64.0,5.5,13.0
+ZTE,Blade,Android 2.1,2010,,Qualcomm Snapdragon S1,,0.0,3.5,3.0
+ZTE,Blade 10,Android 9.0 Pie,2019,3100.0,MediaTek Helio P60,3.0,64.0,6.3,16.0
+ZTE,Blade 11 Prime,Android 11,2021,4000.0,MediaTek Helio P22,4.0,64.0,6.5,16.0
+ZTE,Blade Force,Android 7.1 Nougat,2017,3000.0,Qualcomm Snapdragon 427,2.0,16.0,5.5,8.0
+ZTE,Blade Max 2s,Android 8.1 Oreo,2018,4000.0,Qualcomm Snapdragon 435,2.0,32.0,6.0,13.0
+ZTE,Blade Max 3,Android 6.0 Marshmallow,2017,4000.0,Qualcomm Snapdragon 625,2.0,16.0,6.0,13.0
+ZTE,Blade Max View,Android 7.1 Nougat,2018,4000.0,Qualcomm Snapdragon 435,3.0,32.0,6.0,16.0
+ZTE,Blade Spark,Android 7.1 Nougat,2017,3140.0,Qualcomm Snapdragon 425,2.0,16.0,5.5,13.0
+ZTE,Blade V6,Android 5.0 Lollipop,2015,2200.0,MediaTek,2.0,16.0,5.0,13.0
+ZTE,Blade V8,Android 7.0 Nougat,2017,2730.0,Qualcomm Snapdragon 435,3.0,32.0,5.2,13.0
+ZTE,Blade V8 Lite,Android 7.0 Nougat,2017,2500.0,MediaTek,2.0,16.0,5.0,13.0
+ZTE,Blade V8 Mini,Android 7.0 Nougat,2017,2800.0,Qualcomm Snapdragon 435,2.0,16.0,5.0,13.0
+ZTE,Blade V8 Pro,Android 6.0 Marshmallow,2017,3140.0,Qualcomm Snapdragon 625,3.0,32.0,5.5,13.0
+ZTE,Blade V9,Android 8.1 Oreo,2018,3200.0,Qualcomm Snapdragon 450,4.0,64.0,5.7,16.0
+ZTE,Blade Vantage,Android 7.1 Nougat,2017,2500.0,Qualcomm Snapdragon 210,2.0,16.0,5.0,8.0
+ZTE,Blade X,Android 7.1 Nougat,2017,3000.0,Qualcomm Snapdragon 425,2.0,16.0,5.5,13.0
+ZTE,Blade X Max,Android 7.1 Nougat,2017,3400.0,Qualcomm Snapdragon 435,2.0,32.0,6.0,13.0
+ZTE,Blade Z Max,Android 7.1 Nougat,2017,4080.0,Qualcomm Snapdragon 435,2.0,32.0,6.0,16.0
+ZTE,Fanfare,Android 4.4,2015,2000.0,Qualcomm Snapdragon 200,1.0,4.0,4.5,5.0
+ZTE,Fanfare 2,Android 6.0 Marshmallow,2016,2200.0,Qualcomm Snapdragon,1.0,8.0,4.5,5.0
+ZTE,Fury,Android 2.3,2012,1500.0,Qualcomm Snapdragon S2,0.5,4.0,3.5,5.0
+ZTE,Grand S Flex,Android 4.1,2013,2300.0,Qualcomm Snapdragon S4 Plus,1.0,16.0,5.0,8.0
+ZTE,Grand X 3,Android 5.1 Lollipop,2016,3080.0,Qualcomm Snapdragon 210,2.0,16.0,5.5,8.0
+ZTE,Grand X 4,Android 6.0 Marshmallow,2016,3140.0,Qualcomm Snapdragon 425,2.0,16.0,5.5,13.0
+ZTE,Grand X Max 2,Android 6.0 Marshmallow,2016,3400.0,Qualcomm Snapdragon 617,2.0,16.0,6.0,13.0
+ZTE,Groove,Android 2.3,2012,1500.0,Qualcomm Snapdragon S1,0.5,1.0,3.5,3.0
+ZTE,Maven,Android 5.1 Lollipop,2015,2100.0,Qualcomm Snapdragon 410,1.0,8.0,4.5,5.0
+ZTE,Maven 2,Android 7.1 Nougat,2016,2300.0,Qualcomm Snapdragon 210,1.0,8.0,5.0,5.0
+ZTE,Maven 3,Android 7.1 Nougat,2017,2070.0,Qualcomm Snapdragon 210,1.0,8.0,5.0,5.0
+ZTE,Max,Android 4.1.2,2014,3200.0,Qualcomm Snapdragon S4 Plus,1.0,8.0,5.7,8.0
+ZTE,Max XL,Android 7.1 Nougat,2017,3990.0,Qualcomm Snapdragon 435,2.0,16.0,6.0,13.0
+ZTE,Max+,Android 5.1 Lollipop,2015,3400.0,Qualcomm Snapdragon 410,2.0,16.0,5.7,8.0
+ZTE,N91,Android 4.0,2012,,Qualcomm,0.5,4.0,4.3,5.0
+ZTE,Obsidian,Android 5.1 Lollipop,2015,1800.0,MediaTek,1.0,4.0,4.5,5.0
+ZTE,Open C,Firefox 1.3,2014,1400.0,Qualcomm Snapdragon 200,0.5,4.0,4.0,3.0
+ZTE,Overture 2,Android 5.0 Lollipop,2015,2100.0,Qualcomm Snapdragon 410,1.0,8.0,4.5,5.0
+ZTE,PF112,Android 4.0,2012,1650.0,Qualcomm Snapdragon S4 Plus,1.0,8.0,4.5,8.0
+ZTE,Prestige,Android 5.1 Lollipop,2015,2300.0,Qualcomm Snapdragon 210,1.0,8.0,5.0,5.0
+ZTE,Prestige 2,Android 6.0 Marshmallow,2017,2035.0,Qualcomm Snapdragon 210,2.0,16.0,5.0,5.0
+ZTE,Render,Windows Phone 7.5 Refresh,2012,1600.0,Qualcomm Snapdragon S1,1.0,4.0,4.0,5.0
+ZTE,Sonata 2,Android 4.4,2015,1650.0,Qualcomm Snapdragon 200,1.0,4.0,4.0,5.0
+ZTE,Sonata 3,Android 6.0 Marshmallow,2016,2300.0,Qualcomm Snapdragon 210,1.0,8.0,5.0,5.0
+ZTE,Tempo,Android 6.0 Marshmallow,2016,2200.0,Qualcomm Snapdragon 210,1.0,8.0,4.5,5.0
+ZTE,Tempo Go,Android 8.1 Oreo,2018,2200.0,Qualcomm Snapdragon 210,1.0,8.0,5.0,5.0
+ZTE,Tempo X,Android 7.1 Nougat,2017,2200.0,Qualcomm Snapdragon 210,1.0,8.0,5.0,5.0
+ZTE,Warp,Android 2.3.5,2011,1600.0,Qualcomm Snapdragon S2,0.5,4.0,4.3,5.0
+ZTE,Warp 7,Android 6.0 Marshmallow,2016,3000.0,Qualcomm Snapdragon 410,2.0,16.0,5.5,13.0
+ZTE,Warp Elite,Android 5.1 Lollipop,2015,3000.0,,2.0,16.0,5.5,13.0
+ZTE,ZMAX 2,Android 6.0 Marshmallow,2015,3000.0,Qualcomm Snapdragon 410,2.0,16.0,5.5,8.0
+ZTE,Zmax Pro,Android 6.0 Marshmallow,2016,3400.0,Qualcomm Snapdragon 617,2.0,32.0,6.0,13.0
+Zen,Mobile 105 Max,Android 4.4.4,2015,1250.0,,0.25,0.0,3.5,2.0
+Zen,Mobile 303 Elite 2,Android 4.4.4,2015,1400.0,,0.5,4.0,4.0,3.0
+Zen,Mobile Admire Curve,Android 4.4.4,2015,1400.0,,0.5,4.0,4.0,3.0
+Zen,Mobile Admire Fab,Android 4.4.4,2015,2000.0,,0.5,4.0,5.0,3.0
+Zen,Mobile Admire Fab Q,Android 5.1 Lollipop,2016,1800.0,,0.5,8.0,5.0,3.0
+Zen,Mobile Cinemax 2,Android 5.1 Lollipop,2015,2900.0,Spreadtrum,1.0,8.0,5.5,5.0
+Zen,Mobile Ultrafone 105 Sport,Android 4.0,2014,1350.0,,0.25,2.0,3.5,2.0
+Zen,Mobile Ultrafone 303 Elite,Android 4.4.2,2014,1600.0,,0.25,2.0,4.0,3.0
+Zen,Mobile Ultrafone 303 Quad,Android 4.4.2,2014,1650.0,,0.5,4.0,4.0,5.0
+Zen,Mobile Ultrafone 402 Sport,Android 4.4.2,2015,2200.0,,0.5,4.0,5.0,5.0
+Zen,Mobile Ultrafone 506,Android 4.4,2014,2100.0,,1.0,4.0,5.0,8.0
+Zen,Mobile Ultrafone Megashot 1,Android 4.4.4,2015,1800.0,,0.5,4.0,5.0,5.0
+Zen,Mobile WOW,Android 4.4.4,2016,1400.0,,0.5,4.0,4.0,2.0
+nubia,N1,Android 6.0 Marshmallow,2016,5000.0,MediaTek Helio P10,3.0,64.0,5.5,13.0
+nubia,N1 Lite,Android 6.0 Marshmallow,2017,3000.0,MediaTek,2.0,16.0,5.5,8.0
+nubia,N2,Android 6.0 Marshmallow,2017,5000.0,MediaTek,4.0,64.0,5.5,13.0
+nubia,Red Magic 3,Android 9.0 Pie,2019,5000.0,Qualcomm Snapdragon 855,12.0,256.0,6.7,48.0
+nubia,Red Magic 3S,Android 9.0 Pie,2019,5000.0,Qualcomm Snapdragon 855+,12.0,256.0,6.7,48.0
+nubia,Red Magic 5G,Android 10,2020,4500.0,Qualcomm Snapdragon 865,8.0,128.0,6.7,64.0
+nubia,Red Magic 5S,Android 10,2020,4500.0,Qualcomm Snapdragon 865,8.0,128.0,6.7,64.0
+nubia,Red Magic 7,Android 12,2022,4500.0,Qualcomm Snapdragon 8 Gen 1,8.0,128.0,6.8,64.0
+nubia,Red Magic Mars,Android 9.0 Pie,2019,3800.0,Qualcomm Snapdragon 845,8.0,128.0,6.0,16.0
+nubia,Redmagic 7 Pro,Android 12,2022,5000.0,Qualcomm Snapdragon 8 Gen 1,16.0,256.0,6.8,64.0
+nubia,Z20,Android 9.0 Pie,2019,4000.0,Qualcomm Snapdragon 855+,8.0,128.0,6.4,48.0
+nubia,Z7,Android 4.4.2,2014,3000.0,Qualcomm Snapdragon 801,3.0,32.0,5.5,13.0
+nubia,Z9,Android 5.0 Lollipop,2015,2900.0,Qualcomm Snapdragon 810,3.0,32.0,5.2,16.0
+nubia,Z9 Max,Android 5.0 Lollipop,2015,2900.0,Qualcomm Snapdragon 810,3.0,16.0,5.5,16.0
+nubia,Z9 mini,Android 5.0 Lollipop,2015,2900.0,Qualcomm Snapdragon 615,2.0,16.0,5.0,16.0
+realme,7,Android 10,2020,5000.0,MediaTek Helio G95,4.0,64.0,6.5,48.0
+realme,7 Pro,Android 10,2020,4500.0,Qualcomm Snapdragon 720G,8.0,128.0,6.4,64.0
+realme,8,Android 11,2021,5000.0, MediaTek Helio G95,4.0,128.0,6.4,64.0
+realme,8 5G,Android 11,2021,5000.0,MediaTek Dimensity 700,4.0,128.0,6.5,48.0
+realme,C11,Android 10,2020,5000.0,MediaTek Helio G35,2.0,32.0,6.5,13.0
+realme,GT 2,Android 12,2022,5000.0,Qualcomm Snapdragon 888,8.0,128.0,6.6,50.0
+realme,GT 5G,Android 11,2021,4500.0,Qualcomm Snapdragon 888,8.0,128.0,6.4,64.0
+realme,GT2 Pro,Android 12,2022,5000.0,Qualcomm Snapdragon 8 Gen 1 ,8.0,128.0,6.7,50.0
+realme,X3 SuperZoom,Android 10,2020,4200.0,Qualcomm Snapdragon 855+,8.0,128.0,6.6,64.0
+realme,X50 5G,Android 10,2020,4200.0,Qualcomm Snapdragon 765G 5G,6.0,128.0,6.6,48.0
+realme,X50 Pro 5G,Android 10,2020,4200.0,Qualcomm Snapdragon 865,6.0,128.0,6.4,64.0
+vivo,NEX,Android 9.0 Pie,2018,4000.0,Qualcomm Snapdragon 845,8.0,128.0,6.6,12.0
+vivo,NEX 3,Android 9.0 Pie,2019,4500.0,Qualcomm Snapdragon 855+,8.0,256.0,6.9,64.0
+vivo,V11 Pro,Android 8.1 Oreo,2018,3400.0,Qualcomm Snapdragon 660,6.0,64.0,6.4,12.0
+vivo,V15 Pro,Android 9.0 Pie,2019,3700.0,Qualcomm Snapdragon 675,6.0,128.0,6.4,48.0
+vivo,V17,Android 9.0 Pie,2019,4500.0,Qualcomm Snapdragon 675,8.0,128.0,6.4,48.0
+vivo,V17 Pro,Android 9.0 Pie,2019,4100.0,Qualcomm Snapdragon 675,8.0,128.0,6.4,48.0
+vivo,X Fold,Android 12,2022,4600.0,Qualcomm Snapdragon 8 Gen 1,12.0,256.0,8.0,50.0
+vivo,X21,Android 8.1 Oreo,2018,3200.0,Qualcomm Snapdragon 660,6.0,128.0,6.3,12.0
+vivo,X5 Max,Android 4.4.4,2014,2300.0,Qualcomm Snapdragon 615,2.0,16.0,5.5,13.0
+vivo,X50,Android 10,2020,4200.0,Qualcomm Snapdragon 765G,8.0,128.0,6.6,48.0
+vivo,X50 Pro,Android 10,2020,4315.0,Qualcomm Snapdragon 765G,8.0,256.0,6.6,48.0
+vivo,X5Pro,Android 5.0 Lollipop,2015,2450.0,Qualcomm Snapdragon 615,2.0,16.0,5.2,13.0
+vivo,X60,Android 11,2021,4300.0,Qualcomm Snapdragon 870,8.0,128.0,6.6,48.0
+vivo,X60 Pro,Android 11,2021,4200.0,Qualcomm Snapdragon 870,12.0,256.0,6.6,48.0
+vivo,X70,Android 11,2021,4400.0,MediaTek Dimensity 1200,8.0,128.0,6.6,40.0
