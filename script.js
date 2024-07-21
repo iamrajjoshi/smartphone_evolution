@@ -237,6 +237,8 @@ d3.csv("cleaned_dataset.csv").then(function(data) {
             d3.select(`#${scene}Btn`).classed("active", true);
             currentSceneIndex = sceneOrder.indexOf(scene);
             if (scene === 'all') {
+                const s = scenes[scene];
+                showScene(s.feature, s.color, s.yLabel, s.title, s.explanation);
                 showAll();
                 d3.select("#brandFilter").property("disabled", true);
             } else {
