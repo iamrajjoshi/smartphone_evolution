@@ -105,8 +105,11 @@ d3.csv("cleaned_dataset.csv").then(function(data) {
         if (filteredData.length > 0) {
             const maxValue = d3.max(filteredData, d => d[feature]);
             const maxValuePhone = filteredData.find(d => d[feature] === maxValue);
+            const featureLabel = (feature == "Battery" ? "Battery Capacity" : feature == "Primary_Camera" ? "Camera Resolution" : feature == "Memory" || feature == "Primary_Storage" ? feature + " Capacity" : "").replace("_", " ");
+            const units = feature === "Battery" ? "mAh" : feature === "Primary_Camera" ? "MP" : feature === "Memory" || feature === "Primary_Storage" ? "GB" : "";
+            
             addAnnotation(maxValuePhone.Release_Date, maxValue, 
-                `Highest ${feature}: ${maxValue}`, `${maxValuePhone.Brand} ${maxValuePhone.Model}`);
+                `Highest ${featureLabel}: ${maxValue} ${units}`, `${maxValuePhone.Brand} ${maxValuePhone.Model}`);
         }
     }
 
@@ -131,8 +134,8 @@ d3.csv("cleaned_dataset.csv").then(function(data) {
 
     function addAnnotation(x, y, label, title) {
         svg.selectAll(".annotation").remove();
-        let dx = 30;
-        let dy = -30;
+        let dx = 50;
+        let dy = -50;
     
         // Check if annotation would go out of bounds and adjust if necessary
         if (xScale(x) + dx > width) dx = -dx;
@@ -154,33 +157,106 @@ d3.csv("cleaned_dataset.csv").then(function(data) {
             .call(makeAnnotations);
     }
 
+    // function showAll() {
+    //     const phonesByYear = d3.rollup(data, v => v.length, d => d.Release_Date);
+    //     const allData = Array.from(phonesByYear, ([year, count]) => ({year, count})).sort((a, b) => a.year - b.year);
+
+    //     xScale.domain(d3.extent(allData, d => d.year));
+    //     yScale.domain([0, d3.max(allData, d => d.count)]);
+
+    //     svg.select(".x-axis").call(xAxis);
+    //     svg.select(".y-axis").call(yAxis);
+
+    //     // Remove existing elements
+    //     svg.selectAll("circle").remove();
+    //     svg.selectAll("path").remove();
+
+    //     const line = d3.line()
+    //         .x(d => xScale(d.year))
+    //         .y(d => yScale(d.count));
+
+    //     svg.append("path")
+    //         .datum(allData)
+    //         .attr("fill", "none")
+    //         .attr("stroke", "steelblue")
+    //         .attr("stroke-width", 2)
+    //         .attr("d", line);
+
+    //     updateLabels("Release Year", "Number of Phones Released");
+
+    //     // Add annotation for the peak year
+    //     const maxCount = d3.max(allData, d => d.count);
+    //     const peakYear = allData.find(d => d.count === maxCount);
+    //     addAnnotation(peakYear.year, maxCount, 
+    //         `Peak releases: ${maxCount} phones`, `Year ${peakYear.year}`);
+    // }
+
     function showAll() {
         const phonesByYear = d3.rollup(data, v => v.length, d => d.Release_Date);
         const allData = Array.from(phonesByYear, ([year, count]) => ({year, count})).sort((a, b) => a.year - b.year);
-
+    
+        // Calculate top 3 companies for each year
+        allData.forEach(d => {
+            const yearData = data.filter(phone => phone.Release_Date === d.year);
+            const companyReleases = d3.rollup(yearData, v => v.length, d => d.Brand);
+            const sortedCompanies = Array.from(companyReleases, ([brand, count]) => ({brand, count}))
+                .sort((a, b) => b.count - a.count);
+            d.topCompanies = sortedCompanies.slice(0, 3);
+        });
+    
         xScale.domain(d3.extent(allData, d => d.year));
         yScale.domain([0, d3.max(allData, d => d.count)]);
-
+    
         svg.select(".x-axis").call(xAxis);
         svg.select(".y-axis").call(yAxis);
-
+    
         // Remove existing elements
         svg.selectAll("circle").remove();
         svg.selectAll("path").remove();
-
+    
         const line = d3.line()
             .x(d => xScale(d.year))
             .y(d => yScale(d.count));
-
+    
         svg.append("path")
             .datum(allData)
             .attr("fill", "none")
             .attr("stroke", "steelblue")
             .attr("stroke-width", 2)
             .attr("d", line);
-
+    
+        // Add circles for each data point
+        svg.selectAll(".dot")
+            .data(allData)
+            .enter().append("circle")
+            .attr("class", "dot")
+            .attr("cx", d => xScale(d.year))
+            .attr("cy", d => yScale(d.count))
+            .attr("r", 5)
+            .attr("fill", "steelblue")
+            .on("mouseover", (event, d) => {
+                let topCompaniesHtml = d.topCompanies.map((company, index) => 
+                    `${index + 1}. ${company.brand} (${company.count})`
+                ).join('<br>');
+                
+                tooltip.transition()
+                    .duration(200)
+                    .style("opacity", .9);
+                tooltip.html(`Year: ${d.year}<br>
+                            Total Phones: ${d.count}<br>
+                            Top Companies:<br>
+                            ${topCompaniesHtml}`)
+                    .style("left", (event.pageX + 5) + "px")
+                    .style("top", (event.pageY - 28) + "px");
+            })
+            .on("mouseout", () => {
+                tooltip.transition()
+                    .duration(500)
+                    .style("opacity", 0);
+            });
+    
         updateLabels("Release Year", "Number of Phones Released");
-
+    
         // Add annotation for the peak year
         const maxCount = d3.max(allData, d => d.count);
         const peakYear = allData.find(d => d.count === maxCount);
