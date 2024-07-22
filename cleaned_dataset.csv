@@ -97,41 +97,6 @@ Alcatel,Streak,Android 6.0 Marshmallow,2016,1780.0,Qualcomm Snapdragon 210,1.0,8
 Alcatel,Tru,Android 5.0 Lollipop,2016,2000.0,Qualcomm Snapdragon 210,1.0,8.0,5.0,5.0
 Alcatel,U5,Android 6.0 Marshmallow,2017,2050.0,MediaTek,1.0,8.0,5.0,5.0
 Alcatel,Verso,Android 7.0 Nougat,2018,2050.0,Qualcomm Snapdragon 210,2.0,16.0,5.0,5.0
-Apple,iPhone,iOS 3.x,2007,1400.0,,0.1,16.0,3.5,2.0
-Apple,iPhone 11,iOS 15.x,2019,3110.0,Apple A13 Bionic,4.0,64.0,6.1,12.0
-Apple,iPhone 11 Pro,iOS 15.x,2019,3046.0,Apple A13 Bionic,4.0,64.0,5.8,12.0
-Apple,iPhone 11 Pro Max,iOS 15.x,2019,3969.0,Apple A13 Bionic,4.0,64.0,6.5,12.0
-Apple,iPhone 12,iOS 15.x,2020,2815.0,Apple A14 Bionic,4.0,64.0,6.1,12.0
-Apple,iPhone 12 Pro,iOS 15.x,2020,2815.0,Apple A14 Bionic,6.0,128.0,6.1,12.0
-Apple,iPhone 12 Pro Max,iOS 15.x,2020,3687.0,Apple A14 Bionic,6.0,128.0,6.7,12.0
-Apple,iPhone 12 mini,iOS 15.x,2020,2227.0,Apple A14 Bionic,4.0,64.0,5.4,12.0
-Apple,iPhone 13,iOS 15.x,2021,3227.0,Apple A15 Bionic,4.0,128.0,6.1,12.0
-Apple,iPhone 13 Pro,iOS 15.x,2021,3095.0,Apple A15 Bionic,6.0,128.0,6.1,12.0
-Apple,iPhone 13 Pro Max,iOS 15.x,2021,4352.0,Apple A15 Bionic,6.0,128.0,6.7,12.0
-Apple,iPhone 13 mini,iOS 15.x,2021,2406.0,Apple A15 Bionic,4.0,128.0,5.4,12.0
-Apple,iPhone 3G,iOS 4.x,2008,1150.0,,0.1,16.0,3.5,2.0
-Apple,iPhone 3GS,iOS 6.1,2009,1219.0,,0.25,32.0,3.5,3.0
-Apple,iPhone 4,iOS 7.x,2010,1420.0,Apple A4,0.5,32.0,3.5,5.0
-Apple,iPhone 4 Verizon,iOS 7.x,2011,1420.0,Apple A4,0.5,32.0,3.5,5.0
-Apple,iPhone 4s,iOS 9.x,2011,,Apple A5,0.5,64.0,3.5,8.0
-Apple,iPhone 5,iOS 10.x,2012,1440.0,Apple A6,1.0,64.0,4.0,8.0
-Apple,iPhone 5c,iOS 10.x,2013,1507.0,Apple A6,1.0,32.0,4.0,8.0
-Apple,iPhone 5s,iOS 12.x,2013,1570.0,Apple A7,1.0,64.0,4.0,8.0
-Apple,iPhone 6,iOS 12.x,2014,1810.0,Apple A8,1.0,128.0,,8.0
-Apple,iPhone 6 Plus,iOS 12.x,2014,2915.0,Apple A8,1.0,128.0,5.5,8.0
-Apple,iPhone 6s,iOS 15.x,2015,1715.0,Apple A9 APL0898,2.0,128.0,4.7,12.0
-Apple,iPhone 6s Plus,iOS 15.x,2015,2750.0,Apple A9,2.0,128.0,5.5,12.0
-Apple,iPhone 7,iOS 15.x,2016,1960.0,Apple A10 Fusion,2.0,256.0,4.7,12.0
-Apple,iPhone 7 Plus,iOS 15.x,2016,2900.0,Apple A10 Fusion,3.0,256.0,5.5,12.0
-Apple,iPhone 8,iOS 15.x,2017,1821.0,Apple A11 Bionic,2.0,256.0,4.7,12.0
-Apple,iPhone 8 Plus,iOS 15.x,2017,2691.0,Apple A11 Bionic,3.0,256.0,5.5,12.0
-Apple,iPhone SE,iOS 14.x,2016,1624.0,,,128.0,4.0,12.0
-Apple,iPhone SE (2020),iOS 15.x,2020,1821.0,Apple A13 Bionic,3.0,64.0,4.7,12.0
-Apple,iPhone SE (2022),iOS 15.x,2022,2018.0,Apple A15 Bionic,4.0,64.0,4.7,12.0
-Apple,iPhone X,iOS 15.x,2017,2716.0,Apple A11 Bionic,3.0,256.0,5.8,12.0
-Apple,iPhone XR,iOS 15.x,2018,2942.0,Apple A12 Bionic,3.0,64.0,6.1,12.0
-Apple,iPhone XS,iOS 15.x,2018,2659.0,Apple A12 Bionic,4.0,64.0,5.8,12.0
-Apple,iPhone XS Max,iOS 15.x,2018,3179.0,Apple A12 Bionic,4.0,64.0,6.5,12.0
 Asus,P835,Windows Mobile Professional 6.1,2009,1100.0,Qualcomm MSM7201A,0.3,4.0,3.5,5.0
 Asus,ROG Phone,Android 9.0 Pie,2018,4000.0,Qualcomm Snapdragon 845,8.0,512.0,6.0,12.0
 Asus,ROG Phone 3 Strix Edition,Android 10,2020,6000.0,Qualcomm Snapdragon 865+,8.0,256.0,6.6,64.0
@@ -1505,7 +1470,6 @@ Samsung,Galaxy S Relay 4G,Android 4.0,2012,1800.0,Qualcomm Snapdragon S4 Plus,1.
 Samsung,Galaxy S10,Android 11,2019,3400.0,Qualcomm Snapdragon 855,8.0,128.0,6.1,12.0
 Samsung,Galaxy S10 5G,Android 12,2019,4500.0,Qualcomm Snapdragon 855,8.0,256.0,6.7,12.0
 Samsung,Galaxy S10 Lite,Android 11,2020,4500.0,Qualcomm Snapdragon 855,8.0,128.0,6.7,48.0
-Samsung,Galaxy S10+,Android 11,2019,4100.0,Qualcomm Snapdragon 855,8.0,128.0,6.4,12.0
 Samsung,Galaxy S10e,Android 11,2019,3100.0,Qualcomm Snapdragon 855,6.0,128.0,5.8,12.0
 Samsung,Galaxy S20,Android 11,2020,4000.0,Qualcomm Snapdragon 865,12.0,128.0,6.2,12.0
 Samsung,Galaxy S20 FE,Android 11,2020,4500.0,Qualcomm Snapdragon 865,6.0,128.0,6.5,12.0
@@ -2031,3 +1995,39 @@ vivo,X5Pro,Android 5.0 Lollipop,2015,2450.0,Qualcomm Snapdragon 615,2.0,16.0,5.2
 vivo,X60,Android 11,2021,4300.0,Qualcomm Snapdragon 870,8.0,128.0,6.6,48.0
 vivo,X60 Pro,Android 11,2021,4200.0,Qualcomm Snapdragon 870,12.0,256.0,6.6,48.0
 vivo,X70,Android 11,2021,4400.0,MediaTek Dimensity 1200,8.0,128.0,6.6,40.0
+Samsung,Galaxy S10+,Android 11,2019,4100.0,Qualcomm Snapdragon 855,8.0,128.0,6.4,12.0
+Apple,iPhone,iOS 3.x,2007,1400.0,,0.1,16.0,3.5,2.0
+Apple,iPhone 11,iOS 15.x,2019,3110.0,Apple A13 Bionic,4.0,64.0,6.1,12.0
+Apple,iPhone 11 Pro,iOS 15.x,2019,3046.0,Apple A13 Bionic,4.0,64.0,5.8,12.0
+Apple,iPhone 11 Pro Max,iOS 15.x,2019,3969.0,Apple A13 Bionic,4.0,64.0,6.5,12.0
+Apple,iPhone 12,iOS 15.x,2020,2815.0,Apple A14 Bionic,4.0,64.0,6.1,12.0
+Apple,iPhone 12 Pro,iOS 15.x,2020,2815.0,Apple A14 Bionic,6.0,128.0,6.1,12.0
+Apple,iPhone 12 Pro Max,iOS 15.x,2020,3687.0,Apple A14 Bionic,6.0,128.0,6.7,12.0
+Apple,iPhone 12 mini,iOS 15.x,2020,2227.0,Apple A14 Bionic,4.0,64.0,5.4,12.0
+Apple,iPhone 13,iOS 15.x,2021,3227.0,Apple A15 Bionic,4.0,128.0,6.1,12.0
+Apple,iPhone 13 Pro,iOS 15.x,2021,3095.0,Apple A15 Bionic,6.0,128.0,6.1,12.0
+Apple,iPhone 13 Pro Max,iOS 15.x,2021,4352.0,Apple A15 Bionic,6.0,128.0,6.7,12.0
+Apple,iPhone 13 mini,iOS 15.x,2021,2406.0,Apple A15 Bionic,4.0,128.0,5.4,12.0
+Apple,iPhone 3G,iOS 4.x,2008,1150.0,,0.1,16.0,3.5,2.0
+Apple,iPhone 3GS,iOS 6.1,2009,1219.0,,0.25,32.0,3.5,3.0
+Apple,iPhone 4,iOS 7.x,2010,1420.0,Apple A4,0.5,32.0,3.5,5.0
+Apple,iPhone 4 Verizon,iOS 7.x,2011,1420.0,Apple A4,0.5,32.0,3.5,5.0
+Apple,iPhone 4s,iOS 9.x,2011,,Apple A5,0.5,64.0,3.5,8.0
+Apple,iPhone 5,iOS 10.x,2012,1440.0,Apple A6,1.0,64.0,4.0,8.0
+Apple,iPhone 5c,iOS 10.x,2013,1507.0,Apple A6,1.0,32.0,4.0,8.0
+Apple,iPhone 5s,iOS 12.x,2013,1570.0,Apple A7,1.0,64.0,4.0,8.0
+Apple,iPhone 6,iOS 12.x,2014,1810.0,Apple A8,1.0,128.0,,8.0
+Apple,iPhone 6 Plus,iOS 12.x,2014,2915.0,Apple A8,1.0,128.0,5.5,8.0
+Apple,iPhone 6s,iOS 15.x,2015,1715.0,Apple A9 APL0898,2.0,128.0,4.7,12.0
+Apple,iPhone 6s Plus,iOS 15.x,2015,2750.0,Apple A9,2.0,128.0,5.5,12.0
+Apple,iPhone 7,iOS 15.x,2016,1960.0,Apple A10 Fusion,2.0,256.0,4.7,12.0
+Apple,iPhone 7 Plus,iOS 15.x,2016,2900.0,Apple A10 Fusion,3.0,256.0,5.5,12.0
+Apple,iPhone 8,iOS 15.x,2017,1821.0,Apple A11 Bionic,2.0,256.0,4.7,12.0
+Apple,iPhone 8 Plus,iOS 15.x,2017,2691.0,Apple A11 Bionic,3.0,256.0,5.5,12.0
+Apple,iPhone SE,iOS 14.x,2016,1624.0,,,128.0,4.0,12.0
+Apple,iPhone SE (2020),iOS 15.x,2020,1821.0,Apple A13 Bionic,3.0,64.0,4.7,12.0
+Apple,iPhone SE (2022),iOS 15.x,2022,2018.0,Apple A15 Bionic,4.0,64.0,4.7,12.0
+Apple,iPhone X,iOS 15.x,2017,2716.0,Apple A11 Bionic,3.0,256.0,5.8,12.0
+Apple,iPhone XR,iOS 15.x,2018,2942.0,Apple A12 Bionic,3.0,64.0,6.1,12.0
+Apple,iPhone XS,iOS 15.x,2018,2659.0,Apple A12 Bionic,4.0,64.0,5.8,12.0
+Apple,iPhone XS Max,iOS 15.x,2018,3179.0,Apple A12 Bionic,4.0,512.0,6.5,12.0

@@ -52,6 +52,23 @@ d3.csv("cleaned_dataset.csv").then(function(data) {
         .attr("class", "tooltip")
         .style("opacity", 0);
 
+    const keyMilestones = {
+        Battery: [
+            { year: 2016, value: 3500, label: "Samsung Galaxy S7 Edge", description: "3500 mAh battery, new standard for flagships", dx: -50, dy: -25 },
+            { year: 2022, value: 8380, label: "Blackview BL8800", description: "Impressive 8380 mAh capacity, which was a massive increase at the time ", dx: 100, dy: 10 }
+        ],
+        Memory: [
+            { year: 2019, value: 8, label: "Samsung Galaxy S10+", description: "8GB RAM becomes common in high-end devices", dx: -75, dy: -25 },
+            { year: 2021, value: 18, label: "Asus ROG Phone 5 Ultimate", description: "Pushing boundaries with 18GB RAM", dx: 50, dy: -25 }
+        ],
+        Primary_Storage: [
+            { year: 2018, value: 512, label: "iPhone XS Max", description: "Introduces 512GB storage option, finally matching Samsung offerings", dx: 50, dy: -25 },
+        ],
+        Primary_Camera: [
+            { year: 2020, value: 108, label: "Xiaomi Mi Note 10", description: "First 108MP smartphone camera, something that Samsung has now achieved", dx: -25, dy: -25 },
+        ]
+    };
+
     function updateChart(feature, color, yLabel) {
         const selectedBrand = d3.select("#brandFilter").property("value");
         const filteredData = selectedBrand === 'All' 
@@ -104,21 +121,13 @@ d3.csv("cleaned_dataset.csv").then(function(data) {
         circles.exit().remove();
     
         updateLabels("Release Year", yLabel);
-    
-        // Add annotation for the highest value
-        if (filteredData.length > 0) {
-            const maxValue = d3.max(filteredData, d => d[feature]);
-            const maxValuePhone = filteredData.find(d => d[feature] === maxValue);
-            
-            addAnnotation(maxValuePhone.Release_Date, maxValue, 
-                `Highest ${featureLabel}: ${maxValue} ${units}`, `${maxValuePhone.Brand} ${maxValuePhone.Model}`);
-        }
-    
-        // Add annotation for major release
-        const majorRelease = majorReleases[feature];
-        if (majorRelease) {
-            addAnnotation(majorRelease.year, majorRelease.value,
-                majorRelease.description, majorRelease.label, -50, 50);
+
+        // Add annotations for key milestones
+        if (keyMilestones[feature]) {
+            keyMilestones[feature].forEach(milestone => {
+                addAnnotation(milestone.year, milestone.value, 
+                    milestone.description, milestone.label, milestone.dx, milestone.dy);
+            });
         }
     }
 
@@ -141,7 +150,7 @@ d3.csv("cleaned_dataset.csv").then(function(data) {
             .text(yLabel);
     }
 
-    function addAnnotation(x, y, label, title, dx = 50, dy = -50) {
+    function addAnnotation(x, y, label, title, dx = 50, dy = -50, circle = false) {
         let adjustedDx = dx;
         let adjustedDy = dy;
     
@@ -154,7 +163,9 @@ d3.csv("cleaned_dataset.csv").then(function(data) {
             x: xScale(x),
             y: yScale(y),
             dy: adjustedDy,
-            dx: adjustedDx
+            dx: adjustedDx,
+            type: circle ? d3.annotationCalloutCircle : d3.annotationCallout,
+            subject: circle ? { radius: 150 } : {}
         }];
     
         const makeAnnotations = d3.annotation()
@@ -187,7 +198,7 @@ d3.csv("cleaned_dataset.csv").then(function(data) {
         // Remove existing elements
         svg.selectAll("circle").remove();
         svg.selectAll("path").remove();
-        svg.selectAll(".annotation").remove();  // Remove all existing annotations
+        svg.selectAll(".annotation").remove();
     
         const line = d3.line()
             .x(d => xScale(d.year))
@@ -237,6 +248,11 @@ d3.csv("cleaned_dataset.csv").then(function(data) {
         const peakYear = allData.find(d => d.count === maxCount);
         addAnnotation(peakYear.year, maxCount, 
             `Peak releases: ${maxCount} phones`, `Year ${peakYear.year}`);
+        
+        // Add annotation for overall trend
+        addAnnotation(2016, 250, 
+            "Steady increase in smartphone releases with the rise of new brands and models and better technology", 
+            "Market Growth", -200, 0, true);
     }
     
     function showScene(feature, color, yLabel, title, explanation) {
@@ -279,13 +295,6 @@ d3.csv("cleaned_dataset.csv").then(function(data) {
             title: "Number of Phones Released Per Year",
             explanation: "This line graph shows the trend in smartphone releases over the years, indicating the overall growth of the smartphone market."
         }
-    };
-
-    const majorReleases = {
-        Battery: { year: 2016, value: 3500, label: "Samsung Galaxy S7 Edge", description: "Large 3500 mAh battery" },
-        Memory: { year: 2019, value: 12, label: "Samsung Galaxy S10+", description: "12GB RAM became common" },
-        Primary_Storage: { year: 2018, value: 512, label: "iPhone XS Max", description: "First 512GB iPhone" },
-        Primary_Camera: { year: 2019, value: 108, label: "Xiaomi Mi Note 10", description: "First 108MP smartphone camera" }
     };
 
     // Event listeners for buttons
@@ -352,4 +361,3 @@ document.getElementById("nextBtn").addEventListener("click", () => {
 });
 
 document.getElementById("prevBtn").disabled = true; // Initial scene
-
